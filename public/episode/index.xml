@@ -1,0 +1,64 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
+  <channel>
+    <title>XenoThesis</title>
+    <atom:link href="/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+    <description></description>
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 &#43;0000</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>en-uk</language>
+    <copyright>Copyright 2020 Richard J. Acton &amp; Michael Glinka</copyright>
+    <itunes:subtitle>...</itunes:subtitle>
+    <itunes:author>xenothesis podcast</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>xenothesis podcast</googleplay:author>
+    <googleplay:email>xenothesis@gmail.com</googleplay:email>
+    <itunes:summary></itunes:summary>
+    <googleplay:description></googleplay:description>
+    <itunes:owner>
+      <itunes:name>xenothesis podcast</itunes:name>
+      <itunes:email>xenothesis@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.xenothesis.com/img/Thumbnail.png" />
+    <googleplay:image href="https://www.xenothesis.com/img/Thumbnail.png"></googleplay:image>
+    <image>
+      <url>https://www.xenothesis.com/img/Thumbnail.png</url>
+      <title>XenoThesis</title>
+      <link>/</link>
+    </image>
+    <itunes:category text="Arts">
+      <itunes:category text="Books" /></itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Test</title>
+          <link>/00-test/</link>
+          <pubDate>Mon, 30 Mar 2020 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://archive.org/download/00test_202003/00-test.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>00</itunes:episode>
+          
+        <itunes:summary>Test</itunes:summary>
+        <description>Test</description>
+        <googleplay:description>Test</googleplay:description>
+        <content:encoded><![CDATA[<p>Test audio</p>
+]]></content:encoded><itunes:image href="/img/episode/Thumbnail.png"></itunes:image>
+          <googleplay:image href="/img/episode/Thumbnail.png"></googleplay:image><enclosure url="https://archive.org/download/00test_202003/00-test.mp3"  type="audio/mpeg" /><itunes:duration>1:08:22</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item></channel>
+</rss>

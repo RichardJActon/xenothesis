@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XenoThesis</title>
+    <link>/</link>
+    <description>Recent content on XenoThesis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 27 Apr 2017 15:19:36 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>XenoThesis The XenoThesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&amp;rsquo;s, Xenogenesis trilogy AKA lileth&amp;rsquo;s Brood</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/00-test/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/00-test/</guid>
+      <description>Test audio</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 27 Apr 2017 15:19:36 -0500</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>xenothesis@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>/books/</link>
+      <pubDate>Thu, 27 Apr 2017 15:18:55 -0500</pubDate>
+      
+      <guid>/books/</guid>
+      <description>Dawn Blurb In a world devastated by nuclear war with humanity on the edge of extinction, aliens finally make contact. They rescue those humans they can, keeping most survivors in suspended animation and begin the slow process of rehabilitating the planet.
+When Lilith Iyapo is ‘awakened’, she finds that she has been chosen to revive her fellow humans in small groups by first preparing them to meet the utterly terrifying Oankali, then training them to survive on the wilderness that the planet has become.</description>
+    </item>
+    
+    <item>
+      <title>Michael Glinka</title>
+      <link>/host/michaelglinka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/host/michaelglinka/</guid>
+      <description>A Human</description>
+    </item>
+    
+    <item>
+      <title>Richard J. Acton</title>
+      <link>/host/richardjacton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/host/richardjacton/</guid>
+      <description>A Human - for now.</description>
+    </item>
+    
+  </channel>
+</rss>

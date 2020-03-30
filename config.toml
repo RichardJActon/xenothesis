@@ -1,0 +1,117 @@
+baseurl = "https://xenothesis.com/"
+languageCode = "en-uk"
+title = "XenoThesis"
+theme = "castanet"
+googleAnalytics = ""
+paginate = "9"
+
+[permalinks]
+	# page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+
+# The theme supports menus with up to one submenu per menu item
+# The menu name must be "Main"
+# The menus are sorted based upon their identifier
+[[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "/about"
+
+[[Menu.Main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact"
+
+[[Menu.Main]]
+    name = "Hosts"
+    identifier = "hosts"
+    url = "/host"
+
+# [[Menu.Main]]
+#     name = "Guests"
+#     identifier = "guests"
+#     url = "/guest"
+
+[[Menu.Main]]
+    name = "Books"
+    identifier = "books"
+    url = "/books"
+
+[params]
+mainSections = ["episode"]
+site_theme = "grey"
+# site_layout = "grid"
+site_layout = "row"
+enable_jumbo = "true"
+# enable_jumbo = "false"
+# truncate = "100"
+about_logo = "/img/xenothesis-logo.png"
+copyright_notice = "Copyright 2020 Richard J. Acton & Michael Glinka"
+#itunes_subscribe = "http://itunes.apple.com/us/podcast/..."
+#android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/..."
+#spotify_subscribe = "https://open.spotify.com/show/..."
+#google_play_subscribe = "..."
+#stitcher_subscribe = "http://www.stitcher.com/podcast/..."
+#soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:.../sounds.rss"
+#pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:.../sounds.rss"
+#mailchimp_subscribe = ""
+#rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
+description = "The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler's, Xenogenesis trilogy AKA lileth's Brood"
+media_prefix = "https://archive.org/download/"
+disqusShortname = "xenothesis"
+  [params.feed]
+    copyright = "Copyright 2020 Richard J. Acton & Michael Glinka" #do not use markdown in this field; it is used in the feed
+    itunes_subtitle = "..." #no markdown or HTML
+    itunes_author = "xenothesis podcast" #no markdown or HTML
+    itunes_summary = "" # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "xenothesis podcast"
+    itunes_owner_email = "xenothesis@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://www.xenothesis.com/img/Thumbnail.png" #fqdn to the image art for your podcast
+    itunes_top_category = "Arts"
+    itunes_first_sub_category = "Books"
+    #itunes_second_sub_category = "Tech News"
+    language = "en-uk"
+
+#   [params.podlove] # https://subscribe-button.podlove.org
+#     subscribe_title = ""              # fallback: site title from above
+#     subscribe_subtitle = ""           # fallback: ""
+#     subscribe_description = ""        # fallback: ""
+#     subscribe_cover = "img/logo.jpg"  # fallback: ""
+#     subscribe_color = "#585e6c"       # fallback: ""
+#     subscribe_size = "medium"         # options: small, medium, big
+#     subscribe_format = "rectangle"    # options: rectangle, square, cover
+#     subscribe_style = "filled"        # options: filled, outline, frameless
+#     subscribe_language = "en"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
+#     subscribe_feed_type = "audio"     # options: audio, video
+#     subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
+
+  [params.social]
+    #facebook = "XenoThesis"
+    #facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
+    twitter = "ThesisXeno"
+    twitter_domain = "xenothesis.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+    youtube = ""
+
+  [params.authors]
+    [params.authors.Richard]
+      name = "Richard J. Acton"
+      thumbnail = "img/host/richard.png"
+      bio = "A Human - for now"
+      [params.authors.Richard.social]
+        github = "RichardJActon"
+        homepage = "https://richardjacton.github.io/"
+    [params.authors.Michael]
+      name = "Michael Glinka"
+      thumbnail = ""
+      bio = "A Human"
+        [params.authors.Michael.social]
+          twitter = ""
+
+    [params.links]
+      [params.links.wgw]
+        name = "We've Got Worm"
+        url = "https://www.doofmedia.com/weve-got-worm/"
+      [params.links.wwmor]
+        name = "We Want MOR"
+        url = "https://www.doofmedia.com/we-want-mor/"
