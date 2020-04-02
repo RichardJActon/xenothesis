@@ -1,7 +1,7 @@
 ---
 GitHub: ""
 Pronouns: ""
-Thumbnail: ""
+Thumbnail: "img/host/michael.png"
 Title: Michael Glinka
 Twitter: ""
 Type: host

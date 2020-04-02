@@ -103,7 +103,7 @@ disqusShortname = "xenothesis"
         homepage = "https://richardjacton.github.io/"
     [params.authors.Michael]
       name = "Michael Glinka"
-      thumbnail = ""
+      thumbnail = "img/host/michael.png"
       bio = "A Human"
         [params.authors.Michael.social]
           twitter = ""
