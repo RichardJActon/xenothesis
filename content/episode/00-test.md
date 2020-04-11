@@ -15,8 +15,8 @@ hosts:
 images:
 - img/episode/Thumbnail.png
 news_keywords: []
-podcast_bytes: ""
-podcast_duration: "1:08:22"
+podcast_bytes: "66856"
+podcast_duration: "00:00:05"
 podcast_file: 00test_202003/00-test.mp3
 tags: []
 title: Test

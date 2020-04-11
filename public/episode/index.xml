@@ -59,6 +59,6 @@
         <googleplay:description>Test</googleplay:description>
         <content:encoded><![CDATA[<p>Test audio</p>
 ]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/Thumbnail.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/Thumbnail.png"></googleplay:image><enclosure url="https://archive.org/download/00test_202003/00-test.mp3"  type="audio/mpeg" /><itunes:duration>1:08:22</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/Thumbnail.png"></googleplay:image><enclosure url="https://archive.org/download/00test_202003/00-test.mp3" length="66856" type="audio/mpeg" /><itunes:duration>00:00:05</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item></channel>
 </rss>
