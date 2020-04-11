@@ -91,7 +91,7 @@ disqusShortname = "xenothesis"
     #facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
     twitter = "ThesisXeno"
     twitter_domain = "xenothesis.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    youtube = "UC0e_EgdMVZlIA3R6OXQKivQ"
+    youtube = "channel/UC0e_EgdMVZlIA3R6OXQKivQ"
 
   [params.authors]
     [params.authors.Richard]
@@ -108,10 +108,10 @@ disqusShortname = "xenothesis"
         [params.authors.Michael.social]
           twitter = ""
 
-    [params.links]
-      [params.links.wgw]
-        name = "We've Got Worm"
-        url = "https://www.doofmedia.com/weve-got-worm/"
-      [params.links.wwmor]
-        name = "We Want MOR"
-        url = "https://www.doofmedia.com/we-want-mor/"
+  [params.links]
+    [params.links.wgw]
+      name = "We've Got Worm"
+      url = "https://www.doofmedia.com/weve-got-worm/"
+    [params.links.wwmor]
+      name = "We Want MOR"
+      url = "https://www.doofmedia.com/we-want-mor/"
