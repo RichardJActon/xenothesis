@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -39,6 +39,28 @@
     </image>
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode1: Xenogenesis - Dawn: 1. Womb - Chapters 1 and 2</title>
+          <link>https://www.xenothesis.com/01-xenogenesis-dawn-womb-ch1-2/</link>
+          <pubDate>Sat, 11 Apr 2020 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://archive.org/download/01_xenogenesis_dawn_womb_ch1-2/01_Xenogenesis_Dawn_Womb_ch1-2.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>01</itunes:episode>
+          
+        <itunes:summary>XenoThesis - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 “Dawn” of Xenogenesis series by Olivia E. Butler. Episode 1 - Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.</itunes:summary>
+        <description>XenoThesis - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 “Dawn” of Xenogenesis series by Olivia E. Butler. Episode 1 - Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.</description>
+        <googleplay:description>XenoThesis - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 “Dawn” of Xenogenesis series by Olivia E. Butler. Episode 1 - Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.</googleplay:description>
+        <content:encoded><![CDATA[<p>XenoThesis - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 “Dawn” of Xenogenesis series by Olivia E. Butler. Episode 1 - Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/Thumbnail.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/Thumbnail.png"></googleplay:image><enclosure url="https://archive.org/download/01_xenogenesis_dawn_womb_ch1-2/01_Xenogenesis_Dawn_Womb_ch1-2.mp3" length="122274466" type="audio/mpeg" /><itunes:duration>01:20:59</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Test</title>
           <link>https://www.xenothesis.com/00-test/</link>
