@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guests of HugoCast on XenoThesis</title>
-    <link>/guest/</link>
+    <link>https://www.xenothesis.com/guest/</link>
     <description>Recent content in Guests of HugoCast on XenoThesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
     
-	<atom:link href="/guest/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.xenothesis.com/guest/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

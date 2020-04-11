@@ -11,8 +11,8 @@
     >
   <channel>
     <title>XenoThesis</title>
-    <atom:link href="/episode/index.xml" rel="self" type="application/rss+xml" />
-    <link>/</link>
+    <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.xenothesis.com/</link>
     <description></description>
     <lastBuildDate>Mon, 30 Mar 2020 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -35,13 +35,13 @@
     <image>
       <url>https://www.xenothesis.com/img/Thumbnail.png</url>
       <title>XenoThesis</title>
-      <link>/</link>
+      <link>https://www.xenothesis.com/</link>
     </image>
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><generator>Hugo -- gohugo.io</generator>
         <item>
           <title>Test</title>
-          <link>/00-test/</link>
+          <link>https://www.xenothesis.com/00-test/</link>
           <pubDate>Mon, 30 Mar 2020 00:00:00 +0000 </pubDate>
           <dc:creator></dc:creator>
           <guid>https://archive.org/download/00test_202003/00-test.mp3</guid>
@@ -58,7 +58,7 @@
         <description>Test</description>
         <googleplay:description>Test</googleplay:description>
         <content:encoded><![CDATA[<p>Test audio</p>
-]]></content:encoded><itunes:image href="/img/episode/Thumbnail.png"></itunes:image>
-          <googleplay:image href="/img/episode/Thumbnail.png"></googleplay:image><enclosure url="https://archive.org/download/00test_202003/00-test.mp3"  type="audio/mpeg" /><itunes:duration>1:08:22</itunes:duration><itunes:explicit>no</itunes:explicit>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/Thumbnail.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/Thumbnail.png"></googleplay:image><enclosure url="https://archive.org/download/00test_202003/00-test.mp3"  type="audio/mpeg" /><itunes:duration>1:08:22</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item></channel>
 </rss>

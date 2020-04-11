@@ -1,4 +1,4 @@
-baseurl = "/" # "https://www.xenothesis.com/"
+baseurl = "https://www.xenothesis.com/" # "https://www.xenothesis.com/"
 languageCode = "en-uk"
 title = "XenoThesis"
 theme = "castanet"
