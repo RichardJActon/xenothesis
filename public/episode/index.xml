@@ -38,7 +38,8 @@
       <link>https://www.xenothesis.com/</link>
     </image>
     <itunes:category text="Arts">
-      <itunes:category text="Books" /></itunes:category><generator>Hugo -- gohugo.io</generator>
+      <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
+    <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
         <item>
           <title>Episode1: Xenogenesis - Dawn: 1. Womb - Chapters 1 and 2</title>
           <link>https://www.xenothesis.com/01-xenogenesis-dawn-womb-ch1-2/</link>
