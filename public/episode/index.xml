@@ -13,7 +13,7 @@
     <title>XenoThesis</title>
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
-    <description></description>
+    <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA lileth&#39;s Brood</description>
     <lastBuildDate>Sat, 11 Apr 2020 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -24,8 +24,8 @@
     <itunes:type>episodic</itunes:type>
     <googleplay:author>xenothesis podcast</googleplay:author>
     <googleplay:email>xenothesis@gmail.com</googleplay:email>
-    <itunes:summary></itunes:summary>
-    <googleplay:description></googleplay:description>
+    <itunes:summary>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA lileth&#39;s Brood</itunes:summary>
+    <googleplay:description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA lileth&#39;s Brood</googleplay:description>
     <itunes:owner>
       <itunes:name>xenothesis podcast</itunes:name>
       <itunes:email>xenothesis@gmail.com</itunes:email>
