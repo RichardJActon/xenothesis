@@ -68,12 +68,12 @@ disqusShortname = "xenothesis"
     itunes_owner_name = "xenothesis podcast"
     itunes_owner_email = "xenothesis@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
     email = "xenothesis@gmail.com"
-    itunes_image = "https://www.xenothesis.com/img/Thumbnail.png" #fqdn to the image art for your podcast
+    itunes_image = "https://www.xenothesis.com/img/Thumbnail_sq_600.png" #fqdn to the image art for your podcast
     itunes_top_category = "Arts"
     itunes_first_sub_category = "Books"
     #itunes_second_sub_category = "Tech News"
     language = "en-uk"
-    google_play_image = "/img/Thumbnail_sq_600.png"
+    googleplay_image = "https://www.xenothesis.com/img/Thumbnail_sq_600.png"
 
 #   [params.podlove] # https://subscribe-button.podlove.org
 #     subscribe_title = ""              # fallback: site title from above

@@ -30,10 +30,10 @@
       <itunes:name>xenothesis podcast</itunes:name>
       <itunes:email>xenothesis@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.xenothesis.com/img/Thumbnail.png" />
-    <googleplay:image href="https://www.xenothesis.com/img/Thumbnail.png"></googleplay:image>
+    <itunes:image href="https://www.xenothesis.com/img/Thumbnail_sq_600.png" />
+    <googleplay:image href="https://www.xenothesis.com/img/Thumbnail_sq_600.png"></googleplay:image>
     <image>
-      <url>https://www.xenothesis.com/img/Thumbnail.png</url>
+      <url>https://www.xenothesis.com/img/Thumbnail_sq_600.png</url>
       <title>XenoThesis</title>
       <link>https://www.xenothesis.com/</link>
     </image>
