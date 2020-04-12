@@ -73,7 +73,7 @@ disqusShortname = "xenothesis"
     itunes_first_sub_category = "Books"
     #itunes_second_sub_category = "Tech News"
     language = "en-uk"
-    google_play_image = "/img/Logo2_yt.png"
+    google_play_image = "/img/Thumbnail_sq_600.png"
 
 #   [params.podlove] # https://subscribe-button.podlove.org
 #     subscribe_title = ""              # fallback: site title from above
