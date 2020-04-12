@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hosts of Xenothesis on XenoThesis</title>
-    <link>/host/</link>
+    <link>https://www.xenothesis.com/host/</link>
     <description>Recent content in Hosts of Xenothesis on XenoThesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/host/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.xenothesis.com/host/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Michael Glinka</title>
-      <link>/host/michaelglinka/</link>
+      <link>https://www.xenothesis.com/host/michaelglinka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/host/michaelglinka/</guid>
+      <guid>https://www.xenothesis.com/host/michaelglinka/</guid>
       <description>A Human</description>
     </item>
     
     <item>
       <title>Richard J. Acton</title>
-      <link>/host/richardjacton/</link>
+      <link>https://www.xenothesis.com/host/richardjacton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/host/richardjacton/</guid>
+      <guid>https://www.xenothesis.com/host/richardjacton/</guid>
       <description>A Human - for now.</description>
     </item>
     
