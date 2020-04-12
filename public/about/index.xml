@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on XenoThesis</title>
-    <link>https://www.xenothesis.com/about/</link>
+    <link>/about/</link>
     <description>Recent content in Abouts on XenoThesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.xenothesis.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>about</title>
-      <link>https://www.xenothesis.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.xenothesis.com/about/</guid>
+      <guid>/about/</guid>
       <description>XenoThesis The XenoThesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&amp;rsquo;s, Xenogenesis trilogy AKA lileth&amp;rsquo;s Brood</description>
     </item>
     
