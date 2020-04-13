@@ -1,5 +1,5 @@
 ---
-Description: XenoThesis - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 "Dawn" of Xenogenesis series by Olivia E. Butler. Episode 1 - Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.
+Description: '__XenoThesis__ - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 "Dawn" of Xenogenesis series by Olivia E. Butler.'
 aliases:
 - /01
 author: richardjacton
@@ -19,15 +19,14 @@ podcast_bytes: "122274466"
 podcast_duration: "01:20:59"
 podcast_file: 01_xenogenesis_dawn_womb_ch1-2/01_Xenogenesis_Dawn_Womb_ch1-2.mp3
 tags: []
-title: 'Episode 1: Xenogenesis - Dawn: 1. Womb - chapters 1 and 2'
+title: 'Episode 1: Xenogenesis - Dawn: I. Womb - chapters 1 and 2'
 #youtube: 
 ---
 
-XenoThesis - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 "Dawn" of Xenogenesis series by Olivia E. Butler.
+Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.
 
-Episode 1 - Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.
+#### Timestamps
 
-TIMESTAMPS:\
 00:00:38 - Introduction to the XenoThesis and the book\
 00:05:11 - Introduction of the author\
 00:08:43 - Introduction to the Chapter 1\
@@ -58,7 +57,8 @@ TIMESTAMPS:\
 01:16:49 - PREDICTIONS OF CHAPTER 3\
 01:19:42 - Outro
 
-REFERENCES:\
+#### References
+
 Graphene and carbon nanotubes:
 
 * [1] <https://www.nature.com/articles/ncomms13450> - review on carbon nanotubes used to attach heavy objects. I could not find the specific video that I was referencing and I said graphene instead of carbon nanotubes, but this paper corrects and explains it quite well //Michael
@@ -101,6 +101,8 @@ Biochemistry:
 
 * [15] <https://en.wikipedia.org/wiki/Chirality#Chemistry> - what is molecular chirality
 * [16] <https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology> - what are RNA, DNA and proteins, and how do they function
+
+---
 
 Intro: [L'Etoile danse (Pt. 1)](https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738) by Meydän
 
