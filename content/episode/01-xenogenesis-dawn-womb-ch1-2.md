@@ -22,11 +22,3 @@ tags: []
 title: 'Episode1: Xenogenesis - Dawn: 1. Womb - chapters 1 and 2'
 #youtube: 
 ---
-
-XenoThesis - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 "Dawn" of Xenogenesis series by Olivia E. Butler. 
-
-Episode 1 - Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.
-
-Intro: [L'Etoile danse (Pt. 1)](https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738) by Meydän
-
-Outro: [Long Way Home](https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home) by Spinning Ratio
