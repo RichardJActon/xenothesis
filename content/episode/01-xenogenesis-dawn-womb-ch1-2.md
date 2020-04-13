@@ -6,20 +6,20 @@ author: richardjacton
 categories: []
 date: "2020-04-11"
 episode: "01"
-episode_image: img/episode/Thumbnail.png
+episode_image: img/episode/01_xenogenesis_dawn_ch1-2_thumb.png
 explicit: "yes"
 guests:
 hosts:
 - richardjacton
 - michaelglinka
 images:
-- img/episode/Thumbnail.png
+- img/episode/01_xenogenesis_dawn_ch1-2_thumb.png
 news_keywords: []
 podcast_bytes: "122274466"
 podcast_duration: "01:20:59"
 podcast_file: 01_xenogenesis_dawn_womb_ch1-2/01_Xenogenesis_Dawn_Womb_ch1-2.mp3
 tags: []
-title: 'Episode1: Xenogenesis - Dawn: 1. Womb - chapters 1 and 2'
+title: 'Episode 1: Xenogenesis - Dawn: 1. Womb - chapters 1 and 2'
 #youtube: 
 ---
 
