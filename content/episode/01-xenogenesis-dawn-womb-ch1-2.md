@@ -19,8 +19,8 @@ podcast_bytes: "122274466"
 podcast_duration: "01:20:59"
 podcast_file: 01_xenogenesis_dawn_womb_ch1-2/01_Xenogenesis_Dawn_Womb_ch1-2.mp3
 tags: []
+youtube: Tc-B-G6UxWU
 title: 'Episode 1: Xenogenesis - Dawn: I. Womb - chapters 1 and 2'
-#youtube: 
 ---
 
 Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.
