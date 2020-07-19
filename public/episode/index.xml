@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA lileth&#39;s Brood</description>
-    <lastBuildDate>Sun, 5 Jul 2020 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,60 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 8 Xenogenesis - Dawn: II: Family Chapters 9 &amp; 10</title>
+          <link>https://www.xenothesis.com/08_xenogenesis_dawn_family_ch9-10/</link>
+          <pubDate>Sun, 19 Jul 2020 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/08_Xenogenesis_Dawn_Family_ch9-10/08_Xenogenesis_Dawn_Family_ch9-10.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>08</itunes:episode>
+          
+        <itunes:summary>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &#34;smart&#34; devices.</itunes:summary>
+        <description>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &#34;smart&#34; devices.</description>
+        <googleplay:description>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &#34;smart&#34; devices.</googleplay:description>
+        <content:encoded><![CDATA[<p>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &ldquo;smart&rdquo; devices.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:30 - Intro<br>
+00:02:56 - Chapter 9 predictions<br>
+00:06:06 - Chapter 9 introduction<br>
+00:07:48 - A comparative of separation of social animals from their kind to separation of humans by the Oankali [1, 2]<br>
+00:11:21 - Nikanj&rsquo;s bomb drop<br>
+00:15:58 - Continuation on chapter 9 summary<br>
+00:17:55 - Back to discussion on genetic memory and clones<br>
+00:24:33 - &ldquo;Permutation City&rdquo; by Greg Egan - suggestion by Richard<br>
+00:25:51 - Back to Chapter 9<br>
+00:28:00 - Why it is bad to ignore your children<br>
+00:32:32 - Chapter 9 introduction ends and chapter 10 predictions<br>
+00:33:55 - Chapter 10 intro<br>
+00:34:40 - Another modification to Lilith<br>
+00:35:35 - Superhuman mutations<br>
+00:36:51 - Chapter 10 introduction part 2<br>
+00:39:35 - Privacy in Oankali society and discussion on security [3]<br>
+00:47:10 - Chapter 10 tangent finishes and chapter 11 predictions begin<br>
+00:49:00 - Outro</p>
+<h4 id="references">References</h4>
+<p>Social animals:</p>
+<ul>
+<li>[1] <a href="https://en.wikipedia.org/wiki/Harris%27s_hawk">https://en.wikipedia.org/wiki/Harris%27s_hawk</a> - The Harris&rsquo;s Hawks mentioned by Richard.</li>
+<li>[2] <a href="https://lafeber.com/pet-birds/the-optimal-social-environment-for-your-parrot/">https://lafeber.com/pet-birds/the-optimal-social-environment-for-your-parrot/</a> - An interesting article on the social needs of parrots</li>
+</ul>
+<p>&ldquo;Smart&rdquo; being not so smart and safe:</p>
+<ul>
+<li>[3] <a href="https://www.bbc.co.uk/news/technology-51706631">https://www.bbc.co.uk/news/technology-51706631</a> - BBC article on the security flaws in &ldquo;smart&rdquo; devices and toys</li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/08_Xenogenesis_Dawn_Family_ch9-10_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/08_Xenogenesis_Dawn_Family_ch9-10_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/08_Xenogenesis_Dawn_Family_ch9-10/08_Xenogenesis_Dawn_Family_ch9-10.mp3" length="70002767" type="audio/mpeg" /><itunes:duration>00:50:40</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 7 Xenogenesis - Dawn: II: Family Chapters 7 &amp; 8</title>
           <link>https://www.xenothesis.com/07_xenogenesis_dawn_family_ch7-8/</link>
@@ -134,60 +188,6 @@ Problems with childbirth:</p>
 Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
 ]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/07_Xenogenesis_Dawn_Family_ch7-8_thumb.png"></itunes:image>
           <googleplay:image href="https://www.xenothesis.com/img/episode/07_Xenogenesis_Dawn_Family_ch7-8_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/07_Xenogenesis_Dawn_Family_ch7-8.mp3" length="109535633" type="audio/mpeg" /><itunes:duration>01:06:04</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode: 8 Xenogenesis - Dawn: II: Family Chapters 9 &amp; 10</title>
-          <link>https://www.xenothesis.com/08_xenogenesis_dawn_family_ch9-10/</link>
-          <pubDate>Sun, 05 Jul 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/08_Xenogenesis_Dawn_Family_ch9-10/08_Xenogenesis_Dawn_Family_ch9-10.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>08</itunes:episode>
-          
-        <itunes:summary>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &#34;smart&#34; devices.</itunes:summary>
-        <description>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &#34;smart&#34; devices.</description>
-        <googleplay:description>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &#34;smart&#34; devices.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &ldquo;smart&rdquo; devices.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:30 - Intro<br>
-00:02:56 - Chapter 9 predictions<br>
-00:06:06 - Chapter 9 introduction<br>
-00:07:48 - A comparative of separation of social animals from their kind to separation of humans by the Oankali [1, 2]<br>
-00:11:21 - Nikanj&rsquo;s bomb drop<br>
-00:15:58 - Continuation on chapter 9 summary<br>
-00:17:55 - Back to discussion on genetic memory and clones<br>
-00:24:33 - &ldquo;Permutation City&rdquo; by Greg Egan - suggestion by Richard<br>
-00:25:51 - Back to Chapter 9<br>
-00:28:00 - Why it is bad to ignore your children<br>
-00:32:32 - Chapter 9 introduction ends and chapter 10 predictions<br>
-00:33:55 - Chapter 10 intro<br>
-00:34:40 - Another modification to Lilith<br>
-00:35:35 - Superhuman mutations<br>
-00:36:51 - Chapter 10 introduction part 2<br>
-00:39:35 - Privacy in Oankali society and discussion on security [3]<br>
-00:47:10 - Chapter 10 tangent finishes and chapter 11 predictions begin<br>
-00:49:00 - Outro</p>
-<h4 id="references">References</h4>
-<p>Social animals:</p>
-<ul>
-<li>[1] <a href="https://en.wikipedia.org/wiki/Harris%27s_hawk">https://en.wikipedia.org/wiki/Harris%27s_hawk</a> - The Harris&rsquo;s Hawks mentioned by Richard.</li>
-<li>[2] <a href="https://lafeber.com/pet-birds/the-optimal-social-environment-for-your-parrot/">https://lafeber.com/pet-birds/the-optimal-social-environment-for-your-parrot/</a> - An interesting article on the social needs of parrots</li>
-</ul>
-<p>&ldquo;Smart&rdquo; being not so smart and safe:</p>
-<ul>
-<li>[3] <a href="https://www.bbc.co.uk/news/technology-51706631">https://www.bbc.co.uk/news/technology-51706631</a> - BBC article on the security flaws in &ldquo;smart&rdquo; devices and toys</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/08_Xenogenesis_Dawn_Family_ch9-10_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/08_Xenogenesis_Dawn_Family_ch9-10_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/08_Xenogenesis_Dawn_Family_ch9-10/08_Xenogenesis_Dawn_Family_ch9-10.mp3" length="70002767" type="audio/mpeg" /><itunes:duration>00:50:40</itunes:duration><itunes:explicit>yes</itunes:explicit>
           <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 6 Xenogenesis - Dawn: II: Family Chapters 5 &amp; 6</title>

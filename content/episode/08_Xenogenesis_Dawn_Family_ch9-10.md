@@ -4,7 +4,7 @@ aliases:
 - /08
 author: richardjacton
 categories: []
-date: '2020-07-05'
+date: '2020-07-19'
 episode: '08'
 episode_image: img/episode/08_Xenogenesis_Dawn_Family_ch9-10_thumb.png
 explicit: 'yes'
