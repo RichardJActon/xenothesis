@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA lileth&#39;s Brood</description>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,58 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 12 Xenogenesis - Dawn: III: Nursery Chapters 4 &amp; 5</title>
+          <link>https://www.xenothesis.com/12_xenogenesis_dawn_nursery_ch4-5/</link>
+          <pubDate>Sun, 13 Sep 2020 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/12_Xenogenesis_Dawn_Nursery_ch4-5.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>12</itunes:episode>
+          
+        <itunes:summary>In Episode 12, Richard and Michael discuss how much would it require for us to accept the fact that we were saved by aliens and how do we feel about mixing humans and aliens.</itunes:summary>
+        <description>In Episode 12, Richard and Michael discuss how much would it require for us to accept the fact that we were saved by aliens and how do we feel about mixing humans and aliens.</description>
+        <googleplay:description>In Episode 12, Richard and Michael discuss how much would it require for us to accept the fact that we were saved by aliens and how do we feel about mixing humans and aliens.</googleplay:description>
+        <content:encoded><![CDATA[<p>In Episode 12, Richard and Michael discuss how much would it require for us to accept the fact that we were saved by aliens and how do we feel about mixing humans and aliens.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:32 - Intro<br>
+00:01:26 - Chapter 4 predictions<br>
+00:03:12 - Chapter 4 summary begins<br>
+00:09:20 - How would we react to the ability of growing walls?<br>
+00:13:14 - We are one of the people who want to know things (like genetic screening)&hellip;<br>
+00:20:12 - Chapter 4 summary ends<br>
+00:20:50 - Chapter 5 predictions<br>
+00:25:11 - Chapter 5 summary begins<br>
+00:28:55 - Lilith, the ice-cold killer&hellip;<br>
+00:31:30 - Discussion on the dangers of fighting and the problem with Superman-like strength<br>
+00:35:55 - &ldquo;Can you feel the love tonight?&rdquo; - Elton John<br>
+00:37:26 - Problems with Tate<br>
+00:39:20 - We feel for Lilith&hellip; but also would pester her if we were in the similar situation<br>
+00:43:10 - How do we feel about aliens modifying us to give us super-strength, etc.<br>
+00:49:10 - The spicy gossip from Lilith&rsquo;s life<br>
+00:50:08 - Chapter 5 summary ends<br>
+00:50:21 - Chapter 6 (and future chapters) predictions<br>
+00:53:11 - What&rsquo;s the deal with Tate?<br>
+00:55:22 - How do you think would you react to the Oankali?<br>
+01:00:50 - How do we feel about human-alien hybrid children?<br>
+01:14:00 - We would be absorbed like a colony, if aliens arrived.<br>
+01:18:40 - Aliens wouldn&rsquo;t have to do much to destroy the order of our world<br>
+01:31:15 - We finish on the depressing note?<br>
+01:33:53 - Actually we don&rsquo;t finish on such a depressing note<br>
+01:33:54 - Outro</p>
+<h4 id="references">References</h4>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/12_Xenogenesis_Dawn_Nursery_ch4-5_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/12_Xenogenesis_Dawn_Nursery_ch4-5_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/12_Xenogenesis_Dawn_Nursery_ch4-5.mp3" length="228621808" type="audio/mpeg" /><itunes:duration>01:35:15</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 11 Xenogenesis - Dawn: III: Nursery Chapters 2 &amp; 3</title>
           <link>https://www.xenothesis.com/11_xenogenesis_dawn_nursery_ch2-3/</link>
