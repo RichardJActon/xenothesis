@@ -55,7 +55,7 @@ In Episode 13, Richard and Michael finally have an opportunity to discuss scienc
 01:19:18 - We were not ready for this cliff-hanger...\
 01:23:30 - Did Joseph have chance to consent to any of what is happening to him?\
 01:25:15 - We appreciate the chapter's twists and turns\
-# 01:26:01 - Chapter 7 predictions\
+01:26:01 - Chapter 7 predictions\
 01:29:14 - Outro
 
 #### References
