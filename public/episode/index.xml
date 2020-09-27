@@ -1,1116 +1,215 @@
-<rss version="2.0"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-    >
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>XenoThesis</title>
-    <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
-    <link>https://www.xenothesis.com/</link>
-    <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA lileth&#39;s Brood</description>
-    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 &#43;0000</lastBuildDate>
-    <sy:updatePeriod>hourly</sy:updatePeriod>
-    <sy:updateFrequency>1</sy:updateFrequency>
+    <title>Episodes on XenoThesis</title>
+    <link>https://www.xenothesis.com/episode/</link>
+    <description>Recent content in Episodes on XenoThesis</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>Copyright 2020 Richard J. Acton &amp; Michael Glinka</copyright>
-    <itunes:subtitle>...</itunes:subtitle>
-    <itunes:author>xenothesis podcast</itunes:author>
-    <itunes:type>episodic</itunes:type>
-    <googleplay:author>xenothesis podcast</googleplay:author>
-    <googleplay:email>xenothesis@gmail.com</googleplay:email>
-    <itunes:summary>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA lileth&#39;s Brood</itunes:summary>
-    <googleplay:description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA lileth&#39;s Brood</googleplay:description>
-    <itunes:owner>
-      <itunes:name>xenothesis podcast</itunes:name>
-      <itunes:email>xenothesis@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://www.xenothesis.com/img/Thumbnail_sq_1400.png" />
-    <googleplay:image href="https://www.xenothesis.com/img/Thumbnail_sq_1400.png"></googleplay:image>
-    <image>
-      <url>https://www.xenothesis.com/img/Thumbnail_sq_1400.png</url>
-      <title>XenoThesis</title>
-      <link>https://www.xenothesis.com/</link>
-    </image>
-    <itunes:category text="Arts">
-      <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
-    <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
-        <item>
-          <title>Episode: 12 Xenogenesis - Dawn: III: Nursery Chapters 4 &amp; 5</title>
-          <link>https://www.xenothesis.com/12_xenogenesis_dawn_nursery_ch4-5/</link>
-          <pubDate>Sun, 13 Sep 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/12_Xenogenesis_Dawn_Nursery_ch4-5.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>12</itunes:episode>
-          
-        <itunes:summary>In Episode 12, Richard and Michael discuss how much would it require for us to accept the fact that we were saved by aliens and how do we feel about mixing humans and aliens.</itunes:summary>
-        <description>In Episode 12, Richard and Michael discuss how much would it require for us to accept the fact that we were saved by aliens and how do we feel about mixing humans and aliens.</description>
-        <googleplay:description>In Episode 12, Richard and Michael discuss how much would it require for us to accept the fact that we were saved by aliens and how do we feel about mixing humans and aliens.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 12, Richard and Michael discuss how much would it require for us to accept the fact that we were saved by aliens and how do we feel about mixing humans and aliens.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:32 - Intro<br>
-00:01:26 - Chapter 4 predictions<br>
-00:03:12 - Chapter 4 summary begins<br>
-00:09:20 - How would we react to the ability of growing walls?<br>
-00:13:14 - We are one of the people who want to know things (like genetic screening)&hellip;<br>
-00:20:12 - Chapter 4 summary ends<br>
-00:20:50 - Chapter 5 predictions<br>
-00:25:11 - Chapter 5 summary begins<br>
-00:28:55 - Lilith, the ice-cold killer&hellip;<br>
-00:31:30 - Discussion on the dangers of fighting and the problem with Superman-like strength<br>
-00:35:55 - &ldquo;Can you feel the love tonight?&rdquo; - Elton John<br>
-00:37:26 - Problems with Tate<br>
-00:39:20 - We feel for Lilith&hellip; but also would pester her if we were in the similar situation<br>
-00:43:10 - How do we feel about aliens modifying us to give us super-strength, etc.<br>
-00:49:10 - The spicy gossip from Lilith&rsquo;s life<br>
-00:50:08 - Chapter 5 summary ends<br>
-00:50:21 - Chapter 6 (and future chapters) predictions<br>
-00:53:11 - What&rsquo;s the deal with Tate?<br>
-00:55:22 - How do you think would you react to the Oankali?<br>
-01:00:50 - How do we feel about human-alien hybrid children?<br>
-01:14:00 - We would be absorbed like a colony, if aliens arrived.<br>
-01:18:40 - Aliens wouldn&rsquo;t have to do much to destroy the order of our world<br>
-01:31:15 - We finish on the depressing note?<br>
-01:33:53 - Actually we don&rsquo;t finish on such a depressing note<br>
-01:33:54 - Outro</p>
-<h4 id="references">References</h4>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/12_Xenogenesis_Dawn_Nursery_ch4-5_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/12_Xenogenesis_Dawn_Nursery_ch4-5_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/12_Xenogenesis_Dawn_Nursery_ch4-5.mp3" length="228621808" type="audio/mpeg" /><itunes:duration>01:35:15</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode: 11 Xenogenesis - Dawn: III: Nursery Chapters 2 &amp; 3</title>
-          <link>https://www.xenothesis.com/11_xenogenesis_dawn_nursery_ch2-3/</link>
-          <pubDate>Sun, 30 Aug 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/11_Xenogenesis_Dawn_Nursery_ch2-3.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>11</itunes:episode>
-          
-        <itunes:summary>In Episode 11, Richard and Michael discuss the characters and the potential problems with the new humans that Lilith decided to Awaken.</itunes:summary>
-        <description>In Episode 11, Richard and Michael discuss the characters and the potential problems with the new humans that Lilith decided to Awaken.</description>
-        <googleplay:description>In Episode 11, Richard and Michael discuss the characters and the potential problems with the new humans that Lilith decided to Awaken.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 11, Richard and Michael discuss the characters and the potential problems with the new humans that Lilith decided to Awaken.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:32 - Intro<br>
-00:01:22 - Chapter 2 predictions<br>
-00:02:43 - Chapter 2 summary begins<br>
-00:04:50 - Ice-cold Lilith<br>
-00:07:47 - Chapter 2 summary finishes<br>
-00:08:04 - Discussion on the belief that aliens abducted them<br>
-00:11:20 - Michael&rsquo;s hypothesis on the background of chosen humans for Awakening<br>
-00:13:00 - &ldquo;Evil&rdquo; scientist trope ethics [1, 2]<br>
-00:15:30 - Encryption (and blockchain)<br>
-00:20:25 - &ldquo;The Trustee&rdquo;<br>
-00:23:40 - Chapter 3 predictions<br>
-00:24:35 - Chapter 3 summary begins<br>
-00:25:30 - Problem with Tate&rsquo;s attitude<br>
-00:31:14 - Long conversation about nuclear war starts&hellip;<br>
-00:45:30 - &hellip;and finishes<br>
-00:46:00 - Discussion about the next people to be Awaken<br>
-00:49:00 - Continuation on the chapter 3 summary<br>
-00:49:45 - &ldquo;You might as well feel good when you do it&rdquo;<br>
-00:52:00 - Pleasure and &ldquo;Demolition Man&rdquo; movie<br>
-00:55:30 - We are really suspicious of Tate and her manipulations<br>
-00:58:13 - The rotation of humans inside of the plant to stimulate the muscles [3 - 5]<br>
-01:03:35 - Sneak attack and discussion on Lilith&rsquo;s Terminator powers<br>
-01:08:35 - &ldquo;Do you want to kill yourself? Go for it&rdquo; - Ice-cold Lilith&hellip;<br>
-01:11:33 - Chapter 3 ends<br>
-01:13:00 - Discussion on Lilith&rsquo;s attitude to the Oankali and Michael&rsquo;s prediction of the next chapters and books<br>
-01:24:55 - Discussion on the speed of Awakening people<br>
-01:33:20 - Outro</p>
-<h4 id="references">References</h4>
-<p>Ethics and scientists:</p>
-<ul>
-<li>[1] <a href="https://en.wikipedia.org/wiki/Manhattan_Project">https://en.wikipedia.org/wiki/Manhattan_Project</a> - What was the Manhattan project.</li>
-<li>[2] <a href="https://en.wikipedia.org/wiki/Asilomar_Conference_on_Recombinant_DNA">https://en.wikipedia.org/wiki/Asilomar_Conference_on_Recombinant_DNA</a> - Asilomar conference.</li>
-</ul>
-<p>Muscle stimulation:</p>
-<ul>
-<li>[3] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321528/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321528/</a> - Primary research article on the effectiveness of electrical muscle stimulation in critically ill patients.</li>
-<li>[4] <a href="https://opentextbc.ca/anatomyandphysiology/chapter/10-3-muscle-fiber-contraction-and-relaxation/">https://opentextbc.ca/anatomyandphysiology/chapter/10-3-muscle-fiber-contraction-and-relaxation/</a> - Textbook article on the muscle contraction</li>
-<li>[5] <a href="http://people.eku.edu/ritchisong/301notes3.htm">http://people.eku.edu/ritchisong/301notes3.htm</a> - Another website with textbook article on why the skeletal muscles cannot contract without nerve stimulation.</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/11_Xenogenesis_Dawn_Nursery_ch2-3_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/11_Xenogenesis_Dawn_Nursery_ch2-3_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/11_Xenogenesis_Dawn_Nursery_ch2-3.mp3" length="157795609" type="audio/mpeg" /><itunes:duration>01:34:40</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode: 10 Xenogenesis - Dawn: III: Nursery Chapter 1</title>
-          <link>https://www.xenothesis.com/10_xenogenesis_dawn_nursery_ch1/</link>
-          <pubDate>Sun, 16 Aug 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/10_Xenogenesis_Dawn_Nursery_ch1.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>10</itunes:episode>
-          
-        <itunes:summary>In Episode 10, Richard and Michael discuss the chapter 1 from the new part: Nursery. The chapter introduces us potential new human allies, all with their quirky characteristics.</itunes:summary>
-        <description>In Episode 10, Richard and Michael discuss the chapter 1 from the new part: Nursery. The chapter introduces us potential new human allies, all with their quirky characteristics.</description>
-        <googleplay:description>In Episode 10, Richard and Michael discuss the chapter 1 from the new part: Nursery. The chapter introduces us potential new human allies, all with their quirky characteristics.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 10, Richard and Michael discuss the chapter 1 from the new part: Nursery. The chapter introduces us potential new human allies, all with their quirky characteristics.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:32 - Intro<br>
-00:02:39 - Chapter 1 predictions<br>
-00:06:23 - Chapter 1 introduction begins<br>
-00:07:00 - &ldquo;Giant fart&rdquo; transport [1, 2]<br>
-00:11:21 - Back to Chapter 1<br>
-00:12:10 - &ldquo;Earthrise&rdquo; and Mars pictures [3, 4]<br>
-00:15:00 - Lilith&rsquo;s new abilities<br>
-00:17:00 - The new room Lilith is stuck in<br>
-00:19:54 - Lilith&rsquo;s new mission<br>
-00:22:00 - Proper way to tackle the language barrier in books/movies<br>
-00:23:50 - Introduction to the new humans<br>
-00:28:14 - Human 1: Vidor Domonkos<br>
-00:30:21 - Human 2: Leah Bede<br>
-00:33:38 - Human 3: Joseph Li-Chin Shing<br>
-00:35:04 - Human 4: Celene Ivers<br>
-00:35:33 - Human 5: Gabriel Rinaldi<br>
-00:37:03 - Human 6: Beatrice Dwyer<br>
-00:38:04 - Human 7: Hilary Ballard<br>
-00:39:33 - Human 8: Conrad Loehr<br>
-00:41:00 - Human 9: Derick Wolski<br>
-00:41:31 - Human 10: Tate Marah<br>
-00:43:23 - Autism vs ADHD [5, 6]<br>
-00:47:42 - Discussion on the people and what would we do if we had to choose the humans to go back to Earth<br>
-00:51:40 - The &ldquo;photo-drawing&rdquo; abilities of Oankali<br>
-00:55:47 - The images produced by Oankali allow for more than expected<br>
-00:57:20 - The choice of the first human<br>
-00:58:34 - The chapter 1 introduction finishes<br>
-01:00:30 - Discussion on Lilith&rsquo;s new powers usefulness on Earth<br>
-01:03:40 - Michael&rsquo;s prediction for the rest of the chapters<br>
-01:10:23 - Outro</p>
-<h4 id="references">References</h4>
-<p>Air embolism:</p>
-<ul>
-<li>[1] <a href="https://en.wikipedia.org/wiki/Air_embolism">https://en.wikipedia.org/wiki/Air_embolism</a> - Wiki article on the topic.</li>
-<li>[2] <a href="https://www.nhs.uk/conditions/air-embolism/">https://www.nhs.uk/conditions/air-embolism/</a> - NHS article on the air embolism.</li>
-</ul>
-<p>Earth photos:</p>
-<ul>
-<li>[3] <a href="https://en.wikipedia.org/wiki/Earthrise">https://en.wikipedia.org/wiki/Earthrise</a> - Apollo mission picture.</li>
-<li>[4] <a href="https://www.nasa.gov/mission_pages/msl/images/index.html">https://www.nasa.gov/mission_pages/msl/images/index.html</a> - NASA pictures of Mars surface.</li>
-</ul>
-<p>Autism vs ADHD:</p>
-<ul>
-<li>[5] <a href="https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Autism-Spectrum-Disorder-Fact-Sheet">https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Autism-Spectrum-Disorder-Fact-Sheet</a> - Details on autism.</li>
-<li>[6] <a href="https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/">https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/</a> - Article on the Attention Deficit Hyperactivity Disorder.</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/10_Xenogenesis_Dawn_Nursery_ch1_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/10_Xenogenesis_Dawn_Nursery_ch1_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/10_Xenogenesis_Dawn_Nursery_ch1.mp3" length="101496402" type="audio/mpeg" /><itunes:duration>01:12:03</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode: 9 Xenogenesis - Dawn: II: Family Chapters 11 &amp; 12</title>
-          <link>https://www.xenothesis.com/09_xenogenesis_dawn_family_ch11-12/</link>
-          <pubDate>Sun, 02 Aug 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/09_Xenogenesis_Dawn_Family_ch11-12.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>09</itunes:episode>
-          
-        <itunes:summary>In Episode 9, Richard and Michael finish the part II Family of the book and discuss range of topics from animal and children&#39;s rights, to biohacking and gene therapy.</itunes:summary>
-        <description>In Episode 9, Richard and Michael finish the part II Family of the book and discuss range of topics from animal and children&#39;s rights, to biohacking and gene therapy.</description>
-        <googleplay:description>In Episode 9, Richard and Michael finish the part II Family of the book and discuss range of topics from animal and children&#39;s rights, to biohacking and gene therapy.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 9, Richard and Michael finish the part 2: Family of the book and discuss range of topics from animal and children&rsquo;s&rsquo; rights, to biohacking and gene therapy.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:31 - Intro<br>
-00:01:53 - Chapter 11 predictions<br>
-00:04:14 - Chapter 11 summary begins<br>
-00:05:30 - Oankali mating and inbreeding [1 - 3]<br>
-00:08:24 - Animal vs children rights (UK) [4 - 6]<br>
-00:09:35 - Why animals had more rights before children? Cuteness factor [7, 8]<br>
-00:11:30 - Back to Chapter 11 summary<br>
-00:13:40 - Oankali telepathy<br>
-00:14:56 - Neuralink and biohacking<br>
-00:20:14 - Back to Chapter 11 summary (again)<br>
-00:20:54 - Chapter 11 summary ends<br>
-00:22:20 - Chapter 12 predictions<br>
-00:23:08 - Chapter 12 summary begins<br>
-00:23:26 - The friend of everyone - Kahguyaht<br>
-00:24:40 - Biological 3D printing [9]<br>
-00:30:50 - Back to Chapter 12 summary<br>
-00:32:40 - Animals and humans [10 - 14]<br>
-00:41:05 - Back to Chapter 12<br>
-00:43:00 - &ldquo;Locked-in&rdquo; syndrome and conversation with coma patients [15 - 17]<br>
-00:48:50 - Back to Chapter 12 (again)<br>
-00:53:30 - If you smell an ooloi, you will die Lilith&hellip; [18]<br>
-01:00:40 - Chapter 12 continues<br>
-01:02:30 - End of Chapter 12 and part 2: Family of the book<br>
-01:04:00 - Discussion on the gene therapy in somatic and germ line [19]<br>
-01:09:02 - Discussion on super humans [20, 21]<br>
-01:21:24 - Part 3: Nursery, Chapter 1 predictions<br>
-01:24:40 - Outro</p>
-<h4 id="references">References</h4>
-<p>Inbreeding:</p>
-<ul>
-<li>[1] <a href="https://www.wikilectures.eu/w/Inbreeding,_Consanguinity_and_Inherited_Diseases">https://www.wikilectures.eu/w/Inbreeding,_Consanguinity_and_Inherited_Diseases</a> - short article on the diseases associated with inbreeding.</li>
-<li>[2] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897632/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897632/</a> - another article discussing the issue of inbreeding with the focus on cancer.</li>
-<li>[3] <a href="https://en.wikipedia.org/wiki/Haemophilia_in_European_royalty">https://en.wikipedia.org/wiki/Haemophilia_in_European_royalty</a> - Haemophilia in the royal families.</li>
-</ul>
-<p>Rights:</p>
-<ul>
-<li>[4] <a href="http://www.bbc.co.uk/ethics/animals/defending/legislation_1.shtml">http://www.bbc.co.uk/ethics/animals/defending/legislation_1.shtml</a> - Animal rights started in 1822.</li>
-<li>[5] <a href="https://www.theguardian.com/society/2005/may/18/childrensservices2">https://www.theguardian.com/society/2005/may/18/childrensservices2</a> - First children rights given in 1894.</li>
-<li>[6] <a href="https://www.rgs.org/CMSPages/GetFile.aspx?nodeguid=7cc5f9a2-f270-4955-9e3a-f6aea7976d4f&amp;lang=en-GB">https://www.rgs.org/CMSPages/GetFile.aspx?nodeguid=7cc5f9a2-f270-4955-9e3a-f6aea7976d4f&amp;lang=en-GB</a> - But up until 1894, children were still to work more than 58-hour working weeks in the mines…</li>
-</ul>
-<p>Cuteness factor:</p>
-<ul>
-<li>[7] <a href="https://en.wikipedia.org/wiki/Cuteness">https://en.wikipedia.org/wiki/Cuteness</a> - Reasons why we prefer animals.</li>
-<li>[8] <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00411/full">https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00411/full</a> - An article about the cuteness.</li>
-</ul>
-<p>Neuralink:</p>
-<ul>
-<li>[9] <a href="https://en.wikipedia.org/wiki/Neuralink">https://en.wikipedia.org/wiki/Neuralink</a> - Wikipedia article on the neuralink.</li>
-</ul>
-<p>3D printing:</p>
-<ul>
-<li>[9] <a href="https://sci-hub.tw/10.1038/nbt.2958">https://sci-hub.tw/10.1038/nbt.2958</a> - Scientific review on the types of 3D printing.</li>
-</ul>
-<p>Animals and humans:</p>
-<ul>
-<li>[10] <a href="https://en.wikipedia.org/wiki/Koko_(gorilla)">https://en.wikipedia.org/wiki/Koko_(gorilla)</a> - Wiki about Koko.</li>
-<li>[11] <a href="https://en.wikipedia.org/wiki/Gua_(chimpanzee)">https://en.wikipedia.org/wiki/Gua_(chimpanzee)</a> - The experiment that Michael describes about a chimpanzee being brought up alongside a human baby.</li>
-<li>[12] <a href="https://timeline.com/dina-sanichar-feral-children-ea9f5f3a80b2">https://timeline.com/dina-sanichar-feral-children-ea9f5f3a80b2</a> - Real life Mowgli.</li>
-<li>[13] <a href="https://www.history.com/news/6-famous-wild-children-from-history">https://www.history.com/news/6-famous-wild-children-from-history</a> - More about children raised by animals.</li>
-<li>[14] <a href="https://en.wikipedia.org/wiki/Flynn_effect">https://en.wikipedia.org/wiki/Flynn_effect</a> - The Flynn effect that Richard talks about.</li>
-</ul>
-<p>Coma:</p>
-<ul>
-<li>[15] <a href="https://en.wikipedia.org/wiki/Locked-in_syndrome">https://en.wikipedia.org/wiki/Locked-in_syndrome</a> - Wiki on the locked-in syndrome - a type of coma.</li>
-<li>[16] <a href="https://en.wikipedia.org/wiki/Coma">https://en.wikipedia.org/wiki/Coma</a> - Article about coma.</li>
-<li>[17] <a href="https://www.theguardian.com/news/2017/sep/05/how-science-found-a-way-to-help-coma-patients-communicate">https://www.theguardian.com/news/2017/sep/05/how-science-found-a-way-to-help-coma-patients-communicate</a> - fMRI used to communicate with coma patients.</li>
-</ul>
-<p>Pair-bonding:</p>
-<ul>
-<li>[18] <a href="https://www.ncbi.nlm.nih.gov/books/NBK97287/">https://www.ncbi.nlm.nih.gov/books/NBK97287/</a> - Article about pair-bonding in animal kingdom.</li>
-</ul>
-<p>Cystic fibrosis treatment:</p>
-<ul>
-<li>[19] <a href="https://www.imperial.ac.uk/news/166451/gene-therapy-cystic-fibrosis-shows-encouraging/">https://www.imperial.ac.uk/news/166451/gene-therapy-cystic-fibrosis-shows-encouraging/</a> - Article on the cystic fibrosis treatment.</li>
-</ul>
-<p>SNPs and athletes:</p>
-<ul>
-<li>[20] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724599/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724599/</a> - Article on SNPs and athletes</li>
-<li>[21] <a href="https://ghr.nlm.nih.gov/primer/genomicresearch/snp">https://ghr.nlm.nih.gov/primer/genomicresearch/snp</a> - What are SNPs?</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/09_Xenogenesis_Dawn_Family_ch11-12_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/09_Xenogenesis_Dawn_Family_ch11-12_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/09_Xenogenesis_Dawn_Family_ch11-12.mp3" length="142304518" type="audio/mpeg" /><itunes:duration>01:26:03</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode: 8 Xenogenesis - Dawn: II: Family Chapters 9 &amp; 10</title>
-          <link>https://www.xenothesis.com/08_xenogenesis_dawn_family_ch9-10/</link>
-          <pubDate>Sun, 19 Jul 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/08_Xenogenesis_Dawn_Family_ch9-10.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>08</itunes:episode>
-          
-        <itunes:summary>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &#34;smart&#34; devices.</itunes:summary>
-        <description>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &#34;smart&#34; devices.</description>
-        <googleplay:description>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &#34;smart&#34; devices.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &ldquo;smart&rdquo; devices.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:30 - Intro<br>
-00:02:56 - Chapter 9 predictions<br>
-00:06:06 - Chapter 9 introduction<br>
-00:07:48 - A comparative of separation of social animals from their kind to separation of humans by the Oankali [1, 2]<br>
-00:11:21 - Nikanj&rsquo;s bomb drop<br>
-00:15:58 - Continuation on chapter 9 summary<br>
-00:17:55 - Back to discussion on genetic memory and clones<br>
-00:24:33 - &ldquo;Permutation City&rdquo; by Greg Egan - suggestion by Richard<br>
-00:25:51 - Back to Chapter 9<br>
-00:28:00 - Why it is bad to ignore your children<br>
-00:32:32 - Chapter 9 introduction ends and chapter 10 predictions<br>
-00:33:55 - Chapter 10 intro<br>
-00:34:40 - Another modification to Lilith<br>
-00:35:35 - Superhuman mutations<br>
-00:36:51 - Chapter 10 introduction part 2<br>
-00:39:35 - Privacy in Oankali society and discussion on security [3]<br>
-00:47:10 - Chapter 10 tangent finishes and chapter 11 predictions begin<br>
-00:49:00 - Outro</p>
-<h4 id="references">References</h4>
-<p>Social animals:</p>
-<ul>
-<li>[1] <a href="https://en.wikipedia.org/wiki/Harris%27s_hawk">https://en.wikipedia.org/wiki/Harris%27s_hawk</a> - The Harris&rsquo;s Hawks mentioned by Richard.</li>
-<li>[2] <a href="https://lafeber.com/pet-birds/the-optimal-social-environment-for-your-parrot/">https://lafeber.com/pet-birds/the-optimal-social-environment-for-your-parrot/</a> - An interesting article on the social needs of parrots</li>
-</ul>
-<p>&ldquo;Smart&rdquo; being not so smart and safe:</p>
-<ul>
-<li>[3] <a href="https://www.bbc.co.uk/news/technology-51706631">https://www.bbc.co.uk/news/technology-51706631</a> - BBC article on the security flaws in &ldquo;smart&rdquo; devices and toys</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/08_Xenogenesis_Dawn_Family_ch9-10_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/08_Xenogenesis_Dawn_Family_ch9-10_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/08_Xenogenesis_Dawn_Family_ch9-10.mp3" length="70002767" type="audio/mpeg" /><itunes:duration>00:50:40</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode: 7 Xenogenesis - Dawn: II: Family Chapters 7 &amp; 8</title>
-          <link>https://www.xenothesis.com/07_xenogenesis_dawn_family_ch7-8/</link>
-          <pubDate>Sun, 05 Jul 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/07_Xenogenesis_Dawn_Family_ch7-8.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>07</itunes:episode>
-          
-        <itunes:summary>In Episode 7, Richard and Michael discuss the messages woven by Octavia Butler in the story leading to a conversation on serious topics such as gender and fragility of our society.</itunes:summary>
-        <description>In Episode 7, Richard and Michael discuss the messages woven by Octavia Butler in the story leading to a conversation on serious topics such as gender and fragility of our society.</description>
-        <googleplay:description>In Episode 7, Richard and Michael discuss the messages woven by Octavia Butler in the story leading to a conversation on serious topics such as gender and fragility of our society.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 7, Richard and Michael discuss the messages woven by Octavia Butler in the story leading to a conversation on serious topics such as gender and fragility of our society.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:32 - Intro<br>
-00:00:50 - Warning<br>
-00:01:15 - Chapter 7 predictions<br>
-00:02:10 - Chapter 7 introduction<br>
-00:03:10 - Discussion on the biological differences between humans and Oankali [1]<br>
-00:06:00 - Lilith being high after surgery<br>
-00:08:00 - Trade partners not to be treated equally - Kahguyaht<br>
-00:10:55 - Nikanj&rsquo;s respect to Lilith<br>
-00:13:10 - &ldquo;Ask my dad to show you his reproductive organ&rdquo; - Nikanj<br>
-00:13:45 - Chapter 7 introduction ends<br>
-00:16:35 - Chapter 8 predictions<br>
-00:17:04 - Chapter 8 warning<br>
-00:17:18 - Chapter 8 introduction<br>
-00:17:40 - We are jealous of Lilith&rsquo;s new ability<br>
-00:18:25 - Part 2 of captive breeding?<br>
-00:19:00 - Clarification on the flat transport used by the Oankali and discussion about hagfish [2 - 4]<br>
-00:22:51 - Discussion on the necessity of the Trade for Oankali and reproduction for humans<br>
-00:25:05 - We finally meet another human - Paul Titus<br>
-00:26:04 - Lilith goes straight to the point<br>
-00:28:00 - Margaret Mead [5]<br>
-00:28:31 - We learn more about the origins of Lilith and Paul and the state of the planet<br>
-00:30:23 - First warning sign<br>
-00:31:22 - Discussion on the characters and our perception of Nikanj and his gender [6<br>
-00:37:35 - Gender in some cultures - Fa&rsquo;afafine in Samoa [7]<br>
-00:38:23 - Back to the Chapter 8 introduction<br>
-00:41:00 - Discussion on the hospital and childbirth [8 - 10]<br>
-00:44:33 - Second warning sign<br>
-00:45:52 - Truth bomb - a man with more than 70 children that he never met<br>
-00:47:30 - Paul gets aggressive and assaults Lilith<br>
-00:48:19 - Chapter 8 summary ends<br>
-00:49:45 - Discussion on the cultural genocide and the fragility of our society<br>
-00:58:11 - Discussion on Margaret Mead [5]<br>
-01:02:22 - Predictions of chapter 9<br>
-01:04:36 - Outro</p>
-<h4 id="references">References</h4>
-<p>Bacteria in our guts:</p>
-<ul>
-<li>[1] <a href="https://askabiologist.asu.edu/plosable/gut-microbiota">https://askabiologist.asu.edu/plosable/gut-microbiota</a> - A short article about why bacteria in our digestive system are so useful for us.</li>
-</ul>
-<p>Slime releasing animals:</p>
-<ul>
-<li>[2] <a href="https://www.sciencenewsforstudents.org/article/secrets-slime">https://www.sciencenewsforstudents.org/article/secrets-slime</a> - Short article about slime</li>
-<li>[3] <a href="https://en.wikipedia.org/wiki/Hagfish">https://en.wikipedia.org/wiki/Hagfish</a> - Wikipedia article on Hagfish</li>
-<li>[4] <a href="https://www.youtube.com/watch?v=t8sw8BN-Xq0">https://www.youtube.com/watch?v=t8sw8BN-Xq0</a> - A video on the hagfish slime</li>
-</ul>
-<p>Margaret Mead:</p>
-<ul>
-<li>[5] <a href="https://en.wikipedia.org/wiki/Margaret_Mead">https://en.wikipedia.org/wiki/Margaret_Mead</a> - Wikipedia article on the anthropologist Margaret Mead.</li>
-</ul>
-<p>Biological sex determination and mutations associated with it:</p>
-<ul>
-<li>[6] <a href="https://www.who.int/genomics/gender/en/index1.html">https://www.who.int/genomics/gender/en/index1.html</a> - WHO article on all of the sex and gender associated issues.</li>
-</ul>
-<p>Additional gender in some cultures:</p>
-<ul>
-<li>
-<p>[7] <a href="https://en.wikipedia.org/wiki/Fa%27afafine">https://en.wikipedia.org/wiki/Fa%27afafine</a> - the third gender that Michael couldn&rsquo;t remember the name of, but here&rsquo;s the link to what he was talking about.
-Problems with childbirth:</p>
-</li>
-<li>
-<p>[8] <a href="https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=36&amp;printable=1">https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=36&amp;printable=1</a> – Open.edu module on the anatomy of female pelvis and foetal skull</p>
-</li>
-<li>
-<p>[9] <a href="https://www.healthline.com/health/pregnancy/labor-birth-canal">https://www.healthline.com/health/pregnancy/labor-birth-canal</a> - Article on the Birth Canal Issues</p>
-</li>
-<li>
-<p>[10] <a href="https://www.forbes.com/sites/kristinakillgrove/2018/11/16/skeletons-of-pregnant-egyptian-woman-and-fetus-found-by-archaeologists-suggest-death-in-childbirth/">https://www.forbes.com/sites/kristinakillgrove/2018/11/16/skeletons-of-pregnant-egyptian-woman-and-fetus-found-by-archaeologists-suggest-death-in-childbirth/</a> - Article on the finding of the pregnant woman with a foetus stuck in her birth canal</p>
-</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/07_Xenogenesis_Dawn_Family_ch7-8_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/07_Xenogenesis_Dawn_Family_ch7-8_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/07_Xenogenesis_Dawn_Family_ch7-8.mp3" length="109535633" type="audio/mpeg" /><itunes:duration>01:06:04</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode: 6 Xenogenesis - Dawn: II: Family Chapters 5 &amp; 6</title>
-          <link>https://www.xenothesis.com/06_xenogenesis_dawn_family_ch5-6/</link>
-          <pubDate>Mon, 22 Jun 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/06_Xenogenesis_Dawn_Family_ch5-6.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>06</itunes:episode>
-          
-        <itunes:summary>In Episode 06, Richard and Michael discuss the wonderous organ that the brain is, the problems and quirks associated with it, and how beautifully Lilith told Kahguyaht off.</itunes:summary>
-        <description>In Episode 06, Richard and Michael discuss the wonderous organ that the brain is, the problems and quirks associated with it, and how beautifully Lilith told Kahguyaht off.</description>
-        <googleplay:description>In Episode 06, Richard and Michael discuss the wonderous organ that the brain is, the problems and quirks associated with it, and how beautifully Lilith told Kahguyaht off.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 06, Richard and Michael discuss the wonderous organ that the brain is, the problems and quirks associated with it, and how beautifully Lilith told Kahguyaht off.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:32 - Intro<br>
-00:02:40 - Predictions of Chapter 5<br>
-00:03:17 - Chapter 5 introduction starts<br>
-00:11:10 - Like in a human family - close the door and don&rsquo;t get involved in others argument<br>
-00:13:00 - Kahguyaht being condescending<br>
-00:15:14 - The best response that Lilith could give back to Kahguyaht<br>
-00:17:00 - Memories and memorising things [1 - 4]<br>
-00:19:40 - Extracting images from brain [5, 6]<br>
-00:22:48 - Brain development and consciousness [7 - 9]<br>
-00:24:29 - Chapter 5 introduction restarts<br>
-00:26:35 - Richard and Michael&rsquo;s interpretation of Kahguyahts behaviour<br>
-00:30:26 - English language hard<br>
-00:33:08 - Michael discusses a book &ldquo;Do Not Harm&rdquo; by neurosurgeon Henry Marsh, MD<br>
-00:41:00 - Split brain experiments [11, 12]<br>
-00:42:45 - Alien hand syndrome [13, 14]<br>
-00:46:08 - Chapter 5 introduction restarts again<br>
-00:47:31 - Hyperthymesia and Eidetic memory [15, 16]<br>
-00:50:25 - We talk about what we remember well and what we can&rsquo;t remember at all<br>
-00:52:40 - Neurological syndromes affecting facial recognition [17, 18]<br>
-00:54:55 - Predictions to Chapter 6<br>
-00:55:19 - Chapter 6 summary<br>
-00:58:55 - Lilith is tough piece of a human being<br>
-01:03:30 - Chapter 6 summary finishes<br>
-01:03:50 - Chapter 6 predictions<br>
-01:04:55 - False memories and false confessions [19 - 22]<br>
-01:14:24 - Outro</p>
-<h4 id="references">References</h4>
-<p>Emotions and memories:</p>
-<ul>
-<li>[1] <a href="https://bcs.mit.edu/news-events/news/delicate-balance-between-positive-and-negative-emotion">https://bcs.mit.edu/news-events/news/delicate-balance-between-positive-and-negative-emotion</a> - Article talking about amygdala - a small piece of brain responsible for emotions.</li>
-<li>[2] <a href="https://www.neuroscientificallychallenged.com/blog/know-your-brain-amygdala">https://www.neuroscientificallychallenged.com/blog/know-your-brain-amygdala</a> - More information about amygdala</li>
-</ul>
-<p>Types of memory:</p>
-<ul>
-<li>[3] <a href="https://human-memory.net/episodic-semantic-memory/">https://human-memory.net/episodic-semantic-memory/</a> - Episodic vs semantic memory</li>
-<li>[4] <a href="https://www.sparknotes.com/psychology/psych101/memory/section2/">https://www.sparknotes.com/psychology/psych101/memory/section2/</a> - Brief description of different types of memory</li>
-</ul>
-<p>Extracting images from your brain:</p>
-<ul>
-<li>[5] <a href="https://news.berkeley.edu/2011/09/22/brain-movies/">https://news.berkeley.edu/2011/09/22/brain-movies/</a> - 2011 article about reconstructing images shown to people based on their brain activity.</li>
-<li>[6] <a href="https://www.nature.com/articles/d41586-019-02207-1">https://www.nature.com/articles/d41586-019-02207-1</a> - Nature article about reconstructing images from brain.</li>
-</ul>
-<p>Brain development:</p>
-<ul>
-<li>[7] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/</a> - Review article on the basics of brain development.</li>
-<li>[8] <a href="https://www.nature.com/articles/pr200950">https://www.nature.com/articles/pr200950</a> - A very good article from 2009 about the Emergence of Human Consciousness.</li>
-<li>[9] <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.863.4999&amp;rep=rep1&amp;type=pdf">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.863.4999&amp;rep=rep1&amp;type=pdf</a> - A link to scientific report mentioned in the article speaking about baby consciousness: <a href="https://www.sciencemag.org/news/2013/04/when-does-your-baby-become-conscious">https://www.sciencemag.org/news/2013/04/when-does-your-baby-become-conscious</a></li>
-<li>[10] <a href="https://www.scientificamerican.com/article/what-is-consciousness/">https://www.scientificamerican.com/article/what-is-consciousness/</a> - What is consciousness - some reading for a starter.</li>
-</ul>
-<p>Split brain experiments:</p>
-<ul>
-<li>[11] <a href="https://embryo.asu.edu/pages/roger-sperrys-split-brain-experiments-1959-1968">https://embryo.asu.edu/pages/roger-sperrys-split-brain-experiments-1959-1968</a> - Roger Sperry and his experiments on cutting the corpus callosum.</li>
-<li>[12] <a href="https://www.nature.com/news/the-split-brain-a-tale-of-two-halves-1.10213">https://www.nature.com/news/the-split-brain-a-tale-of-two-halves-1.10213</a> - Another article talking about the subject of split brain experiments.</li>
-</ul>
-<p>Alien hand syndrome:</p>
-<ul>
-<li>[13] <a href="https://en.wikipedia.org/wiki/Alien_hand_syndrome">https://en.wikipedia.org/wiki/Alien_hand_syndrome</a> - Wikipedia article on the syndrome.</li>
-<li>[14] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059570/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059570/</a> - Short case article on the syndrome.</li>
-</ul>
-<p>Hyperthymesia and eidetic memory:</p>
-<ul>
-<li>[15] <a href="https://en.wikipedia.org/wiki/Hyperthymesia">https://en.wikipedia.org/wiki/Hyperthymesia</a> - What is hyperthymesia.</li>
-<li>[16] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4720782/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4720782/</a> - article discussed by Richard on the topic of memory.</li>
-</ul>
-<p>Failure to recognise faces:</p>
-<ul>
-<li>[17] <a href="https://en.wikipedia.org/wiki/Capgras_delusion">https://en.wikipedia.org/wiki/Capgras_delusion</a> - Wikipedia article about recognising faces of close people as imposters.</li>
-<li>[18] <a href="https://en.wikipedia.org/wiki/Prosopagnosia">https://en.wikipedia.org/wiki/Prosopagnosia</a> - Wikipedia article about the failure of recognising people faces.</li>
-</ul>
-<p>The issue with brain - creating false memories:</p>
-<ul>
-<li>[19] <a href="https://www.bbc.co.uk/news/science-environment-24286258">https://www.bbc.co.uk/news/science-environment-24286258</a> - BBC article about the topic of false memories.</li>
-<li>[20] <a href="https://www.businessinsider.com/science-of-false-memories-2017-12?r=US&amp;IR=T">https://www.businessinsider.com/science-of-false-memories-2017-12?r=US&amp;IR=T</a> - Another article on the false memories.</li>
-<li>[21] <a href="https://www.sciencemag.org/news/2019/06/psychologist-explains-why-people-confess-crimes-they-didn-t-commit">https://www.sciencemag.org/news/2019/06/psychologist-explains-why-people-confess-crimes-they-didn-t-commit</a> - Science article about why people confess to crimes they did not commit.</li>
-<li>[22] <a href="https://www.wisconsinwatch.org/2017/07/common-interrogation-technique-suspected-of-causing-false-confessions/">https://www.wisconsinwatch.org/2017/07/common-interrogation-technique-suspected-of-causing-false-confessions/</a> - Article about interrogation technique causing false confessions</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/06_Xenogenesis_Dawn_Family_ch5-6_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/06_Xenogenesis_Dawn_Family_ch5-6_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/06_Xenogenesis_Dawn_Family_ch5-6.mp3" length="126585091" type="audio/mpeg" /><itunes:duration>01:15:34</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode: 5 Xenogenesis - Dawn: II: Family Chapters 3 &amp; 4</title>
-          <link>https://www.xenothesis.com/05_xenogenesis_dawn_family_ch3-4/</link>
-          <pubDate>Sun, 07 Jun 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/05_Xenogenesis_Dawn_Family_ch3-4.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>05</itunes:episode>
-          
-        <itunes:summary>In Episode 05, Richard and Michael discuss the many strange but wonderful ways that animals reproduce on Earth – as well as how much they dislike Kahguyaht.</itunes:summary>
-        <description>In Episode 05, Richard and Michael discuss the many strange but wonderful ways that animals reproduce on Earth – as well as how much they dislike Kahguyaht.</description>
-        <googleplay:description>In Episode 05, Richard and Michael discuss the many strange but wonderful ways that animals reproduce on Earth – as well as how much they dislike Kahguyaht.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 05, Richard and Michael discuss the many strange but
-wonderful ways that animals reproduce on Earth – as well as how
-much they dislike Kahguyaht.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:32 - Intro<br>
-00:01:02 - Previous predictions<br>
-00:03:30 - Chapter 3 introduction part 1<br>
-00:04:55 - Discussion about the clothes Lilith was given [1 - 3]<br>
-00:08:22 - Story of the Oankali and their divisions<br>
-00:11:00 - Chapter 3 introduction part 2<br>
-00:11:44 - Chapter 3 introduction ends<br>
-00:11:45 - Discussion about Nikanj and his age<br>
-00:13:45 - Chapter 4 predictions<br>
-00:15:24 - Chapter 4 introduction<br>
-00:16:53 - The honesty of Oankali and forbidden writing<br>
-00:19:20 - The eidetic memory of Oankali<br>
-00:25:20 - Chapter 4 introduction continues<br>
-00:26:15 - The explanation to Oankali naming system<br>
-00:29:26 - Sex determination in Oankali and weird cases around the Earth [4 - 6]<br>
-00:31:12 - Correction to what Michael said about the bird species [7, 8]<br>
-00:31:30 - More talk about breeding on Earth [9]<br>
-00:33:35 - Back to the Chapter 4 introduction<br>
-00:38:50 - We put ourselves in Lilith’s shoes as scientist… and we hate it.<br>
-00:40:15 - Chapter 4 introduction cont.<br>
-00:44:13 - Chapter 4 introduction finished<br>
-00:44:20 - Discussion on the toxicity of human food to alien species<br>
-00:50:00 - Kahguyaht is an as*hole<br>
-00:50:27 - Next chapter prediction<br>
-00:54:15 - We really appreciate Olivia Butler’s writing style<br>
-00:55:21 - Outro</p>
-<h4 id="references">References</h4>
-<p>Fluoropores:</p>
-<ul>
-<li>[1] <a href="https://en.wikipedia.org/wiki/Hydrophobe">https://en.wikipedia.org/wiki/Hydrophobe</a> - What does hydrophobic mean?</li>
-<li>[2] <a href="https://en.wikipedia.org/wiki/Lipophobicity">https://en.wikipedia.org/wiki/Lipophobicity</a> - What does lipophobic mean?</li>
-<li>[3] <a href="https://www.european-coatings.com/Publications/Blog/Hydrophopic-and-lipophobic-at-the-same-time">https://www.european-coatings.com/Publications/Blog/Hydrophopic-and-lipophobic-at-the-same-time</a> - Fluoropore - material that is both hydrophobic and lipophobic</li>
-</ul>
-<p>Sex and reproduction:</p>
-<ul>
-<li>[4] <a href="https://www.eurekalert.org/pub_releases/2015-12/nion-htd122315.php">https://www.eurekalert.org/pub_releases/2015-12/nion-htd122315.php</a> - Crocodile sex determination</li>
-<li>[5] <a href="https://en.wikipedia.org/wiki/Penis_fencing">https://en.wikipedia.org/wiki/Penis_fencing</a> - Correction - it is a flatworm species Pseudobiceros hancockanus
-that engages in a penis fight.</li>
-<li>[6] <a href="https://www.nationalgeographic.com/magazine/2019/07/argonaut-octopus-detaches-his-tentacle-to-impregnate-his-mate/">https://www.nationalgeographic.com/magazine/2019/07/argonaut-octopus-detaches-his-tentacle-to-impregnate-his-mate/</a> - There is an octopus Argonauta argo, which detaches its penis and inserts it into the female.</li>
-<li>[7] <a href="https://www.sciencemag.org/news/2007/03/it-pays-be-wingman">https://www.sciencemag.org/news/2007/03/it-pays-be-wingman</a> - Correction - the alpha and beta birds behave as following: the beta helps the alpha to court the female, which gives it a higher chance to become an alpha later.</li>
-<li>[8] <a href="https://www.zmescience.com/science/biology/male-ruff-steal-females-0434/">https://www.zmescience.com/science/biology/male-ruff-steal-females-0434/</a> - But there are the Ruff birds, which have 3 types of males: the alpha, the beta satellite (which still the girls) and the cross-dresser (which impersonates the female to steal the female in last second).</li>
-<li>[9] <a href="https://www.youtube.com/watch?v=En26p6GvtHw">https://www.youtube.com/watch?v=En26p6GvtHw</a> - The Royal Institution video Richard mentioned.</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/05_Xenogenesis_Dawn_Family_ch3-4_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/05_Xenogenesis_Dawn_Family_ch3-4_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/05_Xenogenesis_Dawn_Family_ch3-4.mp3" length="94657338" type="audio/mpeg" /><itunes:duration>00:56:46</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode: 4 Xenogenesis - Dawn: II: Family Chapters 1 &amp; 2</title>
-          <link>https://www.xenothesis.com/04_xenogenesis_dawn_family_ch1-2/</link>
-          <pubDate>Sat, 23 May 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/04_Xenogenesis_Dawn_Family_ch1-2.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>04</itunes:episode>
-          
-        <itunes:summary>In Episode 4, Richard and Michael discuss chapters 1 and 2 from section 2: Family of Xenogenesis, which leads to a conversation about regeneration vats, cryonics and potential mechanisms protecting us from cryogenic damage.</itunes:summary>
-        <description>In Episode 4, Richard and Michael discuss chapters 1 and 2 from section 2: Family of Xenogenesis, which leads to a conversation about regeneration vats, cryonics and potential mechanisms protecting us from cryogenic damage.</description>
-        <googleplay:description>In Episode 4, Richard and Michael discuss chapters 1 and 2 from section 2: Family of Xenogenesis, which leads to a conversation about regeneration vats, cryonics and potential mechanisms protecting us from cryogenic damage.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 4, Richard and Michael discuss chapters 1 and 2 from section 2: Family of Xenogenesis, which leads to a conversation about regeneration vats, cryonics and potential mechanisms protecting us from cryogenic damage.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:36 - Intro<br>
-00:01:25 - Predictions<br>
-00:03:00 - Chapter 1 introduction<br>
-00:03:57 - Discussion on the Oankali names<br>
-00:06:40 - Continuation on Chapter 1 introduction<br>
-00:08:17 - Perception of time [1 - 3]<br>
-00:10:03 - Chapter 1 introduction (again)<br>
-00:12:10 - The maturation and development of Oankali<br>
-00:15:22 - Chapter 1 introduction ends<br>
-00:15:33 - The attitude of Oankali towards humanity<br>
-00:17:50 - &ldquo;Silent Treatment&rdquo;<br>
-00:18:50 - Oankali and the ability to eat otherworldly food<br>
-00:23:23 - Chapter 2 introduction<br>
-00:24:00 - Stockholm Syndrome [4]<br>
-00:30:25 - Floating vehicles [5 - 9]<br>
-00:40:50 - The Stasis plants [10 - 14]<br>
-00:48:30 - Age of Earth and the Universe [15, 16]<br>
-00:50:05 - Cryonics (and the urban legend of Walt Disney) [17, 18]<br>
-00:53:50 - Hibernation in animals and SUMOylation [19 - 22]<br>
-00:58:28 - Chapter 2 introduction - final part<br>
-01:00:03 - Chapter 2 introduction ends<br>
-01:00:05 - Discussion on organic door security and protein structure [23, 24]<br>
-01:07:51 - Chapter 3 and 4 Predictions<br>
-01:12:32 - Outro</p>
-<h4 id="references">References</h4>
-<p>Time:</p>
-<ul>
-<li>[1] <a href="https://www.scientificamerican.com/article/step-into-the-twilight-zone-can-earthlings-adjust-to-a-longer-day-on-mars/">https://www.scientificamerican.com/article/step-into-the-twilight-zone-can-earthlings-adjust-to-a-longer-day-on-mars/</a> - Time perception on Mars</li>
-<li>[2] <a href="https://www.nhs.uk/conditions/seasonal-affective-disorder-sad/">https://www.nhs.uk/conditions/seasonal-affective-disorder-sad/</a> - what is Seasonal Affective Disorder.</li>
-<li>[3] <a href="https://www.theatlantic.com/health/archive/2015/07/the-norwegian-town-where-the-sun-doesnt-rise/396746/">https://www.theatlantic.com/health/archive/2015/07/the-norwegian-town-where-the-sun-doesnt-rise/396746/</a> - The Norwegian town that was discussed.</li>
-</ul>
-<p>Stockholm Syndrome:</p>
-<ul>
-<li>[4] <a href="https://en.wikipedia.org/wiki/Stockholm_syndrome">https://en.wikipedia.org/wiki/Stockholm_syndrome</a> - Description of Stockholm Syndrome</li>
-</ul>
-<p>Superconductivity and magnetism:</p>
-<ul>
-<li>[5] <a href="https://www.youtube.com/watch?v=h6FYs_AUCsQ">https://www.youtube.com/watch?v=h6FYs_AUCsQ</a> - Video describing superconductivity</li>
-<li>[6] <a href="https://www.sciencealert.com/birds-see-magnetic-fields-cryptochrome-cry4-photoreceptor-2018">https://www.sciencealert.com/birds-see-magnetic-fields-cryptochrome-cry4-photoreceptor-2018</a> - Magnetoreceptors in birds – the article refers to few publications.</li>
-<li>[7] <a href="https://www.forbes.com/sites/trevornace/2018/04/04/we-finally-know-how-birds-can-see-earths-magnetic-field/">https://www.forbes.com/sites/trevornace/2018/04/04/we-finally-know-how-birds-can-see-earths-magnetic-field/</a> - Cryptochromes – a way to detect magnetic field. The article contains references within the text.</li>
-<li>[8] <a href="https://en.wikipedia.org/wiki/Cryptochrome">https://en.wikipedia.org/wiki/Cryptochrome</a> - Wikipedia article on Cryptochromes.</li>
-<li>[9] <a href="https://en.wikipedia.org/wiki/Superconductivity">https://en.wikipedia.org/wiki/Superconductivity</a> - More details on superconductivity.</li>
-</ul>
-<p>Stasis plants:</p>
-<ul>
-<li>[10] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763764/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763764/</a> - A short review article on the positive effects of Aloe Vera.</li>
-<li>[11] <a href="https://en.wikipedia.org/wiki/Carnivorous_plant">https://en.wikipedia.org/wiki/Carnivorous_plant</a> - Earth&rsquo;s carnivorous plants.</li>
-</ul>
-<p>Metabolism:</p>
-<ul>
-<li>[12] <a href="https://en.wikipedia.org/wiki/Urea#Humans">https://en.wikipedia.org/wiki/Urea#Humans</a> - The metabolism of urea in urine.</li>
-</ul>
-<p>Liquid breathing:</p>
-<ul>
-<li>[13] <a href="https://en.wikipedia.org/wiki/Liquid_breathing">https://en.wikipedia.org/wiki/Liquid_breathing</a> - Wikipedia article on breathing in liquids.</li>
-<li>[14] <a href="https://libgen.wikicn.top/dl/64494679/fe53e5">https://libgen.wikicn.top/dl/64494679/fe53e5</a> - Direct link to a PDF article &ldquo;Visualizing dissolved oxygen transport for liquid ventilation in an in vitro model of the human airways&rdquo; by Janke, T and Bauer K from the Journal of Measurement Science and Technology.</li>
-</ul>
-<p>Age of Earth and the Universe:</p>
-<ul>
-<li>[15] <a href="https://en.wikipedia.org/wiki/Age_of_the_Earth">https://en.wikipedia.org/wiki/Age_of_the_Earth</a> - Wikipedia article on the age of Earth - contains references to scientific articles.</li>
-<li>[16] <a href="https://en.wikipedia.org/wiki/Age_of_the_universe">https://en.wikipedia.org/wiki/Age_of_the_universe</a> - Wikipedia article on the age of the Universe.</li>
-</ul>
-<p>Cryonics and cryopreservation:</p>
-<ul>
-<li>[17] <a href="https://en.wikipedia.org/wiki/Cryonics">https://en.wikipedia.org/wiki/Cryonics</a> - Wikipedia article discussing cryonics. Also it tells that Walt Disney in fact was not cryopreserved - his body was cremated and buried - opposite to what Michael thought.</li>
-<li>[18] <a href="https://sci-hub.tw/10.1021/jp073113e">https://sci-hub.tw/10.1021/jp073113e</a> - Dimethyl Sulfoxide (DMSO) - it&rsquo;s uses in cryopreservation.</li>
-</ul>
-<p>SUMOylation (protection of brain):</p>
-<ul>
-<li>[19] <a href="https://en.wikipedia.org/wiki/SUMO_protein">https://en.wikipedia.org/wiki/SUMO_protein</a> - What is SUMO protein - a Wikipedia article.</li>
-<li>[20] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2396349/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2396349/</a> - Article showing that SUMOylation is increased during hibernation in animals.</li>
-<li>[21] <a href="https://en.wikipedia.org/wiki/Hibernation">https://en.wikipedia.org/wiki/Hibernation</a> - What is hibernation?</li>
-<li>[22] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5757445/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5757445/</a> - Review article on SUMOylation and its potentially protective function in brain damage.</li>
-</ul>
-<p>Protein structure:</p>
-<ul>
-<li>[23] <a href="https://en.wikipedia.org/wiki/Protein_structure">https://en.wikipedia.org/wiki/Protein_structure</a> - Wikipedia article summarising protein structure.</li>
-<li>[24] <a href="https://www.ncbi.nlm.nih.gov/books/NBK26820/">https://www.ncbi.nlm.nih.gov/books/NBK26820/</a> - Review article explaining how can we know protein structure.</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/04_Xenogenesis_Dawn_Family_ch1-2_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/04_Xenogenesis_Dawn_Family_ch1-2_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/04_Xenogenesis_Dawn_Family_ch1-2.mp3" length="129540983" type="audio/mpeg" /><itunes:duration>01:14:01</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode: 3 Xenogenesis - Dawn: I: Womb Chapters 4 &amp; 5</title>
-          <link>https://www.xenothesis.com/03_xenogenesis_dawn_womb_ch4-5/</link>
-          <pubDate>Sun, 10 May 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/03_Xenogenesis_Dawn_Womb_ch4-5.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>03</itunes:episode>
-          
-        <itunes:summary>In Episode 3, Richard and Michael discuss Chapters 4 and 5, which leads to a nearly two-hour discussion on culture and regenerative medicine.</itunes:summary>
-        <description>In Episode 3, Richard and Michael discuss Chapters 4 and 5, which leads to a nearly two-hour discussion on culture and regenerative medicine.</description>
-        <googleplay:description>In Episode 3, Richard and Michael discuss Chapters 4 and 5, which leads to a nearly two-hour discussion on culture and regenerative medicine.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 3, Richard and Michael discuss Chapters 4 and 5, which leads to a nearly two-hour discussion on culture and regenerative medicine.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:32 – Episode start<br>
-00:01:02 – Predictions<br>
-00:01:52 – Chapter 4 introduction<br>
-00:04:29 – Concentration of oxygen vs size of organisms [1]<br>
-00:06:57 – End of Chapter 4 introduction<br>
-00:07:10 – Chapter 5 predictions<br>
-00:08:20 – Chapter 5 introduction<br>
-00:11:10 – Carcinogens [2, 3]<br>
-00:13:55 – Botulinum toxin [4]<br>
-00:14:45 – Foods that prevent cancer [5]<br>
-00:18:30 – Manuka honey – a mind-blowing healing item [6]<br>
-00:20:55 – Continuation on Chapter 5 introduction<br>
-00:25:25 – Discussion on trans-generational memory of Oankali<br>
-00:27:36 – Discussion on data storage using DNA [7, 8]<br>
-00:31:28 – Continuation on Chapter 5 introduction…<br>
-00:39:10 – End of Chapter 5 introduction<br>
-00:39:40 – Discussion on the ship <br>
-00:41:30 – Richard tells us what is needed for life to begin [9, 10] and discussion on energy storage<br>
-00:44:11 – Radiation-eating bacteria [11 – 14]<br>
-00:47:00 – Discussion on radiation [15 – 16]<br>
-00:49:55 – Discussion on the culture of Oankali and their reproduction modes<br>
-00:55:10 – Intelligence vs Hierarchy<br>
-00:58:06 – Collective consciousness (singularity) [17]<br>
-00:59:20 – Individual autonomy and discussion on Lilith’s feeling on the cross-breeding<br>
-01:00:05 – The big reveal – what is the Trade of Oankali and discussion on hierarchy, power and slavery [18, 19]<br>
-01:08:20 – Michael’s gaming nerdiness leaks out – references to StarCraft and Warhammer 40k<br>
-01:09:14 – Colonialism [20]<br>
-01:10:14 – Discussion on collaborationism<br>
-01:14:14 – Is Michael on a way to spoil himself the whole book?<br>
-01:15:50 – Discussion on the Oankali – the Trade and their need to do it<br>
-01:20:00 – Problems with inbreeding [21, 22]<br>
-01:24:50 – Ooloi and the cancer – is cancer a good example of regeneration? [23 – 29]<br>
-01:27:45 – Teratomas [30]<br>
-01:29:22 – Induced Pluripotent Stem Cells [31] and further discussion on regeneration<br>
-01:37:13 – Why Ph.D. is hard… (or research in general)<br>
-01:43:17 – PREDICTIONS<br>
-01:44:33 – Outro \</p>
-<h4 id="references">References</h4>
-<p>Size of organisms:</p>
-<ul>
-<li>[1] <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2010.0001">https://royalsocietypublishing.org/doi/10.1098/rspb.2010.0001</a> - paper discussing the atmospheric oxygen level and size of organisms</li>
-</ul>
-<p>Cancer:</p>
-<ul>
-<li>
-<p>[2] <a href="https://www.nhs.uk/news/cancer/ultra-processed-foods-linked-cancer/">https://www.nhs.uk/news/cancer/ultra-processed-foods-linked-cancer/</a> - Carcinogens in processed food</p>
-</li>
-<li>
-<p>[3] <a href="https://www.cancer.org/cancer/cancer-causes/general-info/known-and-probable-human-carcinogens.html">https://www.cancer.org/cancer/cancer-causes/general-info/known-and-probable-human-carcinogens.html</a> - More carcinogens
-Botulinum toxin:</p>
-</li>
-<li>
-<p>[4] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/</a> - Article discussing the danger of botulinum toxin</p>
-</li>
-</ul>
-<p>Preventing cancer:</p>
-<ul>
-<li>
-<p>[5] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3533886/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3533886/</a> - Curcumin and its gigantic list of anti-cancer effects
-Manuka honey:</p>
-</li>
-<li>
-<p>[6] <a href="https://www.healthline.com/health/manuka-honey#benefits">https://www.healthline.com/health/manuka-honey#benefits</a> – the article discusses the positive effects of Manuka honey – the references within the articles site scientific research
-DNA data storage:</p>
-</li>
-<li>
-<p>[7] <a href="https://www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/">https://www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/</a> - A brief article about DNA data storage</p>
-</li>
-<li>
-<p>[8] <a href="https://physicsworld.com/a/data-storage-in-dna-gains-from-a-larger-alphabet/">https://physicsworld.com/a/data-storage-in-dna-gains-from-a-larger-alphabet/</a> - the capabilities of DNA to store data</p>
-</li>
-</ul>
-<p>Requirements for life to begin:</p>
-<ul>
-<li>[9] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156692/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156692/</a> - article discussing requirements and limits for life in exoplanets</li>
-<li>[10] <a href="https://www.nhm.ac.uk/discover/eight-ingredients-life-in-space.html">https://www.nhm.ac.uk/discover/eight-ingredients-life-in-space.html</a> - brief article describing 8 ingredients necessary for life in space</li>
-</ul>
-<p>Radiation-eating bacteria:</p>
-<ul>
-<li>[11] <a href="https://www.newscientist.com/article/mg23431211-300-radiation-eating-bacteria-could-make-nuclear-waste-safer/">https://www.newscientist.com/article/mg23431211-300-radiation-eating-bacteria-could-make-nuclear-waste-safer/</a> - short article on the topic of radiation-eating bacteria.</li>
-<li>[12] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6422879/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6422879/</a> - Bacteria from intestines eating radioactive Caesium.</li>
-<li>[13] <a href="https://sci-hub.tw/10.1007/s00253-012-4642-7">https://sci-hub.tw/10.1007/s00253-012-4642-7</a> - Link to PDF talking about radiation-resistant extremophiles</li>
-<li>[14] <a href="https://www.popularmechanics.com/science/a30784690/chernobyl-fungus/">https://www.popularmechanics.com/science/a30784690/chernobyl-fungus/</a> - Fungus eating radiation in Chernobyl</li>
-</ul>
-<p>Radiation in a nutshell:</p>
-<ul>
-<li>
-<p>[15] <a href="https://en.wikipedia.org/wiki/Radiation">https://en.wikipedia.org/wiki/Radiation</a> - Wikipedia has a great article on radiation types.</p>
-</li>
-<li>
-<p>[16] <a href="https://www.youtube.com/watch?v=zI2vRwFKnHQ">https://www.youtube.com/watch?v=zI2vRwFKnHQ</a> – Video discussing on dangers of radiation
-Consciousness singularity:</p>
-</li>
-<li>
-<p>[17] <a href="https://en.wikipedia.org/wiki/Technological_singularity">https://en.wikipedia.org/wiki/Technological_singularity</a> - A Wikipedia article about the technological singularity. It’s important to note that here are a number of websites discussing consciousness singularity, but these are hard to verify and still a controversial topic and thus we will provide only this link.</p>
-</li>
-</ul>
-<p>Cultural assimilation and colonialism:</p>
-<ul>
-<li>[18]  <a href="https://en.wikipedia.org/wiki/Cultural_assimilation_of_Native_Americans">https://en.wikipedia.org/wiki/Cultural_assimilation_of_Native_Americans</a> - example of cultural assimilation.</li>
-<li>[19] <a href="https://en.wikipedia.org/wiki/Slavery_in_the_United_States">https://en.wikipedia.org/wiki/Slavery_in_the_United_States</a> - Slavery in U.S.A.</li>
-<li>[20] <a href="https://en.wikipedia.org/wiki/Colonialism">https://en.wikipedia.org/wiki/Colonialism</a> - Wikipedia list giving examples and explanation to colonialism</li>
-</ul>
-<p>Inbreeding:</p>
-<ul>
-<li>[21] <a href="https://en.wikipedia.org/wiki/Haemophilia_in_European_royalty">https://en.wikipedia.org/wiki/Haemophilia_in_European_royalty</a> - Haemophilia in the Royal Family</li>
-<li>[22] <a href="https://en.wikipedia.org/wiki/Inbreeding">https://en.wikipedia.org/wiki/Inbreeding</a> - Explanation to inbreeding and problems associated with it</li>
-</ul>
-<p>Regeneration of tissue:</p>
-<ul>
-<li>[23] <a href="https://stemcells.nih.gov/info/basics/1.htm">https://stemcells.nih.gov/info/basics/1.htm</a> - what are Stem Cells?</li>
-<li>[24] <a href="http://sitn.hms.harvard.edu/flash/2018/regeneration-axolotl-can-teach-us-regrowing-human-limbs/">http://sitn.hms.harvard.edu/flash/2018/regeneration-axolotl-can-teach-us-regrowing-human-limbs/</a> - Salamanders and regeneration</li>
-<li>[25] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5534018/pdf/nihms882177.pdf">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5534018/pdf/nihms882177.pdf</a> - Review on axolotl limb generation</li>
-<li>[26] <a href="https://elifesciences.org/articles/48511">https://elifesciences.org/articles/48511</a> - more information on salamanders</li>
-<li>[27] <a href="https://science.sciencemag.org/content/363/6432/eaau6173.long">https://science.sciencemag.org/content/363/6432/eaau6173.long</a> - Acoels - Flat worms capable of regenerating their bodies – very detailed and scientific article.</li>
-<li>[28] <a href="https://en.wikipedia.org/wiki/Immortalised_cell_line">https://en.wikipedia.org/wiki/Immortalised_cell_line</a> - Immortalised cells</li>
-<li>[29] <a href="https://en.wikipedia.org/wiki/HeLa">https://en.wikipedia.org/wiki/HeLa</a> - HeLa immortalised cells</li>
-<li>[30] <a href="https://en.wikipedia.org/wiki/Teratoma">https://en.wikipedia.org/wiki/Teratoma</a> - What is a teratoma</li>
-</ul>
-<p>Induced Pluripotent Stem Cells:</p>
-<ul>
-<li>[31] <a href="https://www.ncbi.nlm.nih.gov/pubmed/16904174">https://www.ncbi.nlm.nih.gov/pubmed/16904174</a> - The paper by Yamanaka et al. discussing induction of pluripotent stem cells (more than 23,000 citations!)</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
-Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/03_Xenogenesis_Dawn_Womb_ch4-5_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/03_Xenogenesis_Dawn_Womb_ch4-5_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/03_Xenogenesis_Dawn_Womb_ch4-5.mp3" length="175366981" type="audio/mpeg" /><itunes:duration>01:50:37</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode 2: Xenogenesis - Dawn: I. Womb - Chapter 3</title>
-          <link>https://www.xenothesis.com/02-xenogenesis-dawn-womb-ch3/</link>
-          <pubDate>Sat, 25 Apr 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/02_Xenogenesis_Dawn_Womb_ch3.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>02</itunes:episode>
-          
-        <itunes:summary>__XenoThesis__ - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 &#34;Dawn&#34; of Xenogenesis series by Olivia E. Butler.</itunes:summary>
-        <description>__XenoThesis__ - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 &#34;Dawn&#34; of Xenogenesis series by Olivia E. Butler.</description>
-        <googleplay:description>__XenoThesis__ - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 &#34;Dawn&#34; of Xenogenesis series by Olivia E. Butler.</googleplay:description>
-        <content:encoded><![CDATA[<p>Richard and Michael discuss the new revelations about the Jdahya’s species in chapter 3, leading to a conversation about how do we know the sequence of our genome nowadays.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:36 – Intro<br>
-00:01:00 – Introduction to the previous predictions<br>
-00:02:40 – Clarification on few things said in Episode 1<br>
-00:04:00 – Discussion about biology and its complexity. How do scientist prepare to do research<br>
-00:07:30 – Introduction to the chapter 3<br>
-00:10:00 – Discussion about cancer and immune system [1 – 5]<br>
-00:13:20 – Naked Mole Rats – Superman from animal kingdom – a being that does not get cancer [6, 7]<br>
-00:14:00 – Big animals also don’t get cancer? Peto’s Paradox [8].<br>
-00:16:00 – Don’t rely on cancer killing a cancer…<br>
-00:17:50 – Discussion about Lilith’s attitude to Ooloi – the 3rd gender in the alien species<br>
-00:20:40 – Discussion on the ominous ways of ooloi do to understand humans – human trials [9 – 12]<br>
-00:24:30 – Thalidomide [13]<br>
-00:26:36 – Continuation on introduction to the chapter 3<br>
-00:31:06 – Discussion about Lilith’s reaction to the Oankali<br>
-00:34:00 – Exposure therapy – discussion how Oankali are trying to get Lilith get used to them [14, 15]<br>
-00:35:01 – Discussion on the relationship between human doctor and Jdahya.<br>
-00:35:56 – Was Jdahya’s form changed to resemble human form?<br>
-00:37:22 – Uncanny Valley [16]<br>
-00:38:06 – Oankali finding human genetic structure disturbing – discussion on why?<br>
-00:38:30 – Continuation on introduction to the chapter 3 – finale<br>
-00:39:30 – Discussion on the ooloi ability to sense genome<br>
-00:43:35 – What is DNA [17]<br>
-00:49:50 – Genomic sequencing explained [18 – 20]<br>
-00:53:39 – How would the Oankali perceive the genomic sequence?<br>
-01:00:50 – Oankali – The Traders – what could that mean?<br>
-01:03:12 – Discussion on the experience of traveling and learning about different cultures<br>
-01:05:47 – The cost of genome sequencing nowadays<br>
-01:07:05 – What is research and how much can you know? [22]<br>
-01:10:39 – Confidence vs experience/knowledge [23]<br>
-01:15:00 – We will try our best to give the best sources (or at least some basics)<br>
-01:18:38 – PREDICTIONS TO CHAPTER 4 (AND MAYBE CHAPTER 5)<br>
-01:21:12 - Outro\</p>
-<h4 id="references">References</h4>
-<p>Immune system and cancer:</p>
-<ul>
-<li>[1] <a href="https://www.immunopaedia.org.za/immunology/basics/1-a-snapshot-of-the-immune-system/">https://www.immunopaedia.org.za/immunology/basics/1-a-snapshot-of-the-immune-system/</a> - Really nice website describing the basics of our immune system</li>
-<li>[2] <a href="https://www.youtube.com/watch?v=zQGOcOUBi6s">https://www.youtube.com/watch?v=zQGOcOUBi6s</a> – Kurzgesagt – The Immune System Explained – the first of few videos about immune system. Very informative.</li>
-<li>[3] <a href="https://www.youtube.com/watch?v=BmFEoCFDi-w">https://www.youtube.com/watch?v=BmFEoCFDi-w</a> – Amazing video from TED-Ed describing the beginnings of cancer</li>
-<li>[4] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169832/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169832/</a> - Review on the role of immune system in cancer (Gonzalez et al., “Roles of the immune system in cancer: from tumor initiation to metastatic progression”, Genes &amp; Development, 2018, doi: 10.1101/gad.314617.118)</li>
-<li>[5] <a href="https://www.khanacademy.org/science/biology/developmental-biology/apoptosis-in-development/a/apoptosis">https://www.khanacademy.org/science/biology/developmental-biology/apoptosis-in-development/a/apoptosis</a> - Controlled cell death – a way for our bodies to remove cells with too many mistakes.</li>
-</ul>
-<p>Animals and cancer:</p>
-<ul>
-<li>[6] <a href="https://en.wikipedia.org/wiki/Naked_mole-rat">https://en.wikipedia.org/wiki/Naked_mole-rat</a> - Wikipedia page about Naked mole rat and its resistance to cancer</li>
-<li>[7] <a href="https://www.sciencemag.org/news/2013/06/why-naked-mole-rats-dont-get-cancer">https://www.sciencemag.org/news/2013/06/why-naked-mole-rats-dont-get-cancer</a> - Brief article on why naked mole rats do not get cancer</li>
-<li>[8] <a href="https://www.youtube.com/watch?v=1AElONvi9WQ">https://www.youtube.com/watch?v=1AElONvi9WQ</a> – Kurzgesagt video about why big animals don’t get cancer – the Peto’s Paradox.</li>
-</ul>
-<p>Human trials in history:</p>
-<ul>
-<li>[9] <a href="https://en.wikipedia.org/wiki/Tuskegee_syphilis_experiment">https://en.wikipedia.org/wiki/Tuskegee_syphilis_experiment</a> - Wikipedia article about the clinical study on the untreated syphilis in Black Americans in U.S.A.</li>
-<li>[10] <a href="https://en.wikipedia.org/wiki/Nazi_human_experimentation">https://en.wikipedia.org/wiki/Nazi_human_experimentation</a> - The list of experiments Nazi’s performed on their victims.</li>
-<li>[11] <a href="https://en.wikipedia.org/wiki/Nuremberg_trials">https://en.wikipedia.org/wiki/Nuremberg_trials</a> - Nuremberg trials</li>
-<li>[12] <a href="https://en.wikipedia.org/wiki/Human_subject_research#Ethical_guidelines">https://en.wikipedia.org/wiki/Human_subject_research#Ethical_guidelines</a> – The Ethical rules for human trials</li>
-<li>[13] <a href="https://en.wikipedia.org/wiki/Thalidomide#Adverse_effects">https://en.wikipedia.org/wiki/Thalidomide#Adverse_effects</a> – Effects of Thalidomide on pregnant women and their children</li>
-</ul>
-<p>Exposure therapy:</p>
-<ul>
-<li>[14] <a href="https://www.apa.org/ptsd-guideline/patients-and-families/exposure-therapy">https://www.apa.org/ptsd-guideline/patients-and-families/exposure-therapy</a> - American Psychological Association website describing what exposure therapy is.</li>
-<li>[15] <a href="https://en.wikipedia.org/wiki/Stockholm_syndrome">https://en.wikipedia.org/wiki/Stockholm_syndrome</a> - Stockholm syndrome</li>
-</ul>
-<p>Uncanny Valley:</p>
-<ul>
-<li>[16] <a href="https://en.wikipedia.org/wiki/Uncanny_valley">https://en.wikipedia.org/wiki/Uncanny_valley</a> - The description of the human behaviour towards an object’s resemblance to a human being.</li>
-</ul>
-<p>Genome:</p>
-<ul>
-<li>[17] <a href="https://www.youtube.com/watch?v=8kK2zwjRV0M">https://www.youtube.com/watch?v=8kK2zwjRV0M</a> – What is DNA</li>
-<li>[18] <a href="https://www.youtube.com/watch?v=FvHRio1yyhQ">https://www.youtube.com/watch?v=FvHRio1yyhQ</a> – video on DNA sequencing</li>
-<li>[19] <a href="https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/a/dna-sequencing">https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/a/dna-sequencing</a> - DNA sequencing</li>
-<li>[20] <a href="https://en.wikipedia.org/wiki/Frederick_Sanger#Research_and_career">https://en.wikipedia.org/wiki/Frederick_Sanger#Research_and_career</a> – Frederick Sanger</li>
-<li>[21] <a href="http://genomics.umn.edu/downloads/sequencing-methods-review.pdf">http://genomics.umn.edu/downloads/sequencing-methods-review.pdf</a> - List of sequencing methods.</li>
-</ul>
-<p>What is research:</p>
-<ul>
-<li>[22] <a href="http://matt.might.net/articles/phd-school-in-pictures/">http://matt.might.net/articles/phd-school-in-pictures/</a> - the diagram we talked about that relates to our understanding of the world</li>
-<li>[23] <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect</a> – Experience vs confidence</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydän</p>
-<p>Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/02_Xenogenesis_Dawn_Womb_ch3_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/02_Xenogenesis_Dawn_Womb_ch3_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/02_Xenogenesis_Dawn_Womb_ch3.mp3" length="126172750" type="audio/mpeg" /><itunes:duration>01:22:45</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item>
-        <item>
-          <title>Episode 1: Xenogenesis - Dawn: I. Womb - Chapters 1 and 2</title>
-          <link>https://www.xenothesis.com/01-xenogenesis-dawn-womb-ch1-2/</link>
-          <pubDate>Sat, 11 Apr 2020 00:00:00 +0000 </pubDate>
-          <dc:creator></dc:creator>
-          <guid>https://xenothesis.eu-central-1.linodeobjects.com/01_Xenogenesis_Dawn_Womb_ch1-2.mp3</guid>
-          <itunes:author>
-            
-            
-              Richard J. Acton 
-              
-                    and Michael Glinka</itunes:author>
-          
-          <itunes:episode>01</itunes:episode>
-          
-        <itunes:summary>__XenoThesis__ - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 &#34;Dawn&#34; of Xenogenesis series by Olivia E. Butler.</itunes:summary>
-        <description>__XenoThesis__ - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 &#34;Dawn&#34; of Xenogenesis series by Olivia E. Butler.</description>
-        <googleplay:description>__XenoThesis__ - a podcast by two scientists trying to apply Science to the Science-Fiction. Here, Richard and Michael discuss the book 1 &#34;Dawn&#34; of Xenogenesis series by Olivia E. Butler.</googleplay:description>
-        <content:encoded><![CDATA[<p>Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.</p>
-<h4 id="timestamps">Timestamps</h4>
-<p>00:00:38 - Introduction to the XenoThesis and the book<br>
-00:05:11 - Introduction of the author<br>
-00:08:43 - Introduction to the Chapter 1<br>
-00:13:00 - Lilith&rsquo;s name<br>
-00:17:00 - Lilith&rsquo;s past - what caused her to end up where she was<br>
-00:18:05 - Relationship with the young boy Sharad, discussion on the isolation effect on humans<br>
-00:19:40 - Suspended sleep<br>
-00:23:20 - Non-velcro, Velcro clothes [1]<br>
-00:25:33 - Discussion on the material science (and sport)<br>
-00:29:33 - PREDICTIONS OF CHAPTER 2<br>
-<br>
-00:31:49 - Introduction to the Chapter 2<br>
-00:36:11 - War in nature [2]<br>
-00:40:10 - 1983 Soviet nuclear false alarm [3, 4]<br>
-00:43:00 - Michael forgets Jdahya&rsquo;s name yet again&hellip;<br>
-00:45:00 - Introduction to the Chapter 2 finished<br>
-00:45:20 - Discussion on the biology of Jdahya&rsquo;s hair (sensory organs)<br>
-00:47:00 - Bristol Zoo lions<br>
-00:48:20 - Disfigurement and negative reaction [5. 6], pareidolia<br>
-00:50:13 - Jdahya&rsquo;s sensory organs [8, 9, 10]<br>
-00:55:53 - Mantis shrimp eyesight<br>
-00:56:30 - Central nervous system [12. 13]<br>
-01:01:10 - Michael&rsquo;s wish to meet aliens, if it is possible<br>
-01:01:35 - Start of speculation on alien biology<br>
-01:01:48 - Primal soup experiment [14]<br>
-01:03:50 - Common ancestry and biochemistry<br>
-01:04:28 - Chirality of molecules [15, 16] and compatibility with aliens<br>
-01:16:49 - PREDICTIONS OF CHAPTER 3<br>
-01:19:42 - Outro</p>
-<h4 id="references">References</h4>
-<p>Graphene and carbon nanotubes:</p>
-<ul>
-<li>[1] <a href="https://www.nature.com/articles/ncomms13450">https://www.nature.com/articles/ncomms13450</a> - review on carbon nanotubes used to attach heavy objects. I could not find the specific video that I was referencing and I said graphene instead of carbon nanotubes, but this paper corrects and explains it quite well //Michael</li>
-</ul>
-<p>Ant colonies:</p>
-<ul>
-<li>[2] <a href="https://youtu.be/7_e0CA_nhaE">https://youtu.be/7_e0CA_nhaE</a> - This video by fantastic Youtube channel, Kurzgesagt is probably the best and most detailed source of information on the discussed topic.</li>
-</ul>
-<p>Nuclear weapons:</p>
-<ul>
-<li>[3] <a href="https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident">https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident</a> - Wikipedia article on the Soviet nuclear false alarm</li>
-<li>[4] <a href="https://en.wikipedia.org/wiki/List_of_military_nuclear_accidents">https://en.wikipedia.org/wiki/List_of_military_nuclear_accidents</a> - List of military nuclear accidents since 1942.</li>
-</ul>
-<p>Pareidolia and disfigurement:</p>
-<ul>
-<li>[5] <a href="https://www.sciencemag.org/news/2012/07/why-facial-disfigurements-creep-us-out#">https://www.sciencemag.org/news/2012/07/why-facial-disfigurements-creep-us-out#</a> - Science short article discussing why we stare at disfigurement</li>
-<li>[6] <a href="https://en.wikipedia.org/wiki/Uncanny_valley">https://en.wikipedia.org/wiki/Uncanny_valley</a> - A theory describing why we experience the feeling of &ldquo;eeriness&rdquo; and &ldquo;revulsion&rdquo; when encountering disfigurement</li>
-<li>[7] <a href="https://en.wikipedia.org/wiki/Pareidolia">https://en.wikipedia.org/wiki/Pareidolia</a> - process of recognizing faces where there are none</li>
-</ul>
-<p>Gastropods:</p>
-<ul>
-<li>[8] <a href="http://molluscs.at/gastropoda/index.html?/gastropoda/morphology/tentacles.html">http://molluscs.at/gastropoda/index.html?/gastropoda/morphology/tentacles.html</a> - basic information on the gastropod morphology</li>
-<li>[9] <a href="http://libgen.bban.top/book/15288520/c9ba91">http://libgen.bban.top/book/15288520/c9ba91</a> - A review from 1983 providing a more detailed information about the gastropod chemoreceptors (Croll R. P, &ldquo;Gastropod Chemoreception&rdquo;, Biological Reviews, 1983, 58, pp 293-319)</li>
-<li>[10] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3172592/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3172592/</a> - Star Nosed Moles - a review detailing the structure and morphology of the star nose mole and the Eimer&rsquo;s organs on the surface.</li>
-</ul>
-<p>Mantis shrimp:</p>
-<ul>
-<li>[11] <a href="https://phys.org/news/2013-09-mantis-shrimp-world-eyesbut.html">https://phys.org/news/2013-09-mantis-shrimp-world-eyesbut.html</a> - article discussing Mantis shrimp eyesight</li>
-</ul>
-<p>Centralized Nervous System:</p>
-<ul>
-<li>[12] <a href="https://royalsocietypublishing.org/doi/10.1098/rstb.2007.2242">https://royalsocietypublishing.org/doi/10.1098/rstb.2007.2242</a> - Article on evolution of nervous system</li>
-<li>[13] <a href="https://www.scientificamerican.com/article/what-makes-our-brains-special/">https://www.scientificamerican.com/article/what-makes-our-brains-special/</a> - Article discussing what makes human brain unique</li>
-</ul>
-<p>The source of life:</p>
-<ul>
-<li>[14] <a href="https://en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment">https://en.wikipedia.org/wiki/Miller–Urey_experiment</a> - The primal soup experiment</li>
-</ul>
-<p>Biochemistry:</p>
-<ul>
-<li>[15] <a href="https://en.wikipedia.org/wiki/Chirality#Chemistry">https://en.wikipedia.org/wiki/Chirality#Chemistry</a> - what is molecular chirality</li>
-<li>[16] <a href="https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology">https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology</a> - what are RNA, DNA and proteins, and how do they function</li>
-</ul>
-<hr>
-<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydän</p>
-<p>Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
-]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/01_xenogenesis_dawn_ch1-2_thumb.png"></itunes:image>
-          <googleplay:image href="https://www.xenothesis.com/img/episode/01_xenogenesis_dawn_ch1-2_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/01_Xenogenesis_Dawn_Womb_ch1-2.mp3" length="122274466" type="audio/mpeg" /><itunes:duration>01:20:59</itunes:duration><itunes:explicit>yes</itunes:explicit>
-          <googleplay:explicit>yes</googleplay:explicit></item></channel>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episode: 13 Xenogenesis - Dawn: III: Nursery Chapter 6</title>
+      <link>https://www.xenothesis.com/13_xenogenesis_dawn_nursery_ch6/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/13_xenogenesis_dawn_nursery_ch6/</guid>
+      <description>In Episode 13, Richard and Michael finally have an opportunity to discuss science on regeneration and superstrength.
+Timestamps 00:00:32 - Intro
+00:02:04 - Chapter 6 predictions
+00:04:15 - Chapter 6 summary begins
+00:08:15 - When parents come and intrude on your conversations
+00:11:28 - Seeing an actual alien is a &amp;ldquo;concrete&amp;rdquo; evidence
+00:12:33 - We feel sorry for Lilith
+00:17:30 - Back to Chapter 6
+00:18:45 - Michael describes how he images the Trade</description>
+    </item>
+    
+    <item>
+      <title>Episode: 12 Xenogenesis - Dawn: III: Nursery Chapters 4 &amp; 5</title>
+      <link>https://www.xenothesis.com/12_xenogenesis_dawn_nursery_ch4-5/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/12_xenogenesis_dawn_nursery_ch4-5/</guid>
+      <description>In Episode 12, Richard and Michael discuss how much would it require for us to accept the fact that we were saved by aliens and how do we feel about mixing humans and aliens.
+Timestamps 00:00:32 - Intro
+00:01:26 - Chapter 4 predictions
+00:03:12 - Chapter 4 summary begins
+00:09:20 - How would we react to the ability of growing walls?
+00:13:14 - We are one of the people who want to know things (like genetic screening)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Episode: 11 Xenogenesis - Dawn: III: Nursery Chapters 2 &amp; 3</title>
+      <link>https://www.xenothesis.com/11_xenogenesis_dawn_nursery_ch2-3/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/11_xenogenesis_dawn_nursery_ch2-3/</guid>
+      <description>In Episode 11, Richard and Michael discuss the characters and the potential problems with the new humans that Lilith decided to Awaken.
+Timestamps 00:00:32 - Intro
+00:01:22 - Chapter 2 predictions
+00:02:43 - Chapter 2 summary begins
+00:04:50 - Ice-cold Lilith
+00:07:47 - Chapter 2 summary finishes
+00:08:04 - Discussion on the belief that aliens abducted them
+00:11:20 - Michael&amp;rsquo;s hypothesis on the background of chosen humans for Awakening
+00:13:00 - &amp;ldquo;Evil&amp;rdquo; scientist trope ethics [1, 2]</description>
+    </item>
+    
+    <item>
+      <title>Episode: 10 Xenogenesis - Dawn: III: Nursery Chapter 1</title>
+      <link>https://www.xenothesis.com/10_xenogenesis_dawn_nursery_ch1/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/10_xenogenesis_dawn_nursery_ch1/</guid>
+      <description>In Episode 10, Richard and Michael discuss the chapter 1 from the new part: Nursery. The chapter introduces us potential new human allies, all with their quirky characteristics.
+Timestamps 00:00:32 - Intro
+00:02:39 - Chapter 1 predictions
+00:06:23 - Chapter 1 introduction begins
+00:07:00 - &amp;ldquo;Giant fart&amp;rdquo; transport [1, 2]
+00:11:21 - Back to Chapter 1
+00:12:10 - &amp;ldquo;Earthrise&amp;rdquo; and Mars pictures [3, 4]
+00:15:00 - Lilith&amp;rsquo;s new abilities
+00:17:00 - The new room Lilith is stuck in</description>
+    </item>
+    
+    <item>
+      <title>Episode: 9 Xenogenesis - Dawn: II: Family Chapters 11 &amp; 12</title>
+      <link>https://www.xenothesis.com/09_xenogenesis_dawn_family_ch11-12/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/09_xenogenesis_dawn_family_ch11-12/</guid>
+      <description>In Episode 9, Richard and Michael finish the part 2: Family of the book and discuss range of topics from animal and children&amp;rsquo;s&#39; rights, to biohacking and gene therapy.
+Timestamps 00:00:31 - Intro
+00:01:53 - Chapter 11 predictions
+00:04:14 - Chapter 11 summary begins
+00:05:30 - Oankali mating and inbreeding [1 - 3]
+00:08:24 - Animal vs children rights (UK) [4 - 6]
+00:09:35 - Why animals had more rights before children?</description>
+    </item>
+    
+    <item>
+      <title>Episode: 8 Xenogenesis - Dawn: II: Family Chapters 9 &amp; 10</title>
+      <link>https://www.xenothesis.com/08_xenogenesis_dawn_family_ch9-10/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/08_xenogenesis_dawn_family_ch9-10/</guid>
+      <description>In Episode 8, Richard and Michael discuss the issues with separating social animals from their kind and go on a tangent discussing the lack of security of &amp;ldquo;smart&amp;rdquo; devices.
+Timestamps 00:00:30 - Intro
+00:02:56 - Chapter 9 predictions
+00:06:06 - Chapter 9 introduction
+00:07:48 - A comparative of separation of social animals from their kind to separation of humans by the Oankali [1, 2]
+00:11:21 - Nikanj&amp;rsquo;s bomb drop
+00:15:58 - Continuation on chapter 9 summary</description>
+    </item>
+    
+    <item>
+      <title>Episode: 7 Xenogenesis - Dawn: II: Family Chapters 7 &amp; 8</title>
+      <link>https://www.xenothesis.com/07_xenogenesis_dawn_family_ch7-8/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/07_xenogenesis_dawn_family_ch7-8/</guid>
+      <description>In Episode 7, Richard and Michael discuss the messages woven by Octavia Butler in the story leading to a conversation on serious topics such as gender and fragility of our society.
+Timestamps 00:00:32 - Intro
+00:00:50 - Warning
+00:01:15 - Chapter 7 predictions
+00:02:10 - Chapter 7 introduction
+00:03:10 - Discussion on the biological differences between humans and Oankali [1]
+00:06:00 - Lilith being high after surgery
+00:08:00 - Trade partners not to be treated equally - Kahguyaht</description>
+    </item>
+    
+    <item>
+      <title>Episode: 6 Xenogenesis - Dawn: II: Family Chapters 5 &amp; 6</title>
+      <link>https://www.xenothesis.com/06_xenogenesis_dawn_family_ch5-6/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/06_xenogenesis_dawn_family_ch5-6/</guid>
+      <description>In Episode 06, Richard and Michael discuss the wonderous organ that the brain is, the problems and quirks associated with it, and how beautifully Lilith told Kahguyaht off.
+Timestamps 00:00:32 - Intro
+00:02:40 - Predictions of Chapter 5
+00:03:17 - Chapter 5 introduction starts
+00:11:10 - Like in a human family - close the door and don&amp;rsquo;t get involved in others argument
+00:13:00 - Kahguyaht being condescending
+00:15:14 - The best response that Lilith could give back to Kahguyaht</description>
+    </item>
+    
+    <item>
+      <title>Episode: 5 Xenogenesis - Dawn: II: Family Chapters 3 &amp; 4</title>
+      <link>https://www.xenothesis.com/05_xenogenesis_dawn_family_ch3-4/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/05_xenogenesis_dawn_family_ch3-4/</guid>
+      <description>In Episode 05, Richard and Michael discuss the many strange but wonderful ways that animals reproduce on Earth – as well as how much they dislike Kahguyaht.
+Timestamps 00:00:32 - Intro
+00:01:02 - Previous predictions
+00:03:30 - Chapter 3 introduction part 1
+00:04:55 - Discussion about the clothes Lilith was given [1 - 3]
+00:08:22 - Story of the Oankali and their divisions
+00:11:00 - Chapter 3 introduction part 2</description>
+    </item>
+    
+    <item>
+      <title>Episode: 4 Xenogenesis - Dawn: II: Family Chapters 1 &amp; 2</title>
+      <link>https://www.xenothesis.com/04_xenogenesis_dawn_family_ch1-2/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/04_xenogenesis_dawn_family_ch1-2/</guid>
+      <description>In Episode 4, Richard and Michael discuss chapters 1 and 2 from section 2: Family of Xenogenesis, which leads to a conversation about regeneration vats, cryonics and potential mechanisms protecting us from cryogenic damage.
+Timestamps 00:00:36 - Intro
+00:01:25 - Predictions
+00:03:00 - Chapter 1 introduction
+00:03:57 - Discussion on the Oankali names
+00:06:40 - Continuation on Chapter 1 introduction
+00:08:17 - Perception of time [1 - 3]
+00:10:03 - Chapter 1 introduction (again)</description>
+    </item>
+    
+    <item>
+      <title>Episode: 3 Xenogenesis - Dawn: I: Womb Chapters 4 &amp; 5</title>
+      <link>https://www.xenothesis.com/03_xenogenesis_dawn_womb_ch4-5/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/03_xenogenesis_dawn_womb_ch4-5/</guid>
+      <description>In Episode 3, Richard and Michael discuss Chapters 4 and 5, which leads to a nearly two-hour discussion on culture and regenerative medicine.
+Timestamps 00:00:32 – Episode start
+00:01:02 – Predictions
+00:01:52 – Chapter 4 introduction
+00:04:29 – Concentration of oxygen vs size of organisms [1]
+00:06:57 – End of Chapter 4 introduction
+00:07:10 – Chapter 5 predictions
+00:08:20 – Chapter 5 introduction
+00:11:10 – Carcinogens [2, 3]
+00:13:55 – Botulinum toxin [4]</description>
+    </item>
+    
+    <item>
+      <title>Episode 2: Xenogenesis - Dawn: I. Womb - chapter 3</title>
+      <link>https://www.xenothesis.com/02-xenogenesis-dawn-womb-ch3/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/02-xenogenesis-dawn-womb-ch3/</guid>
+      <description>Richard and Michael discuss the new revelations about the Jdahya’s species in chapter 3, leading to a conversation about how do we know the sequence of our genome nowadays.
+Timestamps 00:00:36 – Intro
+00:01:00 – Introduction to the previous predictions
+00:02:40 – Clarification on few things said in Episode 1
+00:04:00 – Discussion about biology and its complexity. How do scientist prepare to do research
+00:07:30 – Introduction to the chapter 3</description>
+    </item>
+    
+    <item>
+      <title>Episode 1: Xenogenesis - Dawn: I. Womb - chapters 1 and 2</title>
+      <link>https://www.xenothesis.com/01-xenogenesis-dawn-womb-ch1-2/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/01-xenogenesis-dawn-womb-ch1-2/</guid>
+      <description>Richard and Michael discuss the chapters 1 and 2, the introduction to the series, the main character Lilith and her story of meeting with the alien race.
+Timestamps 00:00:38 - Introduction to the XenoThesis and the book
+00:05:11 - Introduction of the author
+00:08:43 - Introduction to the Chapter 1
+00:13:00 - Lilith&amp;rsquo;s name
+00:17:00 - Lilith&amp;rsquo;s past - what caused her to end up where she was
+00:18:05 - Relationship with the young boy Sharad, discussion on the isolation effect on humans</description>
+    </item>
+    
+  </channel>
 </rss>
