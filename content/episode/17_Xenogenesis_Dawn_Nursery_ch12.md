@@ -1,5 +1,5 @@
 ---
-Description: "In Episode 15, Richard and Michael discuss Nikanj's seduction skills..."
+Description: "In Episode 17, Richard and Michael discuss Nikanj's seduction skills..."
 aliases:
 - /17
 author: richardjacton
@@ -24,7 +24,7 @@ youtube: 15xAE1aguVo
 title: 'Episode: 17 Xenogenesis - Dawn: III: Nursery Chapter 12'
 ---
 
-In Episode 15, Richard and Michael discuss Nikanj's seduction skills...
+In Episode 17, Richard and Michael discuss Nikanj's seduction skills...
 
 #### Timestamps
 
