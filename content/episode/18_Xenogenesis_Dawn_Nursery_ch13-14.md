@@ -18,8 +18,10 @@ images:
 news_keywords: []
 podcast_bytes: '155586564'
 podcast_duration: '01:04:49'
-podcast_file: 18_Xenogenesis_Dawn_Nursery_ch13-14/18_Xenogenesis_Dawn_Nursery_ch13-14.mp3
+# podcast_file: 18_Xenogenesis_Dawn_Nursery_ch13-14/18_Xenogenesis_Dawn_Nursery_ch13-14.mp3
+podcast_file: 18_Xenogenesis_Dawn_Nursery_ch13-14.mp3
 tags: []
+youtube: DCx71eza6iA
 title: 'Episode: 18 Xenogenesis - Dawn: III: Nursery Chapters 13 & 14'
 ---
 
