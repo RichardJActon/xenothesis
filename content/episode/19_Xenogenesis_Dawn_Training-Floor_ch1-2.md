@@ -17,7 +17,8 @@ images:
 news_keywords: []
 podcast_bytes: '211954843'
 podcast_duration: '01:28:18'
-podcast_file: 19_Xenogenesis_Dawn_Training-Floor_ch1-2/19_Xenogenesis_Dawn_Training-Floor_ch1-2.mp3
+#podcast_file: 19_Xenogenesis_Dawn_Training-Floor_ch1-2/19_Xenogenesis_Dawn_Training-Floor_ch1-2.mp3
+podcast_file: 19_Xenogenesis_Dawn_Training-Floor_ch1-2.mp3
 tags: []
 youtube: tCfATKc0tqo
 title: 'Episode: 19 Xenogenesis - Dawn: IV: The Training Floor Chapters 1 & 2'
