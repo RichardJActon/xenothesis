@@ -18,7 +18,7 @@ news_keywords: []
 podcast_bytes: '174324932'
 podcast_duration: '01:12:38'
 #podcast_file: 22_Xenogenesis_Dawn_Floor_ch5-6/22_Xenogenesis_Dawn_Floor_ch5-6.mp3
-podcast_file: 22_Xenogenesis_Dawn_Training-Floor_ch5-6.mp3
+podcast_file: 22_Xenothesis_Dawn_Training-Floor_ch5-6.mp3
 tags: []
 youtube: Z3gNQKs_SbM
 title: 'Episode: 22 Xenogenesis - Dawn: IV: The Training Floor Chapters 5 & 6'
