@@ -17,7 +17,8 @@ images:
 news_keywords: []
 podcast_bytes: '296644659'
 podcast_duration: '02:03:36'
-podcast_file: 24_Xenogenesis_Dawn_Floor_ch9/24_Xenogenesis_Dawn_Floor_ch9.mp3
+# podcast_file: 24_Xenogenesis_Dawn_Floor_ch9/24_Xenogenesis_Dawn_Floor_ch9.mp3
+podcast_file: 24_Xenogenesis_Dawn_Training-Floor_ch9.mp3
 tags: []
 title: 'Episode: 24 Xenogenesis - Dawn: IV: The Training Floor Chapter 9'
 youtube: 44OUh-2myZo
