@@ -34,50 +34,50 @@ Michael and Richard discuss and analyse the film GATTACA, cinemtographically and
 00:02:05 - The challenge of predicting the future in a science of complexity like biology\
 00:04:23 - Go Watch the Film if you have not already\
 00:05:20 - Info about the GATTACA release 24th oct 1997 [1]\
-00:06:45 - A somewhat dystopina biopunk film set in a world where genetic engeneering is commonplace\
+00:06:45 - A somewhat dystopian biopunk film set in a world where genetic engineering is commonplace\
 00:07:45 - Non-state eugenics, 'voluntarily' by private persons wanting their offspring to have the best chances\
 00:09:55 - Cast [2]\
 00:10:50 - Ethan Hawke and Uma Thurman met on set got married [3] \
 00:11:34 - Is that Hank? [4]\
-00:12:46 - Character Names, Vincent Freeman, irene cassini, Eugene Morrow (GATTACA) [5]\
+00:12:46 - Character Names, Vincent Freeman, Irene cassini, Eugene Morrow (GATTACA) [5]\
 00:15:28 - Awards [6]\
 00:15:50 - Poor box office performance [7]\
 00:17:20 - Pacing, Compelling\
 00:18:20 - Production design, spiral staircases [8]\
-00:19:25 - High modernist aestetic [9] in locations and cinematography\
+00:19:25 - High modernist aesthetic [9] in locations and cinematography\
 00:19:40 - Marin County Civic centre [10], Frank lloyd wright [11]\
 00:21:42 - Clothing [8]\
 00:22:04 - Valids High culture, Invalids low culture [8]\
 00:23:30 - CLA building [12] \
 00:24:20 - Cars 1950-60 era bodywork with made to look/sound electric [13]\
 00:25:20 - Score - Michael Nyman [14]\
-00:26:52 - Cinamatographer [15]\
+00:26:52 - Cinematographer [15]\
 00:27:20 - Use of colour, Green symbolises nature and danger [16]\
-00:32:22 - If you still have not watched the movie this is where it gets spolier heavy\
+00:32:22 - If you still have not watched the movie this is where it gets spoiler heavy\
 00:33:28 - We 'borrowed' other people's film appreciation skills for the previous section\
 00:35:00 - Setting / World [1]\
-00:36:20 - Genetic descrimination 'Genoism' illegal but widespread.\
-00:37:16 - Much more reporduction in now IVF, if you are not 'god children' / 'faith births'\
-00:38:00 - Widespread access to embryo selection, genetic engeneering an extra ($) [17]\
-00:38:45 - Real world law GINA (Genetic information non-descrimination act versions introduced in 1995 passed in 2008) [18]\
+00:36:20 - Genetic discrimination 'Genoism' illegal but widespread.\
+00:37:16 - Much more reproduction in now IVF, if you are not 'god children' / 'faith births'\
+00:38:00 - Widespread access to embryo selection, genetic engineering an extra ($) [17]\
+00:38:45 - Real world law GINA (Genetic information non-discrimination act versions introduced in 1995 passed in 2008) [18]\
 00:40:15 - Data privacy Ancestry, 23 and me etc. legal work arounds [19, 20]\
-00:41:18 - We are skeptical that the american healthcare system won't manage to genetically descriminate anyway\
+00:41:18 - We are skeptical that the american healthcare system won't manage to genetically discriminate anyway\
 00:41:55 - Vincent - naturally conceived many genetic risk factors [21].\
 00:42:26 - Anton his younger brother who is genetically selected, and gets his father's name.\
 00:43:38 - Anton is taller despite being younger\
-00:44:04 - They play chicken with who is the first to turn back when swimming out ot sea.\
-00:44:50 - Favouristism, rivalry, expectations and the ambition of space travel\
+00:44:04 - They play chicken with who is the first to turn back when swimming out to sea.\
+00:44:50 - Favouritism, rivalry, expectations and the ambition of space travel\
 00:45:45 - Vincent wins at chicken for the first time and it changes everything\
 00:47:20 - Vincent leaves Home and has a janitorial job a GATTACA, can't get past the genetic tests whenever he applies despite hard work\
 00:47:48 - Meets black market false identity broker pairs him with Jerome Eugene Morrow\
 00:48:20 - Drastic measures to take on Jerome's identity\
-00:49:20 - Gets in at GATTACA, assigned ot be navigator on a mission to Titan\
+00:49:20 - Gets in at GATTACA, assigned to be navigator on a mission to Titan\
 00:50:00 - Inciting action: Murder of an administrator at GATTACA, Vincent's eyelash found at the scene\
-00:50:30 - Love interest: Irene cassini, Valid but with eleveated risk of heart failure.\
+00:50:30 - Love interest: Irene Cassini, Valid but with elevated risk of heart failure.\
 00:51:40 - Eugene deliberately walked in front of the car that paralysed him\
 00:51:40 - Pressure of expectation and failing to live up to it\
 00:52:38 - It hits you hard when you realise you are not best in your peer group anymore\
-00:55:10 - How are they handling genetic engeneering in the olymics? not addressed in detail.\
+00:55:10 - How are they handling genetic engineering in the olymics? not addressed in detail.\
 00:56:29 - No-holds-barred olymics with all the Drugs?\
 00:57:55 - Everyone with olymic ambitions trains hard, the genetically gifted who train hard lead the pack\
 00:58:05 - Trade-offs - you can't be the optimal sprinter and marathon runner [22] at the same time and you could genetically optimise for either, consent issue\
@@ -95,21 +95,21 @@ Michael and Richard discuss and analyse the film GATTACA, cinemtographically and
 01:14:38 - knit picks\
 01:18:28 - The scene with the blood vial switch\
 01:19:20 - Quotations in the opening titles\
-01:19:44 - Ecceliastes 7:13 [23]\
+01:19:44 - Ecclesiastes 7:13 [23]\
 01:19:56 - Willard Gaylin [24]\
-01:19:23 - The book of Ecceliastes - not bad for the bible [23]\
-01:21:34 - Existentialism, the ephemoral nature of existence and lack of change\
+01:19:23 - The book of Ecclesiastes - not bad for the bible [23]\
+01:21:34 - Existentialism, the ephemeral nature of existence and lack of change\
 01:23:10 - Progress now occurs in the lifetime of an individual \
-01:24:00 - The architypes of Eugene heir to the throne and Vincent the underdog\
+01:24:00 - The archetypes of Eugene heir to the throne and Vincent the underdog\
 01:26:00 - Dystopia arises through the oversimplification of genetic quality to a single dimension\
 01:26:54 - Goodhart's law [24]\
 01:28:00 - Real diversity, specialisation and complementation\
-01:29:57 - Promotion with a fake genetic engeneering clinic ad\
+01:29:57 - Promotion with a fake genetic engineering clinic ad\
 01:31:50 - Historical Context of eugenics\
 01:32:15 - The difference between the historical mistakes and the one GATTACA warns about\
 01:32:30 - History of Eugenics - Francis Galton [27]\
 01:33:10 - Applying animal breeding techniques to the human population\
-01:34:53 - What would you breed for in humans? For Galton: inteligence [28]\
+01:34:53 - What would you breed for in humans? For Galton: intelligence [28]\
 01:35:14 - Flynn effect - IQ increasing over time [29]\
 01:37:00 - Initially attributed to much explanatory power to genetics and not enough to environment\
 01:38:52 - The Eugenics society (Galon institute) [30]\
@@ -128,21 +128,21 @@ Michael and Richard discuss and analyse the film GATTACA, cinemtographically and
 01:48:07 - Racial impurity crimes 1936 [39]\
 01:48:26 - Action T4 250,000-300,000 killed 1939-1945 [40]\
 01:51:10 - The swing away from nature and towards nurture \
-01:51:52 - The slate is not as blank as many wanted to beleive [41]\
+01:51:52 - The slate is not as blank as many wanted to believe [41]\
 01:52:28 - As a generalisation it's about 50:50 genetics and environment [42]\
 01:54:10 - The genetic engineering arms race\
-01:56:16 - GATTACA presents the neuanced dilema not the charicature\
+01:56:16 - GATTACA presents the nuanced dilemma not the caricature\
 01:56:54 - The ability to do good with modern genetic technologies\
 01:57:22 - Genetic screening: tay-sachs and Dor yesharim [43]\
 02:01:04 - Increasing prevalence of carrier and pre-natal genetic screening\
-02:02:00 - amneocentesis and the option of abortion [44]\
+02:02:00 - amniocentesis and the option of abortion [44]\
 02:03:34 - Pre-implantation genetic diagnosis [45]\
 02:05:40 - History of IVF\
 02:05:50 - Louise Joy Brown first IVF baby 1978, >5 million since. [46]\
 02:06:40 - Human fertilisation and embryology authority, >600 conditions screened [47]\
 02:08:10 - The regulatory hurdles for the first '3 parent child' [48]\
 02:08:45 - Mitochondrial diseases and maternal inheritance [49]\
-02:11:00 - Had to travel to UK, New York and Mexico for different parts of the proceduce [48]\
+02:11:00 - Had to travel to UK, New York and Mexico for different parts of the procedure [48]\
 02:13:00 - In real life the number of embryos you have to select from is quite limited [50]\
 02:13:18 - Splitting to more embryos to edit?\
 02:15:23 - Embryo breeding [51]\
@@ -155,13 +155,13 @@ Michael and Richard discuss and analyse the film GATTACA, cinemtographically and
 02:27:10 - Gene therapy in adults [56]\
 02:27:34 - Somatic vs germline gene therapy: germline is heritable, somatic is not [56].\
 02:28:27 - Inefficiency of somatic gene therapy [56]\
-02:29:15 - Deleted Scene extra $5k for enhanced mathermatical / musical ability [17]\
+02:29:15 - Deleted Scene extra $5k for enhanced mathematical / musical ability [17]\
 02:30:45 - The 12 fingered pianist\
-02:31:48 - The ilogic of genetically modified food regulations, irradition vs targeted edits [48].\
-02:35:55 - Concern about regulations around genetic engeneering in humans\
+02:31:48 - The illogic of genetically modified food regulations, irradiation vs targeted edits [48].\
+02:35:55 - Concern about regulations around genetic engineering in humans\
 02:37:06 - CRISPR cas9 2012 genetic cut and paste [57]\
 02:39:45 - First discovery of CRISPR sequences bacteria Francisco Mojica 1993 [58, 48]\
-02:41:15 - CRISPR found to be an Adaptive imunity system 2005 [58]\
+02:41:15 - CRISPR found to be an Adaptive immunity system 2005 [58]\
 02:42:50 - Editing proof of principle Doudna and Charpentier 2012 [59, 60]\
 02:44:20 - Inactivating genes by cutting them and getting an imperfect repair [61, 62]\
 02:44:53 - Inserting new sequence with CRISPR [63]\
@@ -179,8 +179,8 @@ Michael and Richard discuss and analyse the film GATTACA, cinemtographically and
 02:58:48 - Relationship to the cyberpunk episode [66]\
 02:59:46 - Society became fixated on genetic determinism in GATTACA\
 03:01:30 - Public conversation on bioethics\
-03:03:20 - Much good can be done moral obligation to persue it\
-03:03:51 - Increased capability is an unambigious good\
+03:03:20 - Much good can be done moral obligation to pursue it\
+03:03:51 - Increased capability is an unambiguous good\
 03:03:46 - Ethical challenges of Trade-offs and specialisation\
 03:05:21 - Risk of burdening children with specific expectations\
 03:10:00 - Speculations on future human enhancements\
