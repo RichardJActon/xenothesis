@@ -99,7 +99,7 @@ In episode 28 Tino visit the village, is the center of attention and misses the 
 - [6] Western Educated Industrialised Rich Democratic https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World
 - [7] Water turbine powered wordworking shop https://youtu.be/IdG7a5Lk3rE?t=2352
 - [8] Dr. Stone Manga https://en.wikipedia.org/wiki/Dr._Stone
-- [9] https://youtu.be/_SzXAFeQIjQ?t=61
+- [9] Ship Jerry https://youtu.be/_SzXAFeQIjQ?t=61
 - [10] Speed superinteligence, The age of em by Robin Hanson https://ageofem.com/
 - [11] Neoteny retation of juvanille characteristics in the adult https://en.wikipedia.org/wiki/Neoteny
 - [12] Starcraft Zerg https://starcraft.fandom.com/wiki/Zerg
