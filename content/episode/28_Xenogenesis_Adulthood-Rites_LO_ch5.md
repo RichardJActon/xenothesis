@@ -21,7 +21,7 @@ podcast_duration: '01:03:52'
 podcast_file: 28_Xenogenesis_Adulthood-Rites_LO_ch5.mp3
 tags: []
 youtube: RxYXokgtlzU
-title: 'Episode: 28 Xenogenesis - Adulthood-Rites: I: LO Chapter 5'
+title: "Episode: 28 Xenogenesis - Adulthood-Rites: I: LO Chapter 5"
 ---
 
 In episode 28 Tino visit the village, is the center of attention and misses the mark on Oankali technology.
@@ -33,7 +33,7 @@ In episode 28 Tino visit the village, is the center of attention and misses the 
 00:01:40 - Stargate Atlantis\
 00:02:37 - New things you hear about on podcasts\
 00:03:15 - Michael's Predictions\
-00:04:20 - Schrödinger's Richard\
+00:04:20 - Schrodinger's Richard\
 00:04:30 - Chapter Summary\
 00:05:16 - Tino Arrives with Lilith and is forewarned\
 00:06:07 - A tentacular probe\
@@ -58,8 +58,8 @@ In episode 28 Tino visit the village, is the center of attention and misses the 
 00:26:30 - Loftus & Coan - The lost in the mall technique  [3]\
 00:27:12 - Elizabeth Loftus Expert testimony & 'Recovered' memory [4]\
 00:28:30 - Eyewitness testimony experiments [5]\
-00:29:30 - "Undergraduate students are untrustworthy" - Michael Glinka 2021 ;(\
-00:30:00 - "Undergraduate students are too WEIRD [6] and its a problem" - Richard Acton 2021\
+00:29:30 - Undergraduate students are untrustworthy - Michael Glinka 2021 ;(\
+00:30:00 - Undergraduate students are too WEIRD [6] and its a problem - Richard Acton 2021\
 00:30:45 - Lilith is not harmless and her infant child noticed\
 00:32:27 - Tino recounts the story of Pheonix\
 00:33:20 - Tino dismises the trading vilages as primitive\
@@ -84,7 +84,7 @@ In episode 28 Tino visit the village, is the center of attention and misses the 
 00:54:48 - Your possibly sentient, self-replicating interstellar ship / village sucks\
 00:56:44 - Wray expects someone to seduce Tino\
 00:57:36 - Nikanj is being a bit creepy\
-00:59:26 - "Not the good wrong, the bad wrong."\
+00:59:26 - Not the good wrong, the bad wrong.\
 01:00:00 - Chapter 6 predictions\
 01:01:00 - to be posessive or not to be posessive?\
 01:02:35 - outro
