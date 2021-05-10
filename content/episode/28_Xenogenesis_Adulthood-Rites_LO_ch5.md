@@ -91,20 +91,23 @@ In episode 28 Tino visit the village, is the center of attention and misses the 
 
 #### References
 
-- [1] Types of memory https://www.psychologytoday.com/us/basics/memory/types-memory
-- [2] The memory wars https://en.wikipedia.org/wiki/The_Memory_Wars
-- [3] Some cases from the memory wars https://en.wikipedia.org/wiki/Elizabeth_Loftus#Expert_testimony
-- [4] A memoy of a thing that never happened https://en.wikipedia.org/wiki/Lost_in_the_mall_technique
-- [5] A short Review of the history of research on eye witness testimony https://sci-hub.ee/10.1002/acp.1487 (Richard was probably conflating a few different different experiments into Robert Buckhout's 1975 study)
-- [6] Western Educated Industrialised Rich Democratic https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World
-- [7] Water turbine powered wordworking shop https://youtu.be/IdG7a5Lk3rE?t=2352
-- [8] Dr. Stone Manga https://en.wikipedia.org/wiki/Dr._Stone
-- [9] Ship Jerry https://youtu.be/_SzXAFeQIjQ?t=61
-- [10] Speed superinteligence, The age of em by Robin Hanson https://ageofem.com/
-- [11] Neoteny retation of juvanille characteristics in the adult https://en.wikipedia.org/wiki/Neoteny
-- [12] Starcraft Zerg https://starcraft.fandom.com/wiki/Zerg
-- [13] Rare earth elements in biology https://doi.org/10.1007/s12210-020-00930-w
+memory:
+ - [1] Types of memory https://www.psychologytoday.com/us/basics/memory/types-memory
+ - [2] The memory wars https://en.wikipedia.org/wiki/The_Memory_Wars
+ - [3] Some cases from the memory wars https://en.wikipedia.org/wiki/Elizabeth_Loftus#Expert_testimony
+ - [4] A memoy of a thing that never happened https://en.wikipedia.org/wiki/Lost_in_the_mall_technique
+ - [5] A short Review of the history of research on eye witness testimony https://sci-hub.ee/10.1002/acp.1487 (Richard was probably conflating a few different different experiments into Robert Buckhout's 1975 study)
+ - [6] Western Educated Industrialised Rich Democratic https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World
 
+ - [7] Water turbine powered wordworking shop https://youtu.be/IdG7a5Lk3rE?t=2352
+ - [8] Dr. Stone Manga https://en.wikipedia.org/wiki/Dr._Stone
+ - [9] Ship Jerry https://youtu.be/_SzXAFeQIjQ?t=61
+ - [10] Speed superinteligence, The age of em by Robin Hanson https://ageofem.com/
+ - [11] Neoteny retation of juvanille characteristics in the adult https://en.wikipedia.org/wiki/Neoteny
+ - [12] Starcraft Zerg https://starcraft.fandom.com/wiki/Zerg
+ - [13] Rare earth elements in biology https://doi.org/10.1007/s12210-020-00930-w
+ 
 ---
-Intro: [L'Etoile danse (Pt. 1)](https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738) by Meydan
+intro: [L'Etoile danse (Pt. 1)](https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738) by Meydan
 Outro: [Long Way Home](https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home) by Spinning Ratio
+
