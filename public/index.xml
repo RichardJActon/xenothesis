@@ -27,6 +27,25 @@ Timestamps 00:00:00 - Start
     </item>
     
     <item>
+      <title>Xenogenesis: Basic Length Breakdown</title>
+      <link>https://www.xenothesis.com/books/basic_length_breakdowns/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.xenothesis.com/books/basic_length_breakdowns/</guid>
+      <description>## `summarise()` regrouping output by &amp;#39;book&amp;#39;, &amp;#39;part&amp;#39; (override with `.groups` argument)  {&#34;x&#34;:{&#34;data&#34;:[{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:[0.9,0.9,0.9,0.9,0.9,0.9,0.899999999999999],&#34;base&#34;:[0,0,0,0,0,0,0],&#34;x&#34;:[2,3,4,5,6,7,8],&#34;y&#34;:[627,1907,1896,2469,3541,6245,2570],&#34;text&#34;:[&#34;PC: I: LO - Chapter 1
+n: 627
+part: I: LO&#34;,&#34;PC: I: LO - Chapter 2
+n: 1907
+part: I: LO&#34;,&#34;PC: I: LO - Chapter 3
+n: 1896
+part: I: LO&#34;,&#34;PC: I: LO - Chapter 4
+n: 2469
+part: I: LO&#34;,&#34;PC: I: LO - Chapter 5
+n: 3541
+part: I: LO&#34;</description>
+    </item>
+    
+    <item>
       <title>Episode: 28 Xenogenesis - Adulthood-Rites: I: LO Chapter 5</title>
       <link>https://www.xenothesis.com/28_xenogenesis_adulthood-rites_lo_ch5/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
@@ -502,10 +521,10 @@ Timestamps 00:00:38 - Introduction to the XenoThesis and the book
     
     <item>
       <title>books</title>
-      <link>https://www.xenothesis.com/books/</link>
+      <link>https://www.xenothesis.com/books/books/</link>
       <pubDate>Thu, 27 Apr 2017 15:18:55 -0500</pubDate>
       
-      <guid>https://www.xenothesis.com/books/</guid>
+      <guid>https://www.xenothesis.com/books/books/</guid>
       <description>Dawn Blurb In a world devastated by nuclear war with humanity on the edge of extinction, aliens finally make contact. They rescue those humans they can, keeping most survivors in suspended animation and begin the slow process of rehabilitating the planet.
 When Lilith Iyapo is ‘awakened’, she finds that she has been chosen to revive her fellow humans in small groups by first preparing them to meet the utterly terrifying Oankali, then training them to survive on the wilderness that the planet has become.</description>
     </item>

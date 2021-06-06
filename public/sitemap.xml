@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.xenothesis.com/books/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.xenothesis.com/29_xenogenesis_adulthood-rites_lo_ch6/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.xenothesis.com/episode/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.xenothesis.com/books/basic_length_breakdowns/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,7 +188,7 @@
   </url>
   
   <url>
-    <loc>https://www.xenothesis.com/books/</loc>
+    <loc>https://www.xenothesis.com/books/books/</loc>
     <lastmod>2017-04-27T15:18:55-05:00</lastmod>
   </url>
   

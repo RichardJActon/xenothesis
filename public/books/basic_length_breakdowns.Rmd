@@ -1,0 +1,89 @@
+---
+title: "Xenogenesis: Basic Length Breakdown"
+author: Richard J. Acton
+date: "`r Sys.Date()`"
+---
+
+```{r, echo = FALSE}
+suppressPackageStartupMessages({
+	library(tidyverse)
+	library(tidytext)
+	library(RColorBrewer)
+	library(wordcloud)
+	library(plotly)
+	library(purrr)
+	library(textdata)
+	library(ggdark)
+	library(dplyr)
+})
+data("stop_words")
+```
+
+
+```{r, echo = FALSE}
+xenogenesis <- readRDS(here::here("resources/xenogenesis_words_table.Rds"))
+```
+
+```{r, include=FALSE, eval=FALSE, echo=FALSE}
+xenogenesis %>%
+	group_by(book) %>%
+	summarise(`Number of Words` = n()) %>%
+	mutate(
+		book = sub("\\d+\\s+", "", book),
+		`Number of Words` = format(`Number of Words`, big.mark = ",")
+	) %>% 
+	kableExtra::kable()
+```
+
+```{r, fig.width=6, fig.height=5, warning=FALSE, message=FALSE, echo = FALSE}
+xenogenesis %>%
+	group_by(book) %>%
+	summarise(n = n()) %>% {
+	ggplot(., aes(book, n)) +
+		geom_col(aes(fill = book)) +
+		geom_text(
+			aes(label = format(n, big.mark = ",")), vjust = -0.5
+		) + 
+		scale_y_continuous(label = scales::comma) +
+		# dark_theme_gray() + 
+		labs(
+			x = "Book", y = "Word Count", fill = "Book",
+			title = "Word Count By Book"
+		)
+	}
+```
+
+```{r, echo = FALSE}
+wordCountByBPC <- 
+xenogenesis %>%
+	drop_na(chapter) %>%
+	group_by(book, part, chapter) %>%
+	summarise(n = n()) %>%
+	ungroup() %>%
+	mutate(chapter = as.numeric(chapter)) %>%
+	arrange(book, part, chapter) %>%
+	unite(PC, part, chapter, sep = " - Chapter ", remove = FALSE) %>%
+	# mutate(PC = gsub("(I{1,3}V?).+?(\\d+)", "\\1 : \\2", PC)) %>%
+	mutate(PC = factor(PC, levels = unique(PC), ordered = TRUE))#,labels = unique(PC)
+
+# wordCountByBPC
+```
+
+```{r, fig.width=16, fig.height=9, , echo = FALSE}
+wordCountByBPCPlot <- 
+wordCountByBPC %>%
+	ggplot(aes(PC, n, fill = part)) + 
+		geom_col() + 
+	facet_wrap(~book, scales = "free_x") + 
+	#theme_bw() + 
+	#dark_theme_gray() + 
+	theme(axis.text.x = element_text(angle = 90)) + 
+	labs(
+		y = "Length /words",
+		#x = "Chapter"
+		x = ""
+	)
+
+# wordCountByBPCPlot
+ggplotly(wordCountByBPCPlot)
+```
