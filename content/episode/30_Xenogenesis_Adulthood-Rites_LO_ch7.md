@@ -4,7 +4,7 @@ aliases:
 - /30
 author: richardjacton
 categories: []
-date: '2021-06-07'
+date: '2021-06-06'
 episode: '30'
 episode_image: img/episode/30_Xenogenesis_Adulthood-Rites_LO_ch7_thumb.png
 explicit: 'yes'
