@@ -19,7 +19,7 @@ news_keywords: []
 podcast_bytes: 'NA'
 podcast_duration: ''
 # podcast_file: 31_Xenogenesis_Adulthood-Rites_PHOENIX_ch1-2/31_Xenogenesis_Adulthood-Rites_PHOENIX_ch1-2.mp3
-podcast_file: 31_Xenogenesis_Adulthood-Rites_PHOENIX_ch1-2.mp3
+podcast_file: 31_Xenogenesis_Adulthood-Rites_Phoenix_ch1-2.mp3
 tags: []
 youtube: NFisBHEz5L8
 title: 'Episode: 31 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapters 1 & 2'
