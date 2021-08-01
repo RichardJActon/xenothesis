@@ -17,8 +17,8 @@ images:
 news_keywords: []
 podcast_bytes: '109921600'
 podcast_duration: '00:45:48'
-# podcast_file: 34_Xenogenesis_Adulthood-Rites_PHOENIX_ch7-8/34_Xenogenesis_Adulthood-Rites_PHOENIX_ch7-8.mp3
-podcast_file: 34_Xenogenesis_Adulthood-Rites_PHOENIX_ch7-8.mp3
+# podcast_file: 34_Xenogenesis_Adulthood-Rites_Phoenix_ch7-8/34_Xenogenesis_Adulthood-Rites_Phoenix_ch7-8.mp3
+podcast_file: 34_Xenogenesis_Adulthood-Rites_Phoenix_ch7-8.mp3
 tags: []
 youtube: x5Hi7jgSb4o
 title: 'Episode: 34 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapters 7 & 8'
