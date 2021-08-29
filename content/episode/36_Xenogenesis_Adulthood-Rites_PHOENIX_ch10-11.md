@@ -18,7 +18,7 @@ news_keywords: []
 podcast_bytes: '166220704'
 podcast_duration: '01:09:15'
 #podcast_file: 36_Xenogenesis_Adulthood-Rites_PHOENIX_ch10-11/36_Xenogenesis_Adulthood-Rites_PHOENIX_ch10-11.mp3
-podcast_file: 36_Xenogenesis_Adulthood-Rites_PHOENIX_ch10-11.mp3
+podcast_file: 36_Xenogenesis_Adulthood-Rites_Phoenix_ch10-11.mp3
 tags: []
 youtube: GFSGUyZMBBM
 title: 'Episode: 36 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapters 10 & 11'
