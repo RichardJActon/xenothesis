@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,55 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 37 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapters 12 &amp; 13</title>
+          <link>https://www.xenothesis.com/37_xenogenesis_adulthood-rites_phoenix_ch12-13/</link>
+          <pubDate>Sun, 12 Sep 2021 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/37_Xenogenesis_Adulthood37_Xenogenesis_Adulthood-Rites_Phoenix_ch12-13.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>37</itunes:episode>
+          
+        <itunes:summary>In episode 37, Richard and Michael discuss the priorites of which knowledge should be written down first to preseve it in future.</itunes:summary>
+        <description>In episode 37, Richard and Michael discuss the priorites of which knowledge should be written down first to preseve it in future.</description>
+        <googleplay:description>In episode 37, Richard and Michael discuss the priorites of which knowledge should be written down first to preseve it in future.</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 37, Richard and Michael discuss the priorites of which knowledge should be written down first to preseve it in future.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:32 - Welcome<br>
+00:00:53 - Richard needs to work on his response time<br>
+00:01:31 - Chapter 12 predictions<br>
+00:02:35 - Chapter 12 summary starts<br>
+00:05:46 - We marvel again about Oankali memory<br>
+00:08:53 - Akin and dismissal of mythology<br>
+00:12:46 - Back to the chapter 12<br>
+00:20:09 - Akin crushes Gabe&rsquo;s dreams<br>
+00:21:00 - Christianity and paganism<br>
+00:25:08 - Chapter 13 predictions<br>
+00:27:01 - Chapter 13 summary begins<br>
+00:28:01 - Reconstruction of the Bible (and preservation of knowledge)<br>
+00:40:16 - Back to Chapter 13<br>
+00:42:30 - We struggle with the names<br>
+00:46:21 - Another villain?<br>
+00:51:21 - Chapter 14 predictions<br>
+00:55:14 - Outro</p>
+<h4 id="references">References</h4>
+<p>Paganism in Christianity:</p>
+<ul>
+<li>[1] <a href="https://en.wikipedia.org/wiki/Christianity_and_paganism">https://en.wikipedia.org/wiki/Christianity_and_paganism</a> - A Wiki article about the topic of paganism.</li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/37_Xenogenesis_Adulthood-Rites_PHOENIX_ch12-13_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/37_Xenogenesis_Adulthood-Rites_PHOENIX_ch12-13_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/37_Xenogenesis_Adulthood37_Xenogenesis_Adulthood-Rites_Phoenix_ch12-13.mp3" length="90872433" type="audio/mpeg" /><itunes:duration>00:56:37</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 36 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapters 10 &amp; 11</title>
           <link>https://www.xenothesis.com/36_xenogenesis_adulthood-rites_phoenix_ch10-11/</link>
