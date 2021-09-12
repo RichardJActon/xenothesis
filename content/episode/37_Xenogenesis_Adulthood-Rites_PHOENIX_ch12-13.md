@@ -18,7 +18,7 @@ news_keywords: []
 podcast_bytes: '90872433'
 podcast_duration: '00:56:37'
 # podcast_file: 37_Xenogenesis_Adulthood-Rites_PHOENIX_ch12-13/37_Xenogenesis_Adulthood-Rites_PHOENIX_ch12-13.mp3
-podcast_file: 37_Xenogenesis_Adulthood37_Xenogenesis_Adulthood-Rites_Phoenix_ch12-13.mp3
+podcast_file: 37_Xenogenesis_Adulthood-Rites_Phoenix_ch12-13.mp3
 tags: []
 youtube: aH_uDSiJkVY
 title: 'Episode: 37 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapters 12 & 13'
