@@ -50,7 +50,7 @@ In episode 39, Richard and Michael discuss plastics ill advised use of alcohol a
 00:25:56 - Chapter 17 predictions\
 00:27:36 - A new member of the leave the tentacles alone Neci club\
 00:27:50 - New members of the remove the tentacles club\
-00:28:46 - "give in to alien impulses" \
+00:28:46 - give in to alien impulses \
 00:29:10 - Neci pushes Yori, and Yori says shes's out.\
 00:20:10 - Neci cuts people off, and pressures people to help.\
 00:31:28 - Don't use alcoholic drinks as an anaesthetic or antiseptic\
