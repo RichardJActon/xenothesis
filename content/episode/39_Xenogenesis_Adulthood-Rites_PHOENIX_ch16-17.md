@@ -1,5 +1,5 @@
 ---
-Description: "In episode 39, Richard and Michael discuss plastics ill advised use of alcohol as an anesthetic and possibility of a human Akjai"
+Description: "In episode 39, Richard and Michael discuss plastics ill advised use of alcohol as an anaesthetic and possibility of a human Akjai"
 aliases:
 - /39
 author: richardjacton
@@ -24,7 +24,7 @@ youtube: tVV1GZVqagE
 title: 'Episode: 39 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapters 16 & 17'
 ---
 
-In episode 39, Richard and Michael discuss plastics ill advised use of alcohol as an anesthetic and possibility of a human Akjai
+In episode 39, Richard and Michael discuss plastics ill advised use of alcohol as an anaesthetic and possibility of a human Akjai
 
 #### Timestamps
 
@@ -34,7 +34,7 @@ In episode 39, Richard and Michael discuss plastics ill advised use of alcohol a
 00:01:56 - Chapter 16 predictions\
 00:02:07 - Pronunciation of Neci?\
 00:03:56 - Chapter 16 summary begins\
-00:06:17 - How much was Akin's time with the resistors an Oankalinplan?\
+00:06:17 - How much was Akin's time with the resistors an Oankali plan?\
 00:07:40 - Shoud we be this close to that volcano?\
 00:09:15 - Shouldn't you want to know thine enemy?\
 00:10:02 - Embrace the Lenticular Jesus Justaposition\
@@ -50,9 +50,9 @@ In episode 39, Richard and Michael discuss plastics ill advised use of alcohol a
 00:25:56 - Chapter 17 predictions\
 00:27:36 - A new member of the leave the tentacles alone Neci club\
 00:27:50 - New members of the remove the tentacles club\
-00:28:46 - "give in to alien inpulses"\
-00:29:10 - Neci pushes Yori, and Yori say's she's out.\
-00:20:10 - Neci cuts people off, and pressurese people to help.\
+00:28:46 - "give in to alien impulses" \
+00:29:10 - Neci pushes Yori, and Yori says shes's out.\
+00:20:10 - Neci cuts people off, and pressures people to help.\
 00:31:28 - Don't use alcoholic drinks as an anaesthetic or antiseptic\
 00:35:30 - Amma and shkahat Leave, and Akin must remain\
 00:38:30 - Human Akjai?\
@@ -63,7 +63,7 @@ In episode 39, Richard and Michael discuss plastics ill advised use of alcohol a
 #### References
 
 REFERENCES:
-Example plastics controversy BPA 
+Example plastics controversy BPA
 - [1] https://en.wikipedia.org/wiki/BPA_controversy
 If you want toxicity trying burning it, that's when the nasty stuff come out
 - [2] https://en.wikipedia.org/wiki/Plastic_pollution#Incineration
