@@ -18,7 +18,7 @@ news_keywords: []
 podcast_bytes: '146253757'
 podcast_duration: '01:00:56'
 #podcast_file: 40_Xenogenesis_Adulthood-Rites_PHOENIX_ch18-19/40_Xenogenesis_Adulthood-Rites_PHOENIX_ch18-19.mp3
-podcast_file: 40_Xenogenesis_Adulthood-Rites_PHOENIX_ch18-19.mp3
+podcast_file: 40_Xenogenesis_Adulthood-Rites_Phoenix_ch18-19.mp3
 tags: []
 youtube: f4jR1QSUIJ8
 title: 'Episode: 40 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapters 18 & 19'
@@ -71,7 +71,7 @@ Alchohol metabolism:
 - [3] https://en.wikipedia.org/wiki/Glucuronide
 
 Sleep and Dreaming:
-- [4]
+- [4]  Why We Sleep: The New Science of Sleep and Dreams by Matthew Walker https://en.wikipedia.org/wiki/Why_We_Sleep
 
 ---
 Intro: [L'Etoile danse (Pt. 1)](https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738) by Meydan
