@@ -17,7 +17,7 @@ images:
 news_keywords: []
 podcast_bytes: '207561045'
 podcast_duration: '01:26:28'
-# podcast_file: 32_Xenogenesis_Adulthood-Rites_PHOENIX_ch3-5/32_Xenogenesis_Adulthood-Rites_PHOENIX_ch3-5.mp3
+# podcast_file: 32_Xenogenesis_Adulthood-Rites_PHOENIX_ch3-5/32_Xenogenesis_Adulthood-Rites_Phoenix_ch3-5.mp3
 podcast_file: 32_Xenogenesis_Adulthood-Rites_Phoenix_ch3-5.mp3
 tags: []
 youtube: -HXFgDDbO1E
