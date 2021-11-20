@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Sun, 7 Nov 2021 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,59 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 42 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapter 23</title>
+          <link>https://www.xenothesis.com/42_xenogenesis_adulthood-rites_phoenix_ch23/</link>
+          <pubDate>Sat, 20 Nov 2021 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/42_Xenogenesis_Adulthood-Rites_Phoenix_ch23.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>42</itunes:episode>
+          
+        <itunes:summary>In episode 42, Richard and Michael finish and summarise their experience from part 2 Phoenix of the book Adulthood Rites.</itunes:summary>
+        <description>In episode 42, Richard and Michael finish and summarise their experience from part 2 Phoenix of the book Adulthood Rites.</description>
+        <googleplay:description>In episode 42, Richard and Michael finish and summarise their experience from part 2 Phoenix of the book Adulthood Rites.</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 42, Richard and Michael finish and summarise their experience from part 2 Phoenix of the book Adulthood Rites.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:32 - Welcome<br>
+00:02:00 - Content corner<br>
+00:15:34 - Predictions for Chapter 23<br>
+00:16:46 - Summary of Chapter 23 begins<br>
+00:17:58 - Gabe, Tate and the Oankali<br>
+00:19:47 - Super Sayian Lilith<br>
+00:23:58 - did the Oankali make mistake with mixing with Humans?<br>
+00:26:13 - Dichaan does a very parent thing<br>
+00:28:01 - Ooloi and pleasure<br>
+00:33:53 - Chapter 23 and Part 2 finish<br>
+00:34:56 - Some questions about the chapter<br>
+00:39:39 - Quantum is always an answer<br>
+00:41:51 - Some things don&rsquo;t make sense<br>
+00:45:38 - Forever teenager [1]<br>
+00:47:50 - Part 2 summary<br>
+00:50:06 - Compilation of topics we discussed in part 2<br>
+01:06:09 - Problem with discussion in future episodes<br>
+01:07:18 - Prolonged series (Dr. Who, Supernatural)<br>
+01:10:41 - Mr. Bean<br>
+01:12:33 - Part 3 predictions<br>
+01:17:51 - Outro</p>
+<h4 id="references">References</h4>
+<p>Maturation of brain during adolescence</p>
+<ul>
+<li>[1] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3621648/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3621648/</a> - A review article about the maturation of our brains during adolescence</li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/42_Xenogenesis_Adulthood-Rites_PHOENIX_ch23_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/42_Xenogenesis_Adulthood-Rites_PHOENIX_ch23_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/42_Xenogenesis_Adulthood-Rites_Phoenix_ch23.mp3" length="190592946" type="audio/mpeg" /><itunes:duration>01:19:24</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 41 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapters 20, 21 &amp; 22</title>
           <link>https://www.xenothesis.com/41_xenogenesis_adulthood-rites_phoenix_ch20-22/</link>
