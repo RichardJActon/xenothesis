@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 5 Dec 2021 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,59 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 43 Xenogenesis - Adulthood-Rites: III: Chkahichdahk Chapters 1 &amp; 2</title>
+          <link>https://www.xenothesis.com/43_xenogenesis_adulthood-rites_chkahichdahk_ch1-2/</link>
+          <pubDate>Sun, 05 Dec 2021 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/43_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch1-2.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>43</itunes:episode>
+          
+        <itunes:summary>In episode 43, We learn some interesting new things about Oankali biology and Akin acts adolescent.</itunes:summary>
+        <description>In episode 43, We learn some interesting new things about Oankali biology and Akin acts adolescent.</description>
+        <googleplay:description>In episode 43, We learn some interesting new things about Oankali biology and Akin acts adolescent.</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 43, We learn some interesting new things about Oankali biology and Akin acts adolescent.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:39 - Welcome<br>
+00:04:56 - Chapter 1 predictions<br>
+00:07:22 - Chapter 1 Summary begins<br>
+00:09:30 - Puberty in the Human / Oankali Constructs<br>
+00:15:04 - Tino&rsquo;s Discomfort with Dichaan &amp; the Nature Vs. Nurture Theme<br>
+00:30:05 - All the Humans, Resisters included, will biologically have construct children even if they don&rsquo;t engage<br>
+00:33:24 - Coordinatoin problems among the resisters<br>
+00:40:09 - The Oankali Organelle - parasite or symbiont?<br>
+00:44:48 - End of Chapter 1<br>
+00:45:45 - Why no Ooloi Constructs?<br>
+00:48:59 - Transposable elements<br>
+00:50:52 - The nature and means of Oankali biological understanding &amp; engeneering<br>
+00:55:54 - Analog computation [1]<br>
+01:04:00 - biology as the worst legacy code problem in history<br>
+01:05:00 - Challenges of Multivariate analysis<br>
+01:08:40 - Chapter 2 Predictions<br>
+01:09:58 - Chaper 2 Summary Begins<br>
+01:12:02 - The Shuttles are male(ish) &amp; Their Propulsion is unspecified<br>
+01:19:10 - Akin is biding his time so he will be taken seriously when he raises the Human Akjai<br>
+01:21:23 - Akin has teenager on the brain<br>
+01:23:17 - Outro</p>
+<h4 id="references">References</h4>
+<p>Programable Analog computing devices</p>
+<ul>
+<li>[1] Sara Achour <a href="https://people.csail.mit.edu/sachour/">https://people.csail.mit.edu/sachour/</a></li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/43_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch1-2_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/43_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch1-2_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/43_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch1-2.mp3" length="112564289" type="audio/mpeg" /><itunes:duration>01:25:01</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 42 Xenogenesis - Adulthood-Rites: II: PHOENIX Chapter 23</title>
           <link>https://www.xenothesis.com/42_xenogenesis_adulthood-rites_phoenix_ch23/</link>
