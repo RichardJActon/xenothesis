@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 2 Jan 2022 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,66 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 45 Xenogenesis - Adulthood-Rites: III: Chkahichdahk Chapters 5 &amp; 6</title>
+          <link>https://www.xenothesis.com/45_xenogenesis_adulthood-rites_chkahichdahk_ch5-6/</link>
+          <pubDate>Sun, 02 Jan 2022 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/45_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch5-6.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>45</itunes:episode>
+          
+        <itunes:summary>In episode 45, Richard and Michael discuss if conscious animals that are happy to do what we want is really a good idea... (it really is not).</itunes:summary>
+        <description>In episode 45, Richard and Michael discuss if conscious animals that are happy to do what we want is really a good idea... (it really is not).</description>
+        <googleplay:description>In episode 45, Richard and Michael discuss if conscious animals that are happy to do what we want is really a good idea... (it really is not).</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 45, Richard and Michael discuss if conscious animals that are happy to do what we want is really a good idea&hellip; (it really is not).</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:32 - Welcome<br>
+00:01:13 - We are still salty about not knowing about the propulsion method<br>
+00:03:26 - Chapter 5 predictions<br>
+00:04:11 - Chapter 5 starts with a sphincter<br>
+00:06:01 - Tilio<br>
+00:07:23 - Akin the Animal Whisperer and the dog-cars<br>
+00:08:13 - &ldquo;Knight Rider&rdquo;<br>
+00:09:30 - Ethics of consciously-happy animals<br>
+00:19:01 - Back to chapter 5 - Oankali&rsquo;s control<br>
+00:22:56 - Akin, family and resolution of the bond<br>
+00:26:30 - Oankali and daughters<br>
+00:32:29 - Ooloi and future predictions<br>
+00:36:24 - Family resemblences<br>
+00:38:02 - Chapter 6 predictions<br>
+00:39:21 - Chapter 6 summary begins<br>
+00:40:37 - First encounter with Oankali was seeing giant caterpillars<br>
+00:42:25 - Spoken language<br>
+00:46:43 - lightyear.fm<br>
+00:50:31 - True ooloi communication [1, 2]<br>
+00:59:01 - Connected consciousnesses [3]<br>
+01:02:53 - Chapter 7 predictions<br>
+01:04:54 - Loud numbers podcast<br>
+01:05:16 - Outro</p>
+<h4 id="references">References</h4>
+<p>Single sub-nuclear particle detection:</p>
+<ul>
+<li>[1] <a href="https://www.nature.com/articles/ncomms12172">https://www.nature.com/articles/ncomms12172</a> - Human eye detecting a single photon.</li>
+<li>[2] <a href="https://www.nature.com/scitable/topicpage/ion-channel-14047658/">https://www.nature.com/scitable/topicpage/ion-channel-14047658/</a> - Ion channels in the cell membranes.</li>
+</ul>
+<p>Mirror hand experiment:</p>
+<ul>
+<li>[3] <a href="https://www.liverpool.ac.uk/~rlawson/PDF_Files/BBBL&amp;W-C&amp;C-2011.pdf">https://www.liverpool.ac.uk/~rlawson/PDF_Files/BBBL&amp;W-C&amp;C-2011.pdf</a> - Article investigating rubber hand illusion.</li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/45_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch5-6_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/45_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch5-6_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/45_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch5-6.mp3" length="159973267" type="audio/mpeg" /><itunes:duration>01:06:39</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 44 Xenogenesis - Adulthood-Rites: III: Chkahichdahk Chapters 3 &amp; 4</title>
           <link>https://www.xenothesis.com/44_xenogenesis_adulthood-rites_chkahichdahk_ch3-4/</link>
