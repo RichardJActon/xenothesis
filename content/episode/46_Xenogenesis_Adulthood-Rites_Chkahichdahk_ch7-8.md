@@ -17,14 +17,11 @@ images:
 news_keywords: []
 podcast_bytes: '63918144'
 podcast_duration: '00:47:17'
-# podcast_file: 46_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch7-8/46_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch7-8.mp3
 podcast_file: 46_Xenogenesis_Adulthood-Rites_Chkahichdahk_ch7-8.mp3
 tags: []
-youtube: K4Sc35JL-C4
-title: 'Episode: 46 Xenogenesis - Adulthood-Rites: III: Chkahichdahk Chapters 7 & 8'
+youtube: "K4Sc35JL-C4"
+title: "Episode: 46 Xenogenesis - Adulthood-Rites: III: Chkahichdahk Chapters 7 & 8"
 ---
-
-In episode 46, Richard and Michael discuss the joys of Oankali construct puberty, touch on teraforming, and the seeds of Akin's campaign for a human Akjai.
 
 #### Timestamps
 
@@ -63,7 +60,7 @@ In episode 46, Richard and Michael discuss the joys of Oankali construct puberty
 00:35:00 - Ooloi mean built in family planning\
 00:37:40 - A mishmash of expectations\
 00:39:00 - Reproduction is central in biological science fiction\
-00:42:23 - Chapter 9 predicitons\
+00:42:23 - Chapter 9 predictions\
 00:44:39 - Happy Holidays!\
 00:45:40 - Outro
 
