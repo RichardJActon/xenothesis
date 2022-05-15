@@ -1,5 +1,5 @@
 ---
-Description: 'In episode 53 (Special Episode 3), Richard and Michael discuss Ageing & Immortality, from a biological and Ethical prespectives.'
+Description: 'In episode 53 (Special Episode 3), Richard and Michael discuss Ageing and Immortality, from a biological and Ethical prespectives.'
 aliases:
 - /53
 author: richardjacton
@@ -23,7 +23,7 @@ youtube: W0F5q4C_Sls
 title: 'Episode: 53 Xenogenesis - Ageing and Immortality Special'
 ---
 
-In episode 53 (Special Episode 3), Richard and Michael discuss Ageing & Immortality, from a biological and Ethical prespectives.
+In episode 53 (Special Episode 3), Richard and Michael discuss Ageing and Immortality, from a biological and Ethical prespectives.
 
 #### Timestamps
 
