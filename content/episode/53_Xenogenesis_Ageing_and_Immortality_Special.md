@@ -167,7 +167,7 @@ Mind Uploading & Cryonics:
 
 #### Further Reading/listening:
 
-##### Podcasts:
+#### Podcasts:
 - David Sinclair: https://www.lifespanpodcast.com/
 - lessons in lifespan health: https://lifespanhealth.usc.edu/lessons-in-lifespan-health/
 - The Foresight institute: https://foresight.org/podcast/
@@ -175,8 +175,8 @@ Mind Uploading & Cryonics:
 - Dr. Rhonda Patrick (PhD) of found my fitness has some great interview episode with leading aging researchers https://www.foundmyfitness.com/episodes She has a research background – complements the next recomendation
 - The Peter Attia Drive (MD – medical background) good interviews with leading experts https://peterattiamd.com/podcast/
 
-##### Books
-###### Longevity
+#### Books
+#### Longevity
 - David Sinclair  https://lifespanbook.com/
 - Age Later: Secrets of the Healthiest, Sharpest Centenarians by Nir Barzilai https://www.goodreads.com/book/show/51174975-age-later
 - Ageless: The New Science of Getting Older Without Getting Old by Andrew Steele https://www.goodreads.com/book/show/52954648-ageless
@@ -184,7 +184,7 @@ Mind Uploading & Cryonics:
 - The Longevity Diet: Discover the New Science Behind Stem Cell Activation and Regeneration to Slow Aging, Fight Disease, and Optimize Weight by Valter Longo https://www.goodreads.com/book/show/35697130-the-longevity-diet
 - The Mystery of Human Aging: The Surprising Insights of a Science That's Still Young by Bjeorn Schumacher https://www.goodreads.com/book/show/34956971-the-mystery-of-human-aging
 
-###### Fundamentals / books that influence my thinking on this subject
+#### Fundamentals / books that influence my thinking on this subject
 - Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies by Geoffrey B. West https://www.goodreads.com/book/show/31670196-scale
 - life’s ratchet Life's Ratchet: How Molecular Machines Extract Order from Chaos by Peter M. Hoffmann https://www.goodreads.com/book/show/16691583-life-s-ratchet
 - Antifragile: Things That Gain from Disorder (Incerto #4) by Nassim Nicholas Taleb https://www.goodreads.com/book/show/13530973-antifragile
@@ -193,7 +193,7 @@ Mind Uploading & Cryonics:
 - Freedom Evolves by Daniel C. Dennett https://www.goodreads.com/book/show/2071.Freedom_Evolves
 - The Age of Em: Work, Love and Life When Robots Rule the Earth by Robin Hanson https://www.goodreads.com/book/show/26831944-the-age-of-em
 
-###### Fiction
+#### Fiction
 - Harry potter and the methods of rationality by Eliezer Yudkowsky http://www.hpmor.com/ (chapter 39 - ~24mins into the episode of the podcast version)
 - Bobiverse series starting with We Are Legion (We Are Bob) (Bobiverse #1) by Dennis E. Taylor https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob
 - Permutation City (Subjective Cosmology) by Greg Egan https://www.goodreads.com/book/show/156784.Permutation_City
