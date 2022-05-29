@@ -18,7 +18,7 @@ news_keywords: []
 podcast_bytes: '112148279'
 podcast_duration: '00:46:43'
 # podcast_file: 54_Xenogenesis_3-Imago_Metamorphosis_ch1-2/54_Xenogenesis_3-Imago_Metamorphosis_ch1-2.mp3
-podcast_file: 54_Xenogenesis_3-Imago_Metamorphosis_ch1-2.mp3
+podcast_file: 54_Xenogenesis_Imago_Metamorphosis_ch1-2.mp3
 tags: []
 youtube: w3XBjIGNjSM
 title: 'Episode: 54 Xenogenesis - 3-Imago: I: Metamorphosis Chapters 1 & 2'
