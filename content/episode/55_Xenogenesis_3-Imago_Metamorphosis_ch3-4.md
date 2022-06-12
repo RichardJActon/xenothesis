@@ -18,7 +18,7 @@ news_keywords: []
 podcast_bytes: '167299038'
 podcast_duration: '01:09:42'
 # podcast_file: 55_Xenogenesis_3-Imago_Metamorphosis_ch3-4/55_Xenogenesis_3-Imago_Metamorphosis_ch3-4.mp3
-podcast_file: 55_Xenogenesis_3-Imago_Metamorphosis_ch3-4.mp3
+podcast_file: 55_Xenogenesis_Imago_Metamorphosis_ch3-4.mp3
 tags: []
 youtube: DRjg8w3Dg3w
 title: 'Episode: 55 Xenogenesis - 3-Imago: I: Metamorphosis Chapters 3 & 4'
