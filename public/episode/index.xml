@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Mon, 11 Jul 2022 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,52 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 58 Xenogenesis - 3-Imago: II: Exile Chapters 1 &amp; 2</title>
+          <link>https://www.xenothesis.com/58_xenogenesis_3-imago_exile_ch1-2/</link>
+          <pubDate>Sun, 24 Jul 2022 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/58_Xenogenesis_Imago_Exile_ch1-2.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>58</itunes:episode>
+          
+        <itunes:summary>In episode 58, Richard and Michael discuss the abilities of ooloi constructs and how the resisters should mess with Nikanj&#39;s family.</itunes:summary>
+        <description>In episode 58, Richard and Michael discuss the abilities of ooloi constructs and how the resisters should mess with Nikanj&#39;s family.</description>
+        <googleplay:description>In episode 58, Richard and Michael discuss the abilities of ooloi constructs and how the resisters should mess with Nikanj&#39;s family.</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 58, Richard and Michael discuss the abilities of ooloi constructs and how the resisters should mess with Nikanj&rsquo;s family.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:32 - Welcome<br>
+00:00:58 - Content corner<br>
+00:15:36 - Part 1 summary<br>
+00:22:51 - Chapter 1 predictions<br>
+00:24:24 - Chapter 1 summary<br>
+00:29:31 - Ooloi possessiveness<br>
+00:32:13 - Chapter 1 again<br>
+00:35:32 - &ldquo;Creature from the Black Lagoon&rdquo; and Ray Harryhausen [1]<br>
+00:36:59 - Chapter 2 predictions<br>
+00:37:52 - Chapter 2 summary<br>
+00:40:11 - Humankind treated as a woman<br>
+00:42:12 - Chapter 2 again<br>
+00:44:04 - Chapter 3 prediction<br>
+00:47:29 - Outro</p>
+<h4 id="references">References</h4>
+<p>Ray Harryhausen:</p>
+<ul>
+<li>[1] <a href="https://en.wikipedia.org/wiki/Ray_Harryhausen">https://en.wikipedia.org/wiki/Ray_Harryhausen</a> - Article about Ray Harryhausen</li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/58_Xenogenesis_3-Imago_Exile_ch1-2_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/58_Xenogenesis_3-Imago_Exile_ch1-2_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/58_Xenogenesis_Imago_Exile_ch1-2.mp3" length="117425005" type="audio/mpeg" /><itunes:duration>00:48:55</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 57 Xenogenesis - 3-Imago: I: Metamorphosis Chapters 7, 8 &amp; 9</title>
           <link>https://www.xenothesis.com/57_xenogenesis_3-imago_metamorphosis_ch7-9/</link>
