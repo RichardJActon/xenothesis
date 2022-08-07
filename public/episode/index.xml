@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 7 Aug 2022 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,58 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 59 Xenogenesis - 3-Imago: II: Exile Chapters 3 &amp; 4</title>
+          <link>https://www.xenothesis.com/59_xenogenesis_3-imago_exile_ch3-4/</link>
+          <pubDate>Sun, 07 Aug 2022 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/59_Xenogenesis_3-Imago_Exile_ch3-4.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>59</itunes:episode>
+          
+        <itunes:summary>In episode 59, Richard and Michael discuss the open sex culture of the Oankali families and El Chupacabra that Jodahs became.</itunes:summary>
+        <description>In episode 59, Richard and Michael discuss the open sex culture of the Oankali families and El Chupacabra that Jodahs became.</description>
+        <googleplay:description>In episode 59, Richard and Michael discuss the open sex culture of the Oankali families and El Chupacabra that Jodahs became.</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 59, Richard and Michael discuss the open sex culture of the Oankali families and El Chupacabra that Jodahs became.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:32 - Welcome<br>
+00:01:58 - Chapter 3 predictions<br>
+00:03:51 - Chapter 3 summary starts<br>
+00:06:45 - Vision&rsquo;s importance [1]<br>
+00:08:40 - Post-nuclear sickness [2 - 4]<br>
+00:13:09 - Chapter 3 ends<br>
+00:14:07 - Chapter 4 predictions<br>
+00:15:14 - Chapter 4 summary begins<br>
+00:18:15 - The mothership awaits<br>
+00:21:00 - Secondary trade?<br>
+00:22:45 - Lizardman<br>
+00:26:54 - Chapter 4 ends<br>
+00:27:31 - Back to 3 part family?<br>
+00:31:01 - Outro</p>
+<h4 id="references">References</h4>
+<p>Importance of senses:</p>
+<ul>
+<li>[1] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6787282/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6787282/</a> - An article discussing the importance of vision over any other sensory modality.</li>
+</ul>
+<p>Post-nuclear sickness:</p>
+<ul>
+<li>[2] <a href="https://en.wikipedia.org/wiki/Effects_of_nuclear_explosions_on_human_health">https://en.wikipedia.org/wiki/Effects_of_nuclear_explosions_on_human_health</a> - Wikipedia article about the effects of nuclear radiation on human body.</li>
+<li>[3] <a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome">https://en.wikipedia.org/wiki/Acute_radiation_syndrome</a> - Acute radiation sickness</li>
+<li>[4] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235763/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235763/</a> - Review article investigating history of previous publications about the effects</li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/59_Xenogenesis_3-Imago_Exile_ch3-4_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/59_Xenogenesis_3-Imago_Exile_ch3-4_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/59_Xenogenesis_3-Imago_Exile_ch3-4.mp3" length="78406426" type="audio/mpeg" /><itunes:duration>00:32:40</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 58 Xenogenesis - 3-Imago: II: Exile Chapters 1 &amp; 2</title>
           <link>https://www.xenothesis.com/58_xenogenesis_3-imago_exile_ch1-2/</link>
