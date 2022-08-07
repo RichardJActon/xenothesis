@@ -20,6 +20,7 @@ podcast_duration: '00:32:40'
 # podcast_file: 59_Xenogenesis_3-Imago_Exile_ch3-4/59_Xenogenesis_3-Imago_Exile_ch3-4.mp3
 podcast_file: 59_Xenogenesis_3-Imago_Exile_ch3-4.mp3
 tags: []
+youtube: TxnOQ3obmDE
 title: 'Episode: 59 Xenogenesis - 3-Imago: II: Exile Chapters 3 & 4'
 ---
 
