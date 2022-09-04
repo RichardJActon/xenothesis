@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 4 Sep 2022 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,62 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 61 Xenogenesis - 3-Imago: II: Exile Chapters 7 &amp; 8</title>
+          <link>https://www.xenothesis.com/61_xenogenesis_3-imago_exile_ch7-8/</link>
+          <pubDate>Sun, 04 Sep 2022 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/61_Xenogenesis_3-Imago_Exile_ch7-8.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>61</itunes:episode>
+          
+        <itunes:summary>In episode 61, Richard and Michael consider the parallels between the Oankali and vampires.</itunes:summary>
+        <description>In episode 61, Richard and Michael consider the parallels between the Oankali and vampires.</description>
+        <googleplay:description>In episode 61, Richard and Michael consider the parallels between the Oankali and vampires.</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 61, Richard and Michael consider the parallels between the Oankali to vampires.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:31 - Welcome<br>
+00:01:50 - Chapter 7 predictions<br>
+00:05:00 - Orbital Oankali eyes?<br>
+00:06:36 - Chapter 7 summary starts<br>
+00:06:42 - Jodhas' stalker vibes<br>
+00:08:02 - Human faced pangolin to creepy clone<br>
+00:09:50 - Horror or Jodhas' strength<br>
+00:13:25 - Protecting the village is futile<br>
+00:16:15 - REDACTED<br>
+00:16:30 - Age &amp; Sexual maturity<br>
+00:20:00 - Boiling the incest frog<br>
+00:22:05 - minimum viable population [1]<br>
+00:23:50 - Revealing the fate of Earth<br>
+00:26:34 - The village doesn&rsquo;t seem better&hellip;<br>
+00:28:30 - No Good Choices<br>
+00:30:12 - Chapter 8 summary begins<br>
+00:30:40 - Pro: Better facial hair?<br>
+00:31:40 - Temporal perspective &amp; Imaginary stock prices<br>
+00:33:30 - Pro: Long Life<br>
+00:34:32 - Another well timed metaporphosis<br>
+00:35:18 - Ooloi ~= Vampires?<br>
+00:36:40 - Weird Sex stuff (Con?)<br>
+00:38:35 - Chapter 9 predictions<br>
+00:40:02 - Unreliable Narrator<br>
+00:41:42 - Outro</p>
+<h4 id="references">References</h4>
+<ul>
+<li>[1] Minimum viable population <a href="https://en.wikipedia.org/wiki/Minimum_viable_population">https://en.wikipedia.org/wiki/Minimum_viable_population</a></li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/61_Xenogenesis_3-Imago_Exile_ch7-8_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/61_Xenogenesis_3-Imago_Exile_ch7-8_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/61_Xenogenesis_3-Imago_Exile_ch7-8.mp3" length="103278133" type="audio/mpeg" /><itunes:duration>00:43:01</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 60 Xenogenesis - 3-Imago: II: Exile Chapters 5 &amp; 6</title>
           <link>https://www.xenothesis.com/60_xenogenesis_3-imago_exile_ch5-6/</link>
