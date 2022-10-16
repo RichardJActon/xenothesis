@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,56 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 64 Xenogenesis - 3-Imago: III: Imago Chapters 1 &amp; 2</title>
+          <link>https://www.xenothesis.com/64_xenogenesis_3-imago_imago_ch1-2/</link>
+          <pubDate>Sun, 16 Oct 2022 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/64_Xenogenesis_3-Imago_Imago_ch1-2.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>64</itunes:episode>
+          
+        <itunes:summary>In episode 64, Richard and Michael discuss the ooloi perspective and Nikanj&#39;s sinister advices.</itunes:summary>
+        <description>In episode 64, Richard and Michael discuss the ooloi perspective and Nikanj&#39;s sinister advices.</description>
+        <googleplay:description>In episode 64, Richard and Michael discuss the ooloi perspective and Nikanj&#39;s sinister advices.</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 64, Richard and Michael discuss the ooloi perspective and Nikanj&rsquo;s sinister advices.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:32 - Welcome<br>
+00:03:26 - Back at Kahguyaht<br>
+00:03:59 - Chapter 1 predictions<br>
+00:05:39 - Chapter 1 summary<br>
+00:09:43 - Lilith&rsquo;s advise<br>
+00:11:12 - Kahguyaht is an &hellip;<br>
+00:13:03 - Lilith&rsquo;s sacrifice<br>
+00:16:31 - Change in Oankali<br>
+00:18:17 - Chapter 2 predictions<br>
+00:19:16 - Chapter 2 summary<br>
+00:21:51 - Ooloi&rsquo;s perspective<br>
+00:28:15 - Nikanj&rsquo;s first lesson<br>
+00:29:45 - Nikanj&rsquo;s second lesson<br>
+00:32:41 - Nikanj&rsquo;s third lesson<br>
+00:33:51 - Chapter 3 prediction<br>
+00:34:31 - Issues with Oankali metamorphosis<br>
+00:46:59 - Hunger not need [1]<br>
+00:51:32 - Outro</p>
+<h4 id="references">References</h4>
+<p>Hierarchy of needs:</p>
+<ul>
+<li>[1] <a href="https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs">https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs</a> - Wikipedia article about hirerarchy of needs.</li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/64_Xenogenesis_3-Imago_Imago_ch1-2_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/64_Xenogenesis_3-Imago_Imago_ch1-2_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/64_Xenogenesis_3-Imago_Imago_ch1-2.mp3" length="127135242" type="audio/mpeg" /><itunes:duration>00:52:58</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 63 Xenogenesis - 3-Imago: II: Exile Chapters 11 &amp; 12</title>
           <link>https://www.xenothesis.com/63_xenogenesis_3-imago_exile_ch11-12/</link>
