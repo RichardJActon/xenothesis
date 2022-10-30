@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.xenothesis.com/64_xenogenesis_3-imago_imago_ch1-2/</loc>
-    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    <loc>https://www.xenothesis.com/books/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.xenothesis.com/65_xenogenesis_3-imago_imago_ch3-4/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.xenothesis.com/episode/</loc>
-    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.xenothesis.com/books/basic_length_breakdowns/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.xenothesis.com/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.xenothesis.com/64_xenogenesis_3-imago_imago_ch1-2/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.xenothesis.com/63_xenogenesis_3-imago_exile_ch11-12/</loc>
@@ -113,13 +122,7 @@
     <loc>https://www.xenothesis.com/30_xenogenesis_adulthood-rites_lo_ch7/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.xenothesis.com/books/</loc>
-    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.xenothesis.com/29_xenogenesis_adulthood-rites_lo_ch6/</loc>
-    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.xenothesis.com/books/basic_length_breakdowns/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.xenothesis.com/28_xenogenesis_adulthood-rites_lo_ch5/</loc>

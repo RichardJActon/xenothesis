@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,59 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 65 Xenogenesis - 3-Imago: III: Imago Chapters 3 &amp; 4</title>
+          <link>https://www.xenothesis.com/65_xenogenesis_3-imago_imago_ch3-4/</link>
+          <pubDate>Sun, 30 Oct 2022 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/65_Xenogenesis_3-Imago_Imago_ch3-4.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>65</itunes:episode>
+          
+        <itunes:summary>In episode 65, Richard and Michael discuss the Ooloi genetic memory being a form of external storage as well as Tomas and Jesusa&#39;s discovery that the can&#39;t be away from Jodahs.</itunes:summary>
+        <description>In episode 65, Richard and Michael discuss the Ooloi genetic memory being a form of external storage as well as Tomas and Jesusa&#39;s discovery that the can&#39;t be away from Jodahs.</description>
+        <googleplay:description>In episode 65, Richard and Michael discuss the Ooloi genetic memory being a form of external storage as well as Tomas and Jesusa&#39;s discovery that the can&#39;t be away from Jodahs.</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 65, Richard and Michael discuss the Ooloi genetic memory being a form of external storage as well as Tomas and Jesusa&rsquo;s discovery that the can&rsquo;t be away from Jodahs.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:30 - Welcome<br>
+00:01:20 - Chapter 3 predictions<br>
+00:03:28 - Chapter 3 summary<br>
+00:05:32 - Dissolution of Aaor&rsquo;s body<br>
+00:07:10 - Danger of loose Oankali Organelles<br>
+00:10:04 - Jodahs &lsquo;Respects their decision&rsquo;<br>
+00:12:23 - Oankali Super-organism, apoptosis [1,2] analogy<br>
+00:16:00 - Cell-cycle Checkpoints [3,4] analogy<br>
+00:17:25 - Chapter 4 predictions<br>
+00:19:24 - Chapter 4 summary<br>
+00:20:40 - Jesus and Tomas test the limits of their bond with Jodahs<br>
+00:20:58 - Lilith&rsquo;s painting<br>
+00:24:00 - Doubting your own motives<br>
+00:25:36 - Leaving this place<br>
+00:26:01 - Sharing the Ooloi genetic memory<br>
+00:36:02 - Chapter 5 predictions<br>
+00:38:28 - Outro</p>
+<h4 id="references">References</h4>
+<p>Apoptosis:</p>
+<ul>
+<li>[1] Khan academy <a href="https://www.khanacademy.org/science/biology/developmental-biology/apoptosis-in-development/a/apoptosis">https://www.khanacademy.org/science/biology/developmental-biology/apoptosis-in-development/a/apoptosis</a></li>
+<li>[2] Review <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2117903/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2117903/</a>
+Cell-cycle Checkpoints:</li>
+<li>[3] Khan academy <a href="https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/regulation-of-cell-cycle/a/cell-cycle-checkpoints-article">https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/regulation-of-cell-cycle/a/cell-cycle-checkpoints-article</a></li>
+<li>[4] Review <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4990352/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4990352/</a></li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/65_Xenogenesis_3-Imago_Imago_ch3-4_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/65_Xenogenesis_3-Imago_Imago_ch3-4_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/65_Xenogenesis_3-Imago_Imago_ch3-4.mp3" length="95692174" type="audio/mpeg" /><itunes:duration>00:39:52</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 64 Xenogenesis - 3-Imago: III: Imago Chapters 1 &amp; 2</title>
           <link>https://www.xenothesis.com/64_xenogenesis_3-imago_imago_ch1-2/</link>
@@ -108,7 +161,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
         <itunes:summary>In episode 63, Richard and Michael discuss Lilith&#39;s disapprobation of Jodahs&#39; approach to the acquisition of Human mates, Spina bifida, Neurofibromatosis, the resilience of the Oankali organelle and trendiness in scientific publishing.</itunes:summary>
         <description>In episode 63, Richard and Michael discuss Lilith&#39;s disapprobation of Jodahs&#39; approach to the acquisition of Human mates, Spina bifida, Neurofibromatosis, the resilience of the Oankali organelle and trendiness in scientific publishing.</description>
         <googleplay:description>In episode 63, Richard and Michael discuss Lilith&#39;s disapprobation of Jodahs&#39; approach to the acquisition of Human mates, Spina bifida, Neurofibromatosis, the resilience of the Oankali organelle and trendiness in scientific publishing.</googleplay:description>
-        <content:encoded><![CDATA[<p>In episode 63, Richard and Michael discuss Lilith&rsquo;s disapprobation of Jodahs' approach to the acquisition of Human mates, Spina bifida, Neurofibromatosis, the resilience of the Oankali organelle and trendiness in scientific publishing.</p>
+        <content:encoded><![CDATA[<p>In episode 63, Richard and Michael discuss Lilith&rsquo;s disapprobation of Jodahs&rsquo; approach to the acquisition of Human mates, Spina bifida, Neurofibromatosis, the resilience of the Oankali organelle and trendiness in scientific publishing.</p>
 <h4 id="timestamps">Timestamps</h4>
 <p>00:00:00 - Start<br>
 00:00:31 - Welcome<br>
@@ -137,7 +190,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:32:00 - Types of Neurofibromatosis [2]<br>
 00:39:40 - &ldquo;The Sexy new disease&rdquo;<br>
 00:41:00 - COVID paper Richard&rsquo;s a Co-author on [3,4]<br>
-00:43:10 - Aaor&rsquo;s Desire for mates<br>
+00:43:10 - Aaor&rsquo;s Desire for mates <br>
 00:46:22 - Part II Summary<br>
 00:54:30 - Representation for Rare Genetic Diseases<br>
 00:57:32 - Part III predictions<br>
@@ -249,9 +302,9 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:01:50 - Chapter 7 predictions<br>
 00:05:00 - Orbital Oankali eyes?<br>
 00:06:36 - Chapter 7 summary starts<br>
-00:06:42 - Jodhas' stalker vibes<br>
+00:06:42 - Jodhas&rsquo; stalker vibes<br>
 00:08:02 - Human faced pangolin to creepy clone<br>
-00:09:50 - Horror or Jodhas' strength<br>
+00:09:50 - Horror or Jodhas&rsquo; strength<br>
 00:13:25 - Protecting the village is futile<br>
 00:16:15 - REDACTED<br>
 00:16:30 - Age &amp; Sexual maturity<br>
@@ -298,13 +351,13 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
         <itunes:summary>In episode 60, Richard and Michael discuss Jodhas&#39; new form as a giant stalkery pangolin with a human face and hands. We also meet fertile new pair of humans with a genetic condition, Jesusa &amp; Tomas.</itunes:summary>
         <description>In episode 60, Richard and Michael discuss Jodhas&#39; new form as a giant stalkery pangolin with a human face and hands. We also meet fertile new pair of humans with a genetic condition, Jesusa &amp; Tomas.</description>
         <googleplay:description>In episode 60, Richard and Michael discuss Jodhas&#39; new form as a giant stalkery pangolin with a human face and hands. We also meet fertile new pair of humans with a genetic condition, Jesusa &amp; Tomas.</googleplay:description>
-        <content:encoded><![CDATA[<p>In episode 60, Richard and Michael discuss Jodhas' new form as a giant stalkery pangolin with a human face and hands. We also meet fertile new pair of humans with a genetic condition, Jesusa &amp; Tomas.</p>
+        <content:encoded><![CDATA[<p>In episode 60, Richard and Michael discuss Jodhas&rsquo; new form as a giant stalkery pangolin with a human face and hands. We also meet fertile new pair of humans with a genetic condition, Jesusa &amp; Tomas.</p>
 <h4 id="timestamps">Timestamps</h4>
 <p>00:00:00 - Start<br>
 00:00:31 - Welcome<br>
 00:01:40 - Chapter 5 predictions<br>
 00:02:17 - Chapter 5 summary starts<br>
-00:04:26 - Jodhas' peculiar appearance<br>
+00:04:26 - Jodhas&rsquo; peculiar appearance<br>
 00:06:25 - New Humans<br>
 00:07:32 - Determining if you can speak a lanugage with just bodylanguage<br>
 00:09:26 - Human Catch and release<br>
@@ -313,7 +366,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:24:50 - Build in bug repellent.<br>
 00:27:15 - Chapter 6 predictions<br>
 00:28:14 - Chapter 6 summary begins<br>
-00:28:26 - Jodhas Stalks<br>
+00:28:26 - Jodhas Stalks <br>
 00:29:08 - WHO MICROWAVED THE FISH!<br>
 00:31:25 - Fertile Humans<br>
 00:35:30 - Chapter 6 ends<br>
@@ -451,7 +504,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:03:45 - Chapter 7 summary<br>
 00:06:00 - Experimenting on the humans in stasis<br>
 00:06:40 - Closer 1st person on Johdas<br>
-00:10:00 - Johdas' controling cancerous cells<br>
+00:10:00 - Johdas&rsquo; controling cancerous cells<br>
 00:13:00 - Ironic fire resistance<br>
 00:15:30 - Johdas is shot<br>
 00:17:00 - Where would we rather be shot?<br>
@@ -469,7 +522,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:47:46 - Environmental DNA monitoring [1]<br>
 00:50:02 - Chapter 9 predictions<br>
 00:51:00 - Chapter 9 summary<br>
-00:54:30 - mood affects Johdas' control<br>
+00:54:30 - mood affects Johdas&rsquo; control<br>
 00:58:04 - Part II: Exile Ch 1 predictions<br>
 01:00:40 - Outro<br>
 01:02:16 - pre-amble</p>
@@ -516,10 +569,10 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:24:23 - Lilith&rsquo;s guilt<br>
 00:26:19 - Messages in Lo<br>
 00:28:48 - Nikanj&rsquo;s unbelievable words<br>
-00:36:56 - Jodahs' loneliness<br>
+00:36:56 - Jodahs&rsquo; loneliness<br>
 00:39:13 - Coincidence? I think not!<br>
 00:40:58 - Forced sexual development<br>
-00:45:00 - Jodahs' abilities<br>
+00:45:00 - Jodahs&rsquo; abilities<br>
 00:46:58 - Chapter 7 predictions<br>
 00:48:43 - Outro</p>
 <h4 id="references">References</h4>
@@ -623,7 +676,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:12:30 - Sense of smell and Richard disses owls [1 - 4]<br>
 00:15:08 - Back to Chapter 1 and Jodahs<br>
 00:16:31 - Grasped and eaten out by the Oankali door<br>
-00:17:32 - Meaning of Jodahs' name [5]<br>
+00:17:32 - Meaning of Jodahs&rsquo; name [5]<br>
 00:20:04 - We love Lilith<br>
 00:21:19 - Still a child - Michael<br>
 00:23:26 - Later generations of constructs are uniform<br>
@@ -683,7 +736,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:31:00 - Intro<br>
 00:03:22 - Historical Lifespan Trends [1,2]<br>
 00:08:36 - Definitions: Ageing, Immortality<br>
-00:11:54 - Aging as increasing risk of death with time [3,4], Negligible senescence [5] constant (low) risk of death<br>
+00:11:54 - Aging as increasing risk of death with time [3,4], Negligible senescence [5] constant (low) risk of death <br>
 00:13:30 - how immortal is immortal?<br>
 00:15:52 - Mortal Individuals, immortal populations<br>
 00:17:16 - Individuals are energetically open but informationally closed<br>
@@ -835,7 +888,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 <p>[41] <a href="https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop">https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop</a> I Am a Strange Loop</p>
 </li>
 <li>
-<p>[42] Harry Potter and the Methods of Rationality (chapter 39) <a href="http://www.hpmor.com/chapter/39">http://www.hpmor.com/chapter/39</a> audio: <a href="https://hpmorpodcast.com/?p=276,">https://hpmorpodcast.com/?p=276,</a> <a href="https://hpmorpodcast.com/?p=280">https://hpmorpodcast.com/?p=280</a></p>
+<p>[42] Harry Potter and the Methods of Rationality (chapter 39) <a href="http://www.hpmor.com/chapter/39">http://www.hpmor.com/chapter/39</a> audio: <a href="https://hpmorpodcast.com/?p=276">https://hpmorpodcast.com/?p=276</a>, <a href="https://hpmorpodcast.com/?p=280">https://hpmorpodcast.com/?p=280</a></p>
 </li>
 <li>
 <p>[43] <a href="https://www.goodreads.com/book/show/7937744-surface-detail">https://www.goodreads.com/book/show/7937744-surface-detail</a> Surface Detail by Iain M. Banks</p>
@@ -1003,7 +1056,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:04:30 - Chapter 5 begins<br>
 00:07:41 - Story got dark<br>
 00:10:07 - Issues with the first colonies and colonists on Mars<br>
-00:17:49 - Akin&rsquo;s small stature [1 - 3]<br>
+00:17:49 - Akin&rsquo;s small stature [1 - 3] <br>
 00:23:37 - Oankali decision<br>
 00:30:39 - How is humanity going to get to Mars without any help<br>
 00:32:51 - Nerding out about nuclear power in biological system<br>
@@ -1329,7 +1382,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:16:46 - Oankali Population?<br>
 00:17:22 - How Big is the Oankali Mothership?<br>
 00:18:30 - Chapter 8 predictions<br>
-00:19:24 - Akin is unsurprisingly, to us, an Adolescent<br>
+00:19:24 - Akin is unsurprisingly, to us, an Adolescent <br>
 00:25:10 - Ignoring the children, is this the Oakli&rsquo;s biggest weakness?<br>
 00:25:37 - Political alignments of the Oankali family branches<br>
 00:27:48 - What&rsquo;s that sexy smell?<br>
@@ -1392,7 +1445,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:40:37 - First encounter with Oankali was seeing giant caterpillars<br>
 00:42:25 - Spoken language<br>
 00:46:43 - lightyear.fm<br>
-00:50:31 - True ooloi communication [1, 2]<br>
+00:50:31 - True ooloi communication [1, 2] <br>
 00:59:01 - Connected consciousnesses [3]<br>
 01:02:53 - Chapter 7 predictions<br>
 01:04:54 - Loud numbers podcast<br>
@@ -1685,7 +1738,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:31:40 - Octavia&rsquo;s complex &amp; realistic characters<br>
 00:38:04 - Tate (rightly) puts the blame on Neci<br>
 00:39:00 - Chapter 19 predictions<br>
-00:40:48 - Clip this out of context<br>
+00:40:48 - Clip this out of context <br>
 00:43:03 - Chapter 19 summary<br>
 00:43:43 - Neci wants Akin tied up when unattended<br>
 00:44:28 - Guns in Phoenix<br>
@@ -1694,7 +1747,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:48:09 - *condescension<br>
 00:48:20 - Human extinction &amp; Akjai<br>
 00:49:24 - Akin as a bridge between the Oankali &amp; Humans<br>
-00:50:12 - How the Human &lsquo;trade&rsquo; differs from previous &lsquo;trades&rsquo;<br>
+00:50:12 - How the Human &rsquo;trade&rsquo; differs from previous &rsquo;trades&rsquo;<br>
 00:52:40 - Limits of Oankali understanding of Human psychology &amp; culture<br>
 00:53:52 - Chapter 20 predictions<br>
 00:55:22 - The nature of extinction<br>
@@ -1759,7 +1812,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:25:56 - Chapter 17 predictions<br>
 00:27:36 - A new member of the leave the tentacles alone Neci club<br>
 00:27:50 - New members of the remove the tentacles club<br>
-00:28:46 - give in to alien impulses<br>
+00:28:46 - give in to alien impulses <br>
 00:29:10 - Neci pushes Yori, and Yori says shes&rsquo;s out.<br>
 00:20:10 - Neci cuts people off, and pressures people to help.<br>
 00:31:28 - Don&rsquo;t use alcoholic drinks as an anaesthetic or antiseptic<br>
@@ -1841,7 +1894,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 <li>[7] <a href="https://www.cell.com/current-biology/pdf/S0960-9822%2807%2901138-4.pdf">https://www.cell.com/current-biology/pdf/S0960-9822%2807%2901138-4.pdf</a> - A Cell article going into more detail about the patterns and their influence on the camouflage in octopuses.</li>
 <li>[8] <a href="https://www.youtube.com/watch?v=0wtLrlIKvJE">https://www.youtube.com/watch?v=0wtLrlIKvJE</a> - A video from Deep Look showing the pigment changes in the cells of the skin in cephalopods.</li>
 <li>[9] <a href="https://www.youtube.com/watch?v=1pJPnZFSy5o">https://www.youtube.com/watch?v=1pJPnZFSy5o</a> - A very relaxing video of the skin cell pigments still being active after the death of a squid.</li>
-<li>[10] <a href="https://en.wikipedia.org/wiki/Other_Minds:_The_Octopus,_the_Sea,_and_the_Deep_Origins_of_Consciousness">https://en.wikipedia.org/wiki/Other_Minds:_The_Octopus,_the_Sea,_and_the_Deep_Origins_of_Consciousness</a> - Other Minds by Peter Godfrey-Smith that Richard references abotu octopuses' nervous system and camouflage as well as their awful behaviour towards scientists.</li>
+<li>[10] <a href="https://en.wikipedia.org/wiki/Other_Minds:_The_Octopus,_the_Sea,_and_the_Deep_Origins_of_Consciousness">https://en.wikipedia.org/wiki/Other_Minds:_The_Octopus,_the_Sea,_and_the_Deep_Origins_of_Consciousness</a> - Other Minds by Peter Godfrey-Smith that Richard references abotu octopuses&rsquo; nervous system and camouflage as well as their awful behaviour towards scientists.</li>
 <li>[11] <a href="https://www.frontiersin.org/articles/10.3389/fphys.2018.00952/full">https://www.frontiersin.org/articles/10.3389/fphys.2018.00952/full</a> - Very detailed and complex review on the cephalopod brains.</li>
 <li>[12] <a href="https://oxfordre.com/neuroscience/view/10.1093/acrefore/9780190264086.001.0001/acrefore-9780190264086-e-181">https://oxfordre.com/neuroscience/view/10.1093/acrefore/9780190264086.001.0001/acrefore-9780190264086-e-181</a> - Another article about cephalopod nervous system.</li>
 </ul>
@@ -2038,7 +2091,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:02:30 - We discuss some stuff we read/watched while away<br>
 00:02:44 - Parables books mild SPOILERS<br>
 00:03:14 - Brave New World<br>
-00:04:02 - Bokanovskification [1]<br>
+00:04:02 - Bokanovskification [1] <br>
 00:04:48 - Billionaires in Space<br>
 00:04:56 - Richard tries to become more of a nerd via Anime<br>
 00:06:40 - Mild SPOILERS for Violet Evergarden<br>
@@ -2095,7 +2148,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 01:01:10 - Yori&rsquo;s understaning of Akin&rsquo;s Intelligence<br>
 01:03:00 - Prediciions<br>
 01:06:00 - Why would a woman go with the group?<br>
-01:08:00 - The Oankali are post scarcity, the humans are not<br>
+01:08:00 - The Oankali are post scarcity, the humans are not <br>
 01:10:20 - Outro</p>
 <h4 id="references">References</h4>
 <ul>
@@ -2125,7 +2178,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
         <itunes:summary>In episode 34, Richard and Michael discuss who would and has survived the nuclear holocaust in Xenogenesis&#39; world.</itunes:summary>
         <description>In episode 34, Richard and Michael discuss who would and has survived the nuclear holocaust in Xenogenesis&#39; world.</description>
         <googleplay:description>In episode 34, Richard and Michael discuss who would and has survived the nuclear holocaust in Xenogenesis&#39; world.</googleplay:description>
-        <content:encoded><![CDATA[<p>In episode 34, Richard and Michael discuss who would and has survived the nuclear holocaust in Xenogenesis' world.</p>
+        <content:encoded><![CDATA[<p>In episode 34, Richard and Michael discuss who would and has survived the nuclear holocaust in Xenogenesis&rsquo; world.</p>
 <h4 id="timestamps">Timestamps</h4>
 <p>00:00:00 - Start<br>
 00:00:32 - Welcome<br>
@@ -2135,11 +2188,11 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:04:48 - Michael still can&rsquo;t comprehend the behaviour of the captors<br>
 00:09:26 - Back to chapter - Akin&rsquo;s long-term thinking<br>
 00:10:31 - Chapter 7 summary ends<br>
-00:10:35 - Who would survive the nuclear holocaust in Xenogenesis' world [1-3]<br>
+00:10:35 - Who would survive the nuclear holocaust in Xenogenesis&rsquo; world [1-3]<br>
 00:24:29 - Chapter 8 predictions<br>
 00:25:21 - Chapter 8 summary starts<br>
 00:27:37 - How could we protect ourselves against the Oankali<br>
-00:28:40 - Space Force [4]<br>
+00:28:40 - Space Force [4] <br>
 00:36:45 - Back to chapter 8<br>
 00:38:01 - Progress - from moonshine to wine<br>
 00:38:40 - Akin trolls the men<br>
@@ -2210,7 +2263,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:20:58 - Thank Fungi for no more giant bugs<br>
 00:21:54 - Dragonflies are awesome but we are glad they ar not bigger [6]<br>
 00:23:10 - Akin smells some books<br>
-00:23:19 - The village &lsquo;gave up&rsquo; and joined the &lsquo;trade&rsquo; villages<br>
+00:23:19 - The village &lsquo;gave up&rsquo; and joined the &rsquo;trade&rsquo; villages<br>
 00:24:07 - Richard sells out humanity<br>
 00:24:38 - How to keep &lsquo;pure&rsquo; humans in existence?<br>
 00:25:46 - Put some gammetes on ice &amp; form a conspiracy!<br>
@@ -2227,7 +2280,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:45:36 - Iriarte tells Akin the others are crazy<br>
 00:46:26 - Trading Akin for a Woman<br>
 00:47:00 - Chapter 7 Predictions<br>
-00:48:14 - Some of the village voted not to join the Oankali<br>
+00:48:14 - Some of the village voted not to join the Oankali <br>
 00:49:35 - Speculations on Phoenix<br>
 00:50:18 - Living in a resister village<br>
 00:51:29 - Illusion of choice to resist<br>
@@ -2398,7 +2451,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:01:13 - Richard prounances the unprounancable<br>
 00:01:43 - Oankali language basis<br>
 00:03:07 - If we miss stuff, it will be in the references<br>
-00:03:40 - Richard&rsquo;s nerdiness is glorious - Harris' Hawk [1, 2]<br>
+00:03:40 - Richard&rsquo;s nerdiness is glorious - Harris&rsquo; Hawk [1, 2]<br>
 00:07:20 - Titanic&rsquo;s sky was wrong [3]<br>
 00:12:40 - Nerd rant over<br>
 00:13:06 - Chapter 1 predictions<br>
@@ -2421,10 +2474,10 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:49:58 - Level of the gun sophistication in the book [7 - 9]<br>
 00:59:26 - Outro</p>
 <h4 id="references">References</h4>
-<p>Harris' hawk:</p>
+<p>Harris&rsquo; hawk:</p>
 <ul>
-<li>[1] <a href="https://en.wikipedia.org/wiki/Harris%27s_hawk">https://en.wikipedia.org/wiki/Harris%27s_hawk</a> - About the Harris' hawk.</li>
-<li>[2] <a href="https://britishwildlife.fandom.com/wiki/Harris_Hawk">https://britishwildlife.fandom.com/wiki/Harris_Hawk</a> - Harris' hawk non-native in UK</li>
+<li>[1] <a href="https://en.wikipedia.org/wiki/Harris%27s_hawk">https://en.wikipedia.org/wiki/Harris%27s_hawk</a> - About the Harris&rsquo; hawk.</li>
+<li>[2] <a href="https://britishwildlife.fandom.com/wiki/Harris_Hawk">https://britishwildlife.fandom.com/wiki/Harris_Hawk</a> - Harris&rsquo; hawk non-native in UK</li>
 </ul>
 <p>Titanic&rsquo;s sky:</p>
 <ul>
@@ -2921,7 +2974,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:06:45 - A somewhat dystopian biopunk film set in a world where genetic engineering is commonplace<br>
 00:07:45 - Non-state eugenics, &lsquo;voluntarily&rsquo; by private persons wanting their offspring to have the best chances<br>
 00:09:55 - Cast [2]<br>
-00:10:50 - Ethan Hawke and Uma Thurman met on set got married [3]<br>
+00:10:50 - Ethan Hawke and Uma Thurman met on set got married [3] <br>
 00:11:34 - Is that Hank? [4]<br>
 00:12:46 - Character Names, Vincent Freeman, Irene cassini, Eugene Morrow (GATTACA) [5]<br>
 00:15:28 - Awards [6]<br>
@@ -2932,7 +2985,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:19:40 - Marin County Civic centre [10], Frank lloyd wright [11]<br>
 00:21:42 - Clothing [8]<br>
 00:22:04 - Valids High culture, Invalids low culture [8]<br>
-00:23:30 - CLA building [12]<br>
+00:23:30 - CLA building [12] <br>
 00:24:20 - Cars 1950-60 era bodywork with made to look/sound electric [13]<br>
 00:25:20 - Score - Michael Nyman [14]<br>
 00:26:52 - Cinematographer [15]<br>
@@ -2983,7 +3036,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 01:19:56 - Willard Gaylin [24]<br>
 01:19:23 - The book of Ecclesiastes - not bad for the bible [23]<br>
 01:21:34 - Existentialism, the ephemeral nature of existence and lack of change<br>
-01:23:10 - Progress now occurs in the lifetime of an individual<br>
+01:23:10 - Progress now occurs in the lifetime of an individual <br>
 01:24:00 - The archetypes of Eugene heir to the throne and Vincent the underdog<br>
 01:26:00 - Dystopia arises through the oversimplification of genetic quality to a single dimension<br>
 01:26:54 - Goodhart&rsquo;s law [24]<br>
@@ -3008,10 +3061,10 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 01:46:30 - Nazi Eugenics 1921 [36]<br>
 01:47:10 - pre-existing social darwinist attitudes in WWI era German military command [32]<br>
 01:47:43 - Sterilisation 1933 [37]<br>
-01:47:54 - Himmler &lsquo;lebensborn&rsquo; 1935 [38]<br>
+01:47:54 - Himmler &rsquo;lebensborn&rsquo; 1935 [38]<br>
 01:48:07 - Racial impurity crimes 1936 [39]<br>
 01:48:26 - Action T4 250,000-300,000 killed 1939-1945 [40]<br>
-01:51:10 - The swing away from nature and towards nurture<br>
+01:51:10 - The swing away from nature and towards nurture <br>
 01:51:52 - The slate is not as blank as many wanted to believe [41]<br>
 01:52:28 - As a generalisation it&rsquo;s about 50:50 genetics and environment [42]<br>
 01:54:10 - The genetic engineering arms race<br>
@@ -3031,7 +3084,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 02:13:18 - Splitting to more embryos to edit?<br>
 02:15:23 - Embryo breeding [51]<br>
 02:18:10 - Sequencing results in GATTACA - you don&rsquo;t get a print out of the genome [52]<br>
-02:20:40 - Genetic test results<br>
+02:20:40 - Genetic test results <br>
 02:21:47 - Genome Browsers [53, 54]<br>
 02:24:18 - You can just go and have your date&rsquo;s genome sequenced at a kiosk<br>
 02:25:30 - Data protection<br>
@@ -3049,11 +3102,11 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 02:42:50 - Editing proof of principle Doudna and Charpentier 2012 [59, 60]<br>
 02:44:20 - Inactivating genes by cutting them and getting an imperfect repair [61, 62]<br>
 02:44:53 - Inserting new sequence with CRISPR [63]<br>
-02:46:36 - Very rapid adoption in research in wide use in &lt;2 years<br>
+02:46:36 - Very rapid adoption in research in wide use in &lt;2 years <br>
 02:47:46 - The first CRISPR babies 2018, He Jiankui scandal [63, 48]<br>
 02:49:00 - He Jiankui made a poor choice of intervention<br>
-02:52:03 - Michael is angry<br>
-02:52:44 - Consequences for He Jiankui<br>
+02:52:03 - Michael is angry <br>
+02:52:44 - Consequences for He Jiankui <br>
 02:54:02 - Reality is catching up to GATTACA&rsquo;s launch cadence [64]<br>
 02:55:10 - Richard resisting going on a tangent noises<br>
 02:55:46 - Space remained the aspirational goal<br>
@@ -3110,13 +3163,13 @@ Differing translation: <a href="https://www.knowableword.com/2019/06/06/what-doe
 <li>[27] Francis Galton <a href="https://en.wikipedia.org/wiki/Francis_Galton">https://en.wikipedia.org/wiki/Francis_Galton</a></li>
 <li>[28] Galton: Hereditary Genius <a href="https://en.wikipedia.org/wiki/Hereditary_Genius">https://en.wikipedia.org/wiki/Hereditary_Genius</a></li>
 <li>[29] Increasing IQ the Flynn effect <a href="https://en.wikipedia.org/wiki/Flynn_effect">https://en.wikipedia.org/wiki/Flynn_effect</a></li>
-<li>[30] The Galton Institute <a href="https://www.galtoninstitute.org.uk/,">https://www.galtoninstitute.org.uk/,</a> Eugenics Society Archive <a href="https://wellcomelibrary.org/collections/digital-collections/makers-of-modern-genetics/digitised-archives/eugenics-society/">https://wellcomelibrary.org/collections/digital-collections/makers-of-modern-genetics/digitised-archives/eugenics-society/</a></li>
+<li>[30] The Galton Institute <a href="https://www.galtoninstitute.org.uk/">https://www.galtoninstitute.org.uk/</a>, Eugenics Society Archive <a href="https://wellcomelibrary.org/collections/digital-collections/makers-of-modern-genetics/digitised-archives/eugenics-society/">https://wellcomelibrary.org/collections/digital-collections/makers-of-modern-genetics/digitised-archives/eugenics-society/</a></li>
 <li>[31] Feebleminded persons control bill <a href="https://en.wikipedia.org/wiki/Mental_Deficiency_Act_1913">https://en.wikipedia.org/wiki/Mental_Deficiency_Act_1913</a></li>
-<li>[32] Andrew Marr on Darwin&rsquo;s Dangerous Idea <a href="https://www.bbc.co.uk/programmes/b00j58p1,">https://www.bbc.co.uk/programmes/b00j58p1,</a> <a href="https://piermarton.info/darwins-dangerous-idea/">https://piermarton.info/darwins-dangerous-idea/</a></li>
+<li>[32] Andrew Marr on Darwin&rsquo;s Dangerous Idea <a href="https://www.bbc.co.uk/programmes/b00j58p1">https://www.bbc.co.uk/programmes/b00j58p1</a>, <a href="https://piermarton.info/darwins-dangerous-idea/">https://piermarton.info/darwins-dangerous-idea/</a></li>
 <li>[33] Forced sterilisation of Uyghur muslims in China <a href="https://www.theguardian.com/world/2020/sep/04/muslim-minority-teacher-50-tells-of-forced-sterilisation-in-xinjiang-china">https://www.theguardian.com/world/2020/sep/04/muslim-minority-teacher-50-tells-of-forced-sterilisation-in-xinjiang-china</a></li>
 <li>[34] Eugenics Record Office (<a href="https://en.wikipedia.org/wiki/Eugenics_Record_Office">https://en.wikipedia.org/wiki/Eugenics_Record_Office</a>) founded 1910 by Charles Davenport (<a href="https://en.wikipedia.org/wiki/Charles_Davenport">https://en.wikipedia.org/wiki/Charles_Davenport</a>) director Harry Laughlin (<a href="https://en.wikipedia.org/wiki/Harry_H._Laughlin">https://en.wikipedia.org/wiki/Harry_H._Laughlin</a>)</li>
 <li>[35] A History of Forced Sterilization in the United States <a href="https://nationalinterest.org/blog/reboot/history-forced-sterilization-united-states-167762">https://nationalinterest.org/blog/reboot/history-forced-sterilization-united-states-167762</a></li>
-<li>[36] Nazi eugenics <a href="https://en.wikipedia.org/wiki/Nazi_eugenics">https://en.wikipedia.org/wiki/Nazi_eugenics</a> Fritz Lentz <a href="https://en.wikipedia.org/wiki/Fritz_Lenz,">https://en.wikipedia.org/wiki/Fritz_Lenz,</a> Eugen Fisher <a href="https://en.wikipedia.org/wiki/Eugen_Fischer">https://en.wikipedia.org/wiki/Eugen_Fischer</a></li>
+<li>[36] Nazi eugenics <a href="https://en.wikipedia.org/wiki/Nazi_eugenics">https://en.wikipedia.org/wiki/Nazi_eugenics</a> Fritz Lentz <a href="https://en.wikipedia.org/wiki/Fritz_Lenz">https://en.wikipedia.org/wiki/Fritz_Lenz</a>, Eugen Fisher <a href="https://en.wikipedia.org/wiki/Eugen_Fischer">https://en.wikipedia.org/wiki/Eugen_Fischer</a></li>
 <li>[37] 1933 Law for the Prevention of Hereditarily Diseased Offspring <a href="https://en.wikipedia.org/wiki/Law_for_the_Prevention_of_Hereditarily_Diseased_Offspring">https://en.wikipedia.org/wiki/Law_for_the_Prevention_of_Hereditarily_Diseased_Offspring</a></li>
 <li>[38] Lebensborn <a href="https://en.wikipedia.org/wiki/Lebensborn">https://en.wikipedia.org/wiki/Lebensborn</a></li>
 <li>[39] 1936 Nuremberg Laws <a href="https://en.wikipedia.org/wiki/Nuremberg_Laws">https://en.wikipedia.org/wiki/Nuremberg_Laws</a></li>
@@ -3135,7 +3188,7 @@ Differing translation: <a href="https://www.knowableword.com/2019/06/06/what-doe
 <li>[52] Print out of the human genome at the Wellcome collection in London <a href="https://askabiologist.asu.edu/sites/default/files/resources/articles/genome_whats_a/Genome-bookcase.jpg">https://askabiologist.asu.edu/sites/default/files/resources/articles/genome_whats_a/Genome-bookcase.jpg</a></li>
 <li>[53] UCSC genome browser <a href="https://www.genome.ucsc.edu/">https://www.genome.ucsc.edu/</a></li>
 <li>[54] ensembl genome browser <a href="http://www.ensembl.org/index.html?redirect=no">http://www.ensembl.org/index.html?redirect=no</a></li>
-<li>[55] Genetic match making <a href="https://en.wikipedia.org/wiki/Genetic_matchmaking,">https://en.wikipedia.org/wiki/Genetic_matchmaking,</a> in fiction &lsquo;the one&rsquo; <a href="https://en.wikipedia.org/wiki/The_One_(TV_series)">https://en.wikipedia.org/wiki/The_One_(TV_series)</a></li>
+<li>[55] Genetic match making <a href="https://en.wikipedia.org/wiki/Genetic_matchmaking">https://en.wikipedia.org/wiki/Genetic_matchmaking</a>, in fiction &rsquo;the one&rsquo; <a href="https://en.wikipedia.org/wiki/The_One_(TV_series)">https://en.wikipedia.org/wiki/The_One_(TV_series)</a></li>
 <li>[56] Somatic gene therapy <a href="https://en.wikipedia.org/wiki/Gene_therapy#Somatic">https://en.wikipedia.org/wiki/Gene_therapy#Somatic</a></li>
 <li>[57] CRISPR cas9 in gene editing <a href="https://en.wikipedia.org/wiki/CRISPR">https://en.wikipedia.org/wiki/CRISPR</a></li>
 <li>[58] Discovery of CIRSPR Francisco Mojica <a href="https://en.wikipedia.org/wiki/Francisco_Mojica">https://en.wikipedia.org/wiki/Francisco_Mojica</a></li>
@@ -3274,7 +3327,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 01:09:50 - Chapter 8 predictions<br>
 01:10:45 - Chapter 8 summary begins<br>
 01:11:49 - Roasted turtles [1]<br>
-01:14:08 - &ldquo;Come Gabe, what do you got?&quot;<br>
+01:14:08 - &ldquo;Come Gabe, what do you got?&rdquo;<br>
 01:19:10 - Chapter 8 ends<br>
 01:20:40 - Why we like Lilith<br>
 01:29:03 - Chapter 9 predictions<br>
@@ -3315,7 +3368,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:03:38 - Chapter 5 summary begins<br>
 00:04:47 - Oxbow lake formation [1]<br>
 00:06:40 - Gabriel having issue with Lilith&rsquo;s leading<br>
-00:08:08 - Obligatory hatin' on Kahguyaht<br>
+00:08:08 - Obligatory hatin&rsquo; on Kahguyaht<br>
 00:10:08 - Pitching a tent when it is dark and wet is not fun<br>
 00:12:21 - Ants in Poland - Fromica rufa [2]<br>
 00:13:27 - Army Ants marching through [3 - 5]<br>
@@ -3502,7 +3555,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 01:16:12 - AWS outage stops &lsquo;smart&rsquo; vacuums and doorbells from working [32]<br>
 01:19:00 - Dystopian uses of facial/gait recognition - The vast underworlds of cyberpunk are implausible in a surveilance panopticon as complete as the ones we are building<br>
 01:25:26 - The relationship between digital rights and rights in &lsquo;meatspace&rsquo; when we increasingly live online [33]<br>
-01:26:58 - The false trade-off between security and privacy<br>
+01:26:58 - The false trade-off between security and privacy <br>
 01:27:12 - Encryption backdoors are a terrible idea that don&rsquo;t work<br>
 01:27:58 - The failure of dragnet surveillance<br>
 01:28:36 - The new online arena for fights over civil liberties<br>
@@ -3541,7 +3594,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 <li>[11] Cryptographt as a munition <a href="https://en.wikipedia.org/wiki/Cypherpunk#Early_discussion_of_online_privacy">https://en.wikipedia.org/wiki/Cypherpunk#Early_discussion_of_online_privacy</a></li>
 <li>[12] Corporate Alignment <a href="https://www.lesswrong.com/posts/6wvqbcCWB6rdkW4nu/agi-alignment-should-solve-corporate-alignment">https://www.lesswrong.com/posts/6wvqbcCWB6rdkW4nu/agi-alignment-should-solve-corporate-alignment</a></li>
 <li>[13] Relevant degrees of freedom for markets <a href="https://en.wikipedia.org/wiki/Perfect_competition">https://en.wikipedia.org/wiki/Perfect_competition</a></li>
-<li>[14] Optogenetics <a href="https://en.wikipedia.org/wiki/Optogenetics,">https://en.wikipedia.org/wiki/Optogenetics,</a> <a href="https://www.youtube.com/watch?v=D_9rdj4SJrc">https://www.youtube.com/watch?v=D_9rdj4SJrc</a></li>
+<li>[14] Optogenetics <a href="https://en.wikipedia.org/wiki/Optogenetics">https://en.wikipedia.org/wiki/Optogenetics</a>, <a href="https://www.youtube.com/watch?v=D_9rdj4SJrc">https://www.youtube.com/watch?v=D_9rdj4SJrc</a></li>
 <li>[15] Neuralink <a href="https://en.wikipedia.org/wiki/Neuralink">https://en.wikipedia.org/wiki/Neuralink</a></li>
 <li>[16] DNA <a href="https://xkcd.com/1605/">https://xkcd.com/1605/</a></li>
 <li>[17] Kurzgesagt mind upload <a href="https://www.youtube.com/watch?v=4b33NTAuF5E">https://www.youtube.com/watch?v=4b33NTAuF5E</a></li>
@@ -3563,10 +3616,10 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 <li>[33] IRS buys data <a href="https://reclaimthenet.org/irs-accused-of-buying-smartphone-data/">https://reclaimthenet.org/irs-accused-of-buying-smartphone-data/</a></li>
 <li>[34] &lsquo;polis&rsquo; <a href="https://pol.is/home">https://pol.is/home</a> use in Taiwan and Audrey Tang <a href="https://www.humanetech.com/podcast/23-digital-democracy-is-within-reach">https://www.humanetech.com/podcast/23-digital-democracy-is-within-reach</a></li>
 <li>[35] Vote for policies <a href="https://voteforpolicies.org.uk/">https://voteforpolicies.org.uk/</a></li>
-<li>[36] Estonia <a href="https://www.foreigner.fi/articulo/work-and-study/estonia-takes-over-european-leader-of-the-pisa-report/20191203173125003676.html,">https://www.foreigner.fi/articulo/work-and-study/estonia-takes-over-european-leader-of-the-pisa-report/20191203173125003676.html,</a> Finland <a href="https://www.weforum.org/agenda/2019/05/how-finland-is-fighting-fake-news-in-the-classroom/,">https://www.weforum.org/agenda/2019/05/how-finland-is-fighting-fake-news-in-the-classroom/,</a> Taiwan &lsquo;humor over rumor&rsquo; <a href="https://qz.com/1863931/taiwan-is-using-humor-to-quash-coronavirus-fake-news/">https://qz.com/1863931/taiwan-is-using-humor-to-quash-coronavirus-fake-news/</a></li>
+<li>[36] Estonia <a href="https://www.foreigner.fi/articulo/work-and-study/estonia-takes-over-european-leader-of-the-pisa-report/20191203173125003676.html">https://www.foreigner.fi/articulo/work-and-study/estonia-takes-over-european-leader-of-the-pisa-report/20191203173125003676.html</a>, Finland <a href="https://www.weforum.org/agenda/2019/05/how-finland-is-fighting-fake-news-in-the-classroom/">https://www.weforum.org/agenda/2019/05/how-finland-is-fighting-fake-news-in-the-classroom/</a>, Taiwan &lsquo;humor over rumor&rsquo; <a href="https://qz.com/1863931/taiwan-is-using-humor-to-quash-coronavirus-fake-news/">https://qz.com/1863931/taiwan-is-using-humor-to-quash-coronavirus-fake-news/</a></li>
 <li>[37] Hacking Darwin, Jamie Metzl <a href="https://www.goodreads.com/book/show/40597264-hacking-darwin">https://www.goodreads.com/book/show/40597264-hacking-darwin</a></li>
 <li>[38] Preimplantation genetic diagnosis <a href="https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis">https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis</a></li>
-<li>[39] Adult gene therapies, Retina treatment <a href="https://en.wikipedia.org/wiki/Gene_therapy_of_the_human_retina,">https://en.wikipedia.org/wiki/Gene_therapy_of_the_human_retina,</a> Sickle cell treatment <a href="https://www.nih.gov/news-events/nih-research-matters/stem-cell-transplant-reverses-sickle-cell-disease-adults">https://www.nih.gov/news-events/nih-research-matters/stem-cell-transplant-reverses-sickle-cell-disease-adults</a></li>
+<li>[39] Adult gene therapies, Retina treatment <a href="https://en.wikipedia.org/wiki/Gene_therapy_of_the_human_retina">https://en.wikipedia.org/wiki/Gene_therapy_of_the_human_retina</a>, Sickle cell treatment <a href="https://www.nih.gov/news-events/nih-research-matters/stem-cell-transplant-reverses-sickle-cell-disease-adults">https://www.nih.gov/news-events/nih-research-matters/stem-cell-transplant-reverses-sickle-cell-disease-adults</a></li>
 <li>[40] He Jiankui <a href="https://en.wikipedia.org/wiki/He_Jiankui">https://en.wikipedia.org/wiki/He_Jiankui</a></li>
 <li>[41] GATTACA <a href="https://en.wikipedia.org/wiki/Gattaca">https://en.wikipedia.org/wiki/Gattaca</a></li>
 </ul>
@@ -3806,7 +3859,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:28:56 - &ldquo;Orangutans look like loose sacks&rdquo; - Richard.<br>
 00:30:25 - Back to Chapter 11 and conversation with Ahajas<br>
 00:31:55 - The story repeats&hellip;<br>
-00:33:26 - What is the actual attitude from her Oankali family towards Lilith<br>
+00:33:26 - What is the actual attitude from her Oankali family towards Lilith <br>
 00:35:55 - Chapter 11 summary ends<br>
 00:36:31 - Chapter 12 predictions<br>
 00:38:10 - We discuss again the problem with the Oankali plan on making Lilith the leader<br>
@@ -4093,7 +4146,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:43:10 - How do we feel about aliens modifying us to give us super-strength, etc.<br>
 00:49:10 - The spicy gossip from Lilith&rsquo;s life<br>
 00:50:08 - Chapter 5 summary ends<br>
-00:50:21 - Chapter 6 (and future chapters) predictions<br>
+00:50:21 - Chapter 6 (and future chapters) predictions <br>
 00:53:11 - What&rsquo;s the deal with Tate?<br>
 00:55:22 - How do you think would you react to the Oankali?<br>
 01:00:50 - How do we feel about human-alien hybrid children?<br>
@@ -4199,7 +4252,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:06:23 - Chapter 1 introduction begins<br>
 00:07:00 - &ldquo;Giant fart&rdquo; transport [1, 2]<br>
 00:11:21 - Back to Chapter 1<br>
-00:12:10 - &ldquo;Earthrise&rdquo; and Mars pictures [3, 4]<br>
+00:12:10 - &ldquo;Earthrise&rdquo; and Mars pictures [3, 4] <br>
 00:15:00 - Lilith&rsquo;s new abilities<br>
 00:17:00 - The new room Lilith is stuck in<br>
 00:19:54 - Lilith&rsquo;s new mission<br>
@@ -4264,7 +4317,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
         <itunes:summary>In Episode 9, Richard and Michael finish the part II Family of the book and discuss range of topics from animal and children&#39;s rights, to biohacking and gene therapy.</itunes:summary>
         <description>In Episode 9, Richard and Michael finish the part II Family of the book and discuss range of topics from animal and children&#39;s rights, to biohacking and gene therapy.</description>
         <googleplay:description>In Episode 9, Richard and Michael finish the part II Family of the book and discuss range of topics from animal and children&#39;s rights, to biohacking and gene therapy.</googleplay:description>
-        <content:encoded><![CDATA[<p>In Episode 9, Richard and Michael finish the part 2: Family of the book and discuss range of topics from animal and children&rsquo;s' rights, to biohacking and gene therapy.</p>
+        <content:encoded><![CDATA[<p>In Episode 9, Richard and Michael finish the part 2: Family of the book and discuss range of topics from animal and children&rsquo;s&rsquo; rights, to biohacking and gene therapy.</p>
 <h4 id="timestamps">Timestamps</h4>
 <p>00:00:31 - Intro<br>
 00:01:53 - Chapter 11 predictions<br>
@@ -4286,11 +4339,11 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:41:05 - Back to Chapter 12<br>
 00:43:00 - &ldquo;Locked-in&rdquo; syndrome and conversation with coma patients [15 - 17]<br>
 00:48:50 - Back to Chapter 12 (again)<br>
-00:53:30 - If you smell an ooloi, you will die Lilith&hellip; [18]<br>
+00:53:30 - If you smell an ooloi, you will die Lilith&hellip; [18] <br>
 01:00:40 - Chapter 12 continues<br>
 01:02:30 - End of Chapter 12 and part 2: Family of the book<br>
 01:04:00 - Discussion on the gene therapy in somatic and germ line [19]<br>
-01:09:02 - Discussion on super humans [20, 21]<br>
+01:09:02 - Discussion on super humans [20, 21] <br>
 01:21:24 - Part 3: Nursery, Chapter 1 predictions<br>
 01:24:40 - Outro</p>
 <h4 id="references">References</h4>
@@ -4427,7 +4480,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
         <content:encoded><![CDATA[<p>In Episode 7, Richard and Michael discuss the messages woven by Octavia Butler in the story leading to a conversation on serious topics such as gender and fragility of our society.</p>
 <h4 id="timestamps">Timestamps</h4>
 <p>00:00:32 - Intro<br>
-00:00:50 - Warning<br>
+00:00:50 - Warning <br>
 00:01:15 - Chapter 7 predictions<br>
 00:02:10 - Chapter 7 introduction<br>
 00:03:10 - Discussion on the biological differences between humans and Oankali [1]<br>
@@ -4799,42 +4852,42 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
         <googleplay:description>In Episode 3, Richard and Michael discuss Chapters 4 and 5, which leads to a nearly two-hour discussion on culture and regenerative medicine.</googleplay:description>
         <content:encoded><![CDATA[<p>In Episode 3, Richard and Michael discuss Chapters 4 and 5, which leads to a nearly two-hour discussion on culture and regenerative medicine.</p>
 <h4 id="timestamps">Timestamps</h4>
-<p>00:00:32 – Episode start<br>
-00:01:02 – Predictions<br>
-00:01:52 – Chapter 4 introduction<br>
-00:04:29 – Concentration of oxygen vs size of organisms [1]<br>
-00:06:57 – End of Chapter 4 introduction<br>
-00:07:10 – Chapter 5 predictions<br>
-00:08:20 – Chapter 5 introduction<br>
-00:11:10 – Carcinogens [2, 3]<br>
-00:13:55 – Botulinum toxin [4]<br>
-00:14:45 – Foods that prevent cancer [5]<br>
-00:18:30 – Manuka honey – a mind-blowing healing item [6]<br>
-00:20:55 – Continuation on Chapter 5 introduction<br>
-00:25:25 – Discussion on trans-generational memory of Oankali<br>
-00:27:36 – Discussion on data storage using DNA [7, 8]<br>
-00:31:28 – Continuation on Chapter 5 introduction…<br>
-00:39:10 – End of Chapter 5 introduction<br>
-00:39:40 – Discussion on the ship <br>
-00:41:30 – Richard tells us what is needed for life to begin [9, 10] and discussion on energy storage<br>
-00:44:11 – Radiation-eating bacteria [11 – 14]<br>
-00:47:00 – Discussion on radiation [15 – 16]<br>
-00:49:55 – Discussion on the culture of Oankali and their reproduction modes<br>
-00:55:10 – Intelligence vs Hierarchy<br>
-00:58:06 – Collective consciousness (singularity) [17]<br>
-00:59:20 – Individual autonomy and discussion on Lilith’s feeling on the cross-breeding<br>
-01:00:05 – The big reveal – what is the Trade of Oankali and discussion on hierarchy, power and slavery [18, 19]<br>
-01:08:20 – Michael’s gaming nerdiness leaks out – references to StarCraft and Warhammer 40k<br>
-01:09:14 – Colonialism [20]<br>
-01:10:14 – Discussion on collaborationism<br>
-01:14:14 – Is Michael on a way to spoil himself the whole book?<br>
-01:15:50 – Discussion on the Oankali – the Trade and their need to do it<br>
-01:20:00 – Problems with inbreeding [21, 22]<br>
-01:24:50 – Ooloi and the cancer – is cancer a good example of regeneration? [23 – 29]<br>
-01:27:45 – Teratomas [30]<br>
-01:29:22 – Induced Pluripotent Stem Cells [31] and further discussion on regeneration<br>
-01:37:13 – Why Ph.D. is hard… (or research in general)<br>
-01:43:17 – PREDICTIONS<br>
+<p>00:00:32 – Episode start <br>
+00:01:02 – Predictions <br>
+00:01:52 – Chapter 4 introduction <br>
+00:04:29 – Concentration of oxygen vs size of organisms [1] <br>
+00:06:57 – End of Chapter 4 introduction <br>
+00:07:10 – Chapter 5 predictions <br>
+00:08:20 – Chapter 5 introduction <br>
+00:11:10 – Carcinogens [2, 3] <br>
+00:13:55 – Botulinum toxin [4] <br>
+00:14:45 – Foods that prevent cancer [5] <br>
+00:18:30 – Manuka honey – a mind-blowing healing item [6] <br>
+00:20:55 – Continuation on Chapter 5 introduction <br>
+00:25:25 – Discussion on trans-generational memory of Oankali <br>
+00:27:36 – Discussion on data storage using DNA [7, 8] <br>
+00:31:28 – Continuation on Chapter 5 introduction… <br>
+00:39:10 – End of Chapter 5 introduction <br>
+00:39:40 – Discussion on the ship  <br>
+00:41:30 – Richard tells us what is needed for life to begin [9, 10] and discussion on energy storage <br>
+00:44:11 – Radiation-eating bacteria [11 – 14] <br>
+00:47:00 – Discussion on radiation [15 – 16] <br>
+00:49:55 – Discussion on the culture of Oankali and their reproduction modes <br>
+00:55:10 – Intelligence vs Hierarchy <br>
+00:58:06 – Collective consciousness (singularity) [17] <br>
+00:59:20 – Individual autonomy and discussion on Lilith’s feeling on the cross-breeding <br>
+01:00:05 – The big reveal – what is the Trade of Oankali and discussion on hierarchy, power and slavery [18, 19] <br>
+01:08:20 – Michael’s gaming nerdiness leaks out – references to StarCraft and Warhammer 40k <br>
+01:09:14 – Colonialism [20] <br>
+01:10:14 – Discussion on collaborationism <br>
+01:14:14 – Is Michael on a way to spoil himself the whole book? <br>
+01:15:50 – Discussion on the Oankali – the Trade and their need to do it <br>
+01:20:00 – Problems with inbreeding [21, 22] <br>
+01:24:50 – Ooloi and the cancer – is cancer a good example of regeneration? [23 – 29] <br>
+01:27:45 – Teratomas [30] <br>
+01:29:22 – Induced Pluripotent Stem Cells [31] and further discussion on regeneration <br>
+01:37:13 – Why Ph.D. is hard… (or research in general) <br>
+01:43:17 – PREDICTIONS <br>
 01:44:33 – Outro \</p>
 <h4 id="references">References</h4>
 <p>Size of organisms:</p>
@@ -4968,7 +5021,7 @@ Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/
 00:37:22 – Uncanny Valley [16]<br>
 00:38:06 – Oankali finding human genetic structure disturbing – discussion on why?<br>
 00:38:30 – Continuation on introduction to the chapter 3 – finale<br>
-00:39:30 – Discussion on the ooloi ability to sense genome<br>
+00:39:30 – Discussion on the ooloi ability to sense genome <br>
 00:43:35 – What is DNA [17]<br>
 00:49:50 – Genomic sequencing explained [18 – 20]<br>
 00:53:39 – How would the Oankali perceive the genomic sequence?<br>
