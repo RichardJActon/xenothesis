@@ -46,7 +46,7 @@ In episode 67, Richard and Michael discuss another rare human genetic disorder, 
 00:24:54 - Jodah's motives\
 00:27:39 - Are YOU of beekeeping age?\
 00:33:00 - End of chapter 8\
-00:37:17 - Chapter 9 prediction\
+00:33:17 - Chapter 9 prediction\
 00:33:15 - Outro
 
 #### References
