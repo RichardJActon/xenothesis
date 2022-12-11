@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Dec 2022 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,64 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 68 Xenogenesis - 3-Imago: III: Imago Chapters 9 &amp; 10</title>
+          <link>https://www.xenothesis.com/68_xenogenesis_3-imago_imago_ch9-10/</link>
+          <pubDate>Sun, 11 Dec 2022 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/68_Xenogenesis_3-Imago_Imago_ch9-10.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>68</itunes:episode>
+          
+        <itunes:summary>In episode 68, Richard and Michael discuss how our eyes adjust to darkness and how much more powerful the construct Oankali are in creating an aphrodisiac.</itunes:summary>
+        <description>In episode 68, Richard and Michael discuss how our eyes adjust to darkness and how much more powerful the construct Oankali are in creating an aphrodisiac.</description>
+        <googleplay:description>In episode 68, Richard and Michael discuss how our eyes adjust to darkness and how much more powerful the construct Oankali are in creating an aphrodisiac.</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 68, Richard and Michael discuss how our eyes adjust to darkness and how much more powerful the construct Oankali are in creating an aphrodisiac.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:32 - Welcome<br>
+00:02:14 - Chapter 9 predictions<br>
+00:02:46 - Chapter 9 begins<br>
+00:05:58 - Darkvision [1 - 5]<br>
+00:15:44 - Back to chapter 9<br>
+00:18:18 - &ldquo;You know we won&rsquo;t&rdquo;<br>
+00:19:34 - Chapter 10 prediction<br>
+00:22:12 - Chapter 10 summary<br>
+00:23:11 - Constructs are much more powerful<br>
+00:25:12 - Back to Chapter 10<br>
+00:26:31 - Brave New World and 1984<br>
+00:28:46 - Santons and his mouth<br>
+00:30:33 - End of chapter 10<br>
+00:31:28 - Thermal vision<br>
+00:34:55 - Chapter 11 predictions<br>
+00:36:31 - Outro</p>
+<h4 id="references">References</h4>
+<p>Adaptation to darkness:</p>
+<ul>
+<li>[1] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2140394/pdf/499.pdf">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2140394/pdf/499.pdf</a> - Review article from 1920 investigating the adaptation of our eyes to darkness.</li>
+<li>[2] <a href="https://en.wikipedia.org/wiki/Human_eye#Components">https://en.wikipedia.org/wiki/Human_eye#Components</a> - Wiki article about the human eye.</li>
+<li>[3] <a href="https://en.wikipedia.org/wiki/Visual_phototransduction">https://en.wikipedia.org/wiki/Visual_phototransduction</a> - Wiki article explaining the change in rhodopsin as well as the cyclic GMP involvement in amplification of the cycle.</li>
+</ul>
+<p>Carrots and WWII propaganda:</p>
+<ul>
+<li>[4] <a href="https://www.smithsonianmag.com/arts-culture/a-wwii-propaganda-campaign-popularized-the-myth-that-carrots-help-you-see-in-the-dark-28812484/">https://www.smithsonianmag.com/arts-culture/a-wwii-propaganda-campaign-popularized-the-myth-that-carrots-help-you-see-in-the-dark-28812484/</a> - A very nice article about the whole development of the propaganda.</li>
+</ul>
+<p>Vitamin A and dark vision:</p>
+<ul>
+<li>[5] <a href="https://academic.oup.com/ajcn/article/72/4/1004/4729452">https://academic.oup.com/ajcn/article/72/4/1004/4729452</a> - An article about how Vitamin A and beta-carotene increases responsiveness to dark.</li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/68_Xenogenesis_3-Imago_Imago_ch9-10_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/68_Xenogenesis_3-Imago_Imago_ch9-10_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/68_Xenogenesis_3-Imago_Imago_ch9-10.mp3" length="62110016" type="audio/mpeg" /><itunes:duration>00:37:53</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 67 Xenogenesis - 3-Imago: III: Imago Chapters 7 &amp; 8</title>
           <link>https://www.xenothesis.com/67_xenogenesis_3-imago_imago_ch7-8/</link>
@@ -78,7 +136,7 @@
 00:24:54 - Jodah&rsquo;s motives<br>
 00:27:39 - Are YOU of beekeeping age?<br>
 00:33:00 - End of chapter 8<br>
-00:37:17 - Chapter 9 prediction<br>
+00:33:17 - Chapter 9 prediction<br>
 00:33:15 - Outro</p>
 <h4 id="references">References</h4>
 <p>Octavia&rsquo;s Visit to Machu Pichu:</p>
