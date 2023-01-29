@@ -14,7 +14,7 @@
     <atom:link href="https://www.xenothesis.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.xenothesis.com/</link>
     <description>The Xenothesis podcast features review, discussion and analysis of Dawn book 1 of Octavia E. Butler&#39;s, Xenogenesis trilogy AKA Lilith&#39;s Brood</description>
-    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-uk</language>
@@ -40,6 +40,57 @@
     <itunes:category text="Arts">
       <itunes:category text="Books" /></itunes:category><itunes:explicit>true</itunes:explicit>
     <googleplay:explicit>true</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Episode: 70 Xenogenesis - 3-Imago: III: Imago Chapters 13 &amp; 14</title>
+          <link>https://www.xenothesis.com/70_xenogenesis_3-imago_imago_ch13-14/</link>
+          <pubDate>Sun, 29 Jan 2023 00:00:00 +0000 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://xenothesis.eu-central-1.linodeobjects.com/70_Xenogenesis_3-Imago_Imago_ch13-14.mp3</guid>
+          <itunes:author>
+            
+            
+              Richard J. Acton 
+              
+                    and Michael Glinka</itunes:author>
+          
+          <itunes:episode>70</itunes:episode>
+          
+        <itunes:summary>In episode 68, Richard and Michael, after long New Year break, go off tangent about adaptations of various series.</itunes:summary>
+        <description>In episode 68, Richard and Michael, after long New Year break, go off tangent about adaptations of various series.</description>
+        <googleplay:description>In episode 68, Richard and Michael, after long New Year break, go off tangent about adaptations of various series.</googleplay:description>
+        <content:encoded><![CDATA[<p>In episode 68, Richard and Michael, after long New Year break, go off tangent about adaptations of various series.</p>
+<h4 id="timestamps">Timestamps</h4>
+<p>00:00:00 - Start<br>
+00:00:32 - Welcome<br>
+00:02:19 - Chapter 13 predictions<br>
+00:04:21 - Chapter 13<br>
+00:07:54 - Neocolonalism [1]<br>
+00:16:05 - Chapter 14 predictions<br>
+00:17:43 - Chapter 14<br>
+00:21:58 - Colony and choices of humans<br>
+00:27:00 - Back to chapter 14<br>
+00:29:26 - End of chapter and Jodah&rsquo;s enhanced attractiveness [2] <br>
+00:33:37 - Chapter 15 predictions<br>
+00:39:09 - Kindred (SPOILERS) and rant about adaptations<br>
+00:53:01 - Watch movies first, then read<br>
+00:55:26 - Outro</p>
+<h4 id="references">References</h4>
+<p>Neocolonalism:</p>
+<ul>
+<li>[1] <a href="https://en.wikipedia.org/wiki/Neocolonialism">https://en.wikipedia.org/wiki/Neocolonialism</a> - What is Neocolonalism?</li>
+</ul>
+<p>Attractiveness, grades and bias:</p>
+<ul>
+<li>[2] <a href="https://www.sciencedirect.com/science/article/pii/S016517652200283X">https://www.sciencedirect.com/science/article/pii/S016517652200283X</a> - Article investigating and showing that more attractive students got worse grades if the lessons were online.</li>
+<li>[3] <a href="https://www.beapplied.com/post/the-truth-about-name-blind-recruitment-heres-what-the-science-says">https://www.beapplied.com/post/the-truth-about-name-blind-recruitment-heres-what-the-science-says</a> - Short article about name bias.</li>
+<li>[4] <a href="https://iopscience.iop.org/article/10.1088/1538-3873/ab6ce0">https://iopscience.iop.org/article/10.1088/1538-3873/ab6ce0</a> - Research article about name bias.</li>
+</ul>
+<hr>
+<p>Intro: <a href="https://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738">L&rsquo;Etoile danse (Pt. 1)</a> by Meydan
+Outro: <a href="https://freemusicarchive.org/music/Spinning_Ratio/Long_Way_Home/Long_Way_Home">Long Way Home</a> by Spinning Ratio</p>
+]]></content:encoded><itunes:image href="https://www.xenothesis.com/img/episode/70_Xenogenesis_3-Imago_Imago_ch13-14_thumb.png"></itunes:image>
+          <googleplay:image href="https://www.xenothesis.com/img/episode/70_Xenogenesis_3-Imago_Imago_ch13-14_thumb.png"></googleplay:image><enclosure url="https://xenothesis.eu-central-1.linodeobjects.com/70_Xenogenesis_3-Imago_Imago_ch13-14.mp3" length="97781876" type="audio/mpeg" /><itunes:duration>00:56:56</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>Episode: 69 Xenogenesis - 3-Imago: III: Imago Chapters 11 &amp; 12</title>
           <link>https://www.xenothesis.com/69_xenogenesis_3-imago_imago_ch11-12/</link>
