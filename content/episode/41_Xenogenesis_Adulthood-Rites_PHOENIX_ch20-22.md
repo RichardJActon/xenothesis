@@ -16,7 +16,7 @@ images:
 - img/episode/41_Xenogenesis_Adulthood-Rites_PHOENIX_ch20-22_thumb.png
 news_keywords: []
 podcast_bytes: 'NA'
-podcast_duration: ''
+podcast_duration: '01:04:47'
 #podcast_file: 41_Xenogenesis_Adulthood-Rites_PHOENIX_ch20-22/41_Xenogenesis_Adulthood-Rites_PHOENIX_ch20-22.mp3
 podcast_file: 41_Xenogenesis_Adulthood-Rites_Phoenix_ch20-22.mp3
 tags: []
