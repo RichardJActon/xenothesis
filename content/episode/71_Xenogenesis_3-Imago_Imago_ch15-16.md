@@ -24,7 +24,7 @@ youtube: WvdpoRUvxDk
 title: 'Episode: 71 Xenogenesis - 3-Imago: III: Imago Chapters 15 & 16'
 ---
 
-In episode 68, Richard and Michael reach the finale of the Xenogenesis trilogy. 
+In episode 71, Richard and Michael reach the finale of the Xenogenesis trilogy. 
 
 #### Timestamps
 
